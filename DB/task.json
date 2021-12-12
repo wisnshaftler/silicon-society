@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "609948788febc41f68155a87"
+  },
+  "project_id": "60845d2a4105552532420bab",
+  "name": "SamppleTask1",
+  "method": "0",
+  "data": "Sample Task data - Task 1",
+  "status": "suspended",
+  "finishedby": "",
+  "result": "Task Complete",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-05-10T14:51:36.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "609953135bb6a624f8182b6a"
+  },
+  "project_id": "60845d2a4105552532420bab",
+  "name": "TestingTask2",
+  "method": "0",
+  "data": "Testing task 2",
+  "status": "added",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451265",
+  "addedTime": {
+    "$date": "2021-05-10T15:36:51.065Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c7a01b3971e0358c524972"
+  },
+  "project_id": "60c4c684cb60e4160043cecb",
+  "name": "SampleTask2",
+  "method": "0",
+  "data": "Sample Task Data 2",
+  "status": "complete",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-06-14T18:29:47.795Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c7a0303971e0358c524973"
+  },
+  "project_id": "60c4c684cb60e4160043cecb",
+  "name": "abc task 2",
+  "method": "0",
+  "data": "ajapal task 2",
+  "status": "complete",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-06-14T18:30:08.338Z"
+  }
+},{
+  "_id": {
+    "$oid": "60f1ed7b9e166f17b495242d"
+  },
+  "project_id": "60c4c684cb60e4160043cecb",
+  "name": "TargetDeviceSampleTask",
+  "method": "2",
+  "data": "Smple task data",
+  "status": "suspend",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "6087c8a2cec1d85421a72f59",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-07-16T20:35:07.993Z"
+  }
+},{
+  "_id": {
+    "$oid": "60f1f1215e5a3322b482b513"
+  },
+  "project_id": "60c4c684cb60e4160043cecb",
+  "name": "multiple_task",
+  "method": "2",
+  "data": "Sample task data body",
+  "status": "suspend",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "6087c8a2cec1d85421a72f59,6087cbaacec1d85421a72f5a",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-07-16T20:50:41.536Z"
+  }
+},{
+  "_id": {
+    "$oid": "612345a0a28b853ad0c1eb85"
+  },
+  "project_id": "612341bf71c3354900c4d498",
+  "name": "testing API task",
+  "method": "0",
+  "data": "from:ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb,to:2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6,amount:10",
+  "status": "complete",
+  "targetDevice": "",
+  "createdBy": "6120cc5f4e1f3f21d039ddb4",
+  "addedTime": {
+    "$date": "2021-08-23T06:52:16.502Z"
+  },
+  "finishedby": "61274e6e73a8192e5c061502",
+  "result": "g+wVAyRrx8FLlgfivajQrkI/Ju4344JZiWxxn3W8wXGkcRPYD25ClYSlk2CW0fBwXOQbuQqkqVO6WupfWoeFaDqe5KBkuUCUV2w/Zlq3YVg6nuSgZLlAlFdsP2Zat2FY"
+},{
+  "_id": {
+    "$oid": "6193acd33870643bf4f1d08f"
+  },
+  "project_id": "60859b00fdb89e495a9b6598",
+  "name": "TestingTaskName",
+  "method": "0",
+  "data": "TaskData",
+  "status": "complete",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-11-16T13:06:27.941Z"
+  }
+},{
+  "_id": {
+    "$oid": "6193d2e96f333119587b0776"
+  },
+  "project_id": "60845d2a4105552532420bab",
+  "name": "SampleTask",
+  "method": "0",
+  "data": "Sample Task Data",
+  "status": "suspend",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-11-16T15:48:57.387Z"
+  }
+},{
+  "_id": {
+    "$oid": "61953b0f111e1d23d4a26596"
+  },
+  "project_id": "60845d2a4105552532420bab",
+  "name": "UpdateTask",
+  "method": "0",
+  "data": "SampleTask",
+  "status": "added",
+  "finishedby": "",
+  "result": "",
+  "targetDevice": "",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "addedTime": {
+    "$date": "2021-11-17T17:25:35.623Z"
+  }
+}]

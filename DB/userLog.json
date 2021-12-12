@@ -1,0 +1,668 @@
+[{
+  "_id": {
+    "$oid": "6120cc5f4e1f3f21d039ddb5"
+  },
+  "notification": "New user created",
+  "date": {
+    "$date": "2021-08-21T09:50:23.039Z"
+  },
+  "data": {
+    "name": "adsdsfsd",
+    "email": "wead@rea.com",
+    "password": "5a570ba33ab292a1553e4d0ca3e28a1ddb961b79d0952e87880c3ef41c1e6fb1",
+    "createDate": "2021-08-21T09:50:23.024Z",
+    "status": "active",
+    "verificationToken": "48ac8e3332fd4bcbd8b8fbb86c89e0b850cdaad648f46e94cbdd7db68846de0d",
+    "_id": {
+      "$oid": "6120cc5f4e1f3f21d039ddb4"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6193aa78a554b712ac811202"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T12:56:24.974Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193abb66d9b3c14646f8c12"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T13:01:42.117Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193ac1b31628a391cd7b7a5"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T13:03:23.839Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193ada68d7b9a1784436136"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewd Project",
+  "date": {
+    "$date": "2021-11-16T13:09:58.046Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b00fdb89e495a9b6598"
+  }
+},{
+  "_id": {
+    "$oid": "6193adac8d7b9a1784436137"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewd Project",
+  "date": {
+    "$date": "2021-11-16T13:10:04.714Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b13fdb89e495a9b6599"
+  }
+},{
+  "_id": {
+    "$oid": "6193adb18d7b9a1784436138"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewd Project",
+  "date": {
+    "$date": "2021-11-16T13:10:09.791Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b00fdb89e495a9b6598"
+  }
+},{
+  "_id": {
+    "$oid": "6193adcb8d7b9a1784436139"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Updated Task",
+  "date": {
+    "$date": "2021-11-16T13:10:35.980Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "taskName": "TestingTaskName",
+    "detail": {
+      "status": 1,
+      "msg": "successfully updated."
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6193add68d7b9a178443613a"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewd Project",
+  "date": {
+    "$date": "2021-11-16T13:10:46.551Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b00fdb89e495a9b6598"
+  }
+},{
+  "_id": {
+    "$oid": "6193c003796da12f70f56dcd"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T14:28:19.562Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193c048796da12f70f56dcf"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T14:29:28.364Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193c04c796da12f70f56dd0"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-16T14:29:32.874Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "6193c040796da12f70f56dce"
+  }
+},{
+  "_id": {
+    "$oid": "6193c07192a6f81290e6adff"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Created new Task",
+  "date": {
+    "$date": "2021-11-16T14:30:08.999Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "detail": {
+      "status": 1,
+      "msg": "Successfully task added. Task ID :6193c07092a6f81290e6adfe"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6193c1c26f333119587b0770"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T14:35:46.941Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193c1c86f333119587b0771"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-16T14:35:52.566Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "6193c040796da12f70f56dce"
+  }
+},{
+  "_id": {
+    "$oid": "6193c2136f333119587b0772"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T14:37:07.813Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193cf5e451689342cc3639e"
+  },
+  "userEmail": "wisnshaftler@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:33:50.190Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193cfbd5fac5d1b0c270cf0"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:35:25.267Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193d1f16f333119587b0773"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:44:49.994Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193d2616f333119587b0774"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-16T15:46:41.666Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6193d2996f333119587b0775"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User generated report",
+  "date": {
+    "$date": "2021-11-16T15:47:37.248Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6193d2e96f333119587b0777"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Created new Task",
+  "date": {
+    "$date": "2021-11-16T15:48:57.389Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "detail": {
+      "status": 1,
+      "msg": "Successfully task added. Task ID :6193d2e96f333119587b0776"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6193d33a6f333119587b0778"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Updated Task",
+  "date": {
+    "$date": "2021-11-16T15:50:18.870Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "taskName": "SampleTask",
+    "detail": {
+      "status": 1,
+      "msg": "successfully updated."
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6193d3406f333119587b0779"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-16T15:50:24.557Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6193d4126f333119587b077a"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:53:54.823Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193d42b6290ca41f00d8d07"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:54:19.763Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193d5056290ca41f00d8d09"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T15:57:57.139Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6193d5955fac5d1b0c270cf1"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-16T16:00:21.007Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194b3447b05253cb866ab10"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T07:46:12.203Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194b35c7707bc4924bdbf32"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T07:46:36.110Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194b3a17707bc4924bdbf33"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User generated report",
+  "date": {
+    "$date": "2021-11-17T07:47:45.570Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194bea47707bc4924bdbf34"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T08:34:44.384Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194bedc7b05253cb866ab11"
+  },
+  "userEmail": "wisnshaftler@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T08:35:40.291Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194bfc3bac10d2d184a5884"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T08:39:31.570Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194c0fb0373612a4c14c5c0"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T08:44:43.843Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194c7dfc8deab391062286e"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T09:14:07.325Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194c7e9c8deab391062286f"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T09:14:17.965Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194e26a30eeee2ba89d5b94"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T11:07:22.542Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194ecfddd0a8c3eecf0fcb6"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T11:52:29.949Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "6194ed14627cc02e345388b3"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T11:52:52.715Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194ed23627cc02e345388b4"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User generated report",
+  "date": {
+    "$date": "2021-11-17T11:53:07.434Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194ed4e627cc02e345388b5"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T11:53:50.262Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "6194ee31627cc02e345388b6"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T11:57:37.985Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b00fdb89e495a9b6598"
+  }
+},{
+  "_id": {
+    "$oid": "6194ee5f161ffe418c569095"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T11:58:23.825Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "619507f0782b2d31183564e0"
+  },
+  "userEmail": "wisnshaftler@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T13:47:28.100Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "619507f9d43734310cfcbc2c"
+  },
+  "userEmail": "wisnshaftler@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T13:47:37.613Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "619519b9f8f6cf1dac3b5bcf"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T15:03:21.523Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "619519ba3b188c3064d695ee"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T15:03:22.899Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "61953a63111e1d23d4a26593"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T17:22:43.897Z"
+  },
+  "data": "::ffff:127.0.0.1"
+},{
+  "_id": {
+    "$oid": "61953aa1111e1d23d4a26594"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T17:23:45.164Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "61953ab0111e1d23d4a26595"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User generated report",
+  "date": {
+    "$date": "2021-11-17T17:24:00.968Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60845d2a4105552532420bab"
+  }
+},{
+  "_id": {
+    "$oid": "61953b0f111e1d23d4a26597"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Created new Task",
+  "date": {
+    "$date": "2021-11-17T17:25:35.625Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "detail": {
+      "status": 1,
+      "msg": "Successfully task added. Task ID :61953b0f111e1d23d4a26596"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61953b39111e1d23d4a26598"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User Updated Task",
+  "date": {
+    "$date": "2021-11-17T17:26:17.831Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "taskName": "UpdateTask",
+    "detail": {
+      "status": 1,
+      "msg": "successfully updated."
+    }
+  }
+},{
+  "_id": {
+    "$oid": "61953cb6111e1d23d4a2659a"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User viewed Project",
+  "date": {
+    "$date": "2021-11-17T17:32:38.239Z"
+  },
+  "data": {
+    "ip": "::ffff:127.0.0.1",
+    "projectID": "60859b00fdb89e495a9b6598"
+  }
+},{
+  "_id": {
+    "$oid": "61953cc8111e1d23d4a2659b"
+  },
+  "userEmail": "h@gmail.com",
+  "notification": "User logged in",
+  "date": {
+    "$date": "2021-11-17T17:32:56.744Z"
+  },
+  "data": "::ffff:127.0.0.1"
+}]

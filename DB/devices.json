@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6087c8a2cec1d85421a72f59"
+  },
+  "userID": "60831ae4aa3cf3385c451260",
+  "UUID": "C527A621-7DA8-E011-A4BB-B870F4ABD9BF0",
+  "RAM": 16000,
+  "CPU": "core i5 2nd gen",
+  "network": 1000,
+  "hdd": 10,
+  "deviceName": "Test computer",
+  "deviceOS": "windows 10",
+  "deviceStatus": "inactive",
+  "addedTime": "2021-04-23T19:08:00.228Z"
+},{
+  "_id": {
+    "$oid": "6087cbaacec1d85421a72f5a"
+  },
+  "userID": "60831ae4aa3cf3385c451260",
+  "UUID": "C527A621-7DA8-E011-A4BB-BB101",
+  "RAM": 12000,
+  "CPU": "core i5 2nd gen",
+  "network": 100,
+  "hdd": 20,
+  "deviceName": "Test computer 2",
+  "deviceOS": "linux 10",
+  "deviceStatus": "inactive",
+  "addedTime": "2021-04-23T19:08:00.228Z"
+},{
+  "_id": {
+    "$oid": "61162903f4ec2f1784a88984"
+  },
+  "userID": "60831ae4aa3cf3385c451260",
+  "UUID": "C527A621-7DA8-E011-A4BB-B870F4ABD9BF0",
+  "RAM": 1,
+  "CPU": "intel core i5-2410m",
+  "network": 1,
+  "hdd": 1,
+  "deviceName": "Russian PC",
+  "deviceOS": "windows 10",
+  "deviceStatus": "inactive",
+  "addedTime": {
+    "$date": "2021-08-13T08:10:43.697Z"
+  }
+},{
+  "_id": {
+    "$oid": "6116b6f77d1a1c4c54484026"
+  },
+  "userID": "60831ae4aa3cf3385c451260",
+  "UUID": "C527A621-7DA8-E011-A4BB-B870F4ABD9B1",
+  "RAM": 1,
+  "CPU": "intel core i5-2410m",
+  "network": 1,
+  "hdd": 1,
+  "deviceName": "asdasd",
+  "deviceOS": "windows 10",
+  "deviceStatus": "inactive",
+  "addedTime": {
+    "$date": "2021-08-13T18:16:23.816Z"
+  }
+},{
+  "_id": {
+    "$oid": "61274e6e73a8192e5c061502"
+  },
+  "userID": "60831ae4aa3cf3385c451260",
+  "UUID": "C527A621-7DA8-E011-A4BB-B870F4ABD9BF",
+  "RAM": 1,
+  "CPU": "intel core i5-2410m",
+  "network": 1,
+  "hdd": 1,
+  "deviceName": "Final testing 1",
+  "deviceOS": "windows 10",
+  "deviceStatus": "active",
+  "addedTime": {
+    "$date": "2021-08-26T08:18:54.255Z"
+  }
+}]

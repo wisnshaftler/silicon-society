@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Dashboard</title>
+    <meta charset="utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/web-js/bootstrap.min.css">
+    <script src="/web-js/jquery.min.js"></script>
+    <script src="/web-js/popper.min.js"></script>
+    <script src="/web-js/bootstrap.min.js"></script>
+    <script src="/web-js/js.cookie.min.js"></script>
+    <script src="/web-js/crypto-js.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/table2csv@1.1.4/src/table2csv.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
+    <style>
+        html,
+        body {
+            height: 96%;
+
+        }
+
+        .container-fluid {
+            width: 98%;
+            height: 98%;
+            margin-top: 2%;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-dark">
+    <div class="container-fluid bg-white">
+        <div class="row h-100 w-98" id="mainRow">
+
+            <div class="col-md-2 bg-co h-100" style="background-color: #4e73df; text-align: center;">
+
+                <div style="color: #ffffff; margin-top: 5%; text-align: center;">
+                    <p>Welcome <span id="admin-username"></span></p>
+                </div>
+                <hr class="bg-white">
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="overview()"><i
+                            class="fas fa-tachometer-alt"></i> Overview</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="pendingApproval()"><i
+                            class="fas fa-hourglass-start"></i> Pending
+                        Approvals</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="manageProjects()"><i
+                            class="fas fa-project-diagram"></i> Manage
+                        Projects</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="manageDevice()"><i
+                            class="fas fa-desktop"></i> Manage
+                        Devices</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="manageUser()"><i
+                            class="fas fa-users"></i> Manage
+                        User</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="manageAdmin()"><i
+                            class="fas fa-user-secret"></i> Manage
+                        Admin</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="viewLog()"><i
+                            class="fas fa-history"></i> View Log</button></div>
+                <br>
+                <div><button type="button" class="btn btn-outline-light btn-block" onclick="logout()"><i
+                            class="fas fa-sign-out-alt"></i> Log Out</button></div>
+            </div>
+
+
+            <div class="col-md-10 h-100 w-100">
+                <div class="wrapper h-100" style="position: relative;">
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: visible; overflow-y: scroll;" id="overview">
+                        <div class="row h-100 w-100">
+                            <div class="col-sm h-40 w-100 mb-2 bg-secondary p-3 mt-2 ml-3 shadow rounded"
+                                id="totalProject"></div>
+                            <div class="col-6 h-40 w-100 mb-2 bg-secondary p-3 mt-2 ml-3 shadow rounded"
+                                id="totalTasks"></div>
+
+                        </div><br>
+                        <div class="row h-100 w-100">
+                            <div class="col-sm h-40 w-100 mb-2 bg-secondary p-3 mt-2 ml-3 shadow rounded"
+                                id="totalAccounts"></div>
+                            <div class="col-6 h-40 w-100 mb-2 bg-secondary p-3 mt-2 ml-3 shadow rounded"
+                                id="totalDevices"></div>
+                        </div>
+
+                    </div>
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll; " id="pendingApproval">
+                        <div class="row w-100">
+                            <div class="col-10 mt-2">
+                                <div class="alert alert-primary" style="text-align: center;">
+                                    <strong id="showPendingProjects"></strong> Project(s) are vaiting for Approvals.
+                                </div>
+                            </div>
+                            <div class="col-2 mt-2 ">
+                                <button type="button" class="btn btn-outline-primary btn-block"
+                                    onclick="refreshPendingProjects()">Refresh</button>
+                            </div>
+                        </div>
+
+                        <div class="row h-80 w-100">
+                            <div class="col-md-6">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Project ID and search" aria-describedby="basic-addon2"
+                                        id="searchPendingProject">
+                                    <div class="input-group-append">
+                                        <button class="btn btn-outline-secondary" type="button"
+                                            id="searchPendingProjectButton"><i class="fas fa-search"></i></button>
+                                    </div>
+                                </div>
+                                <table class="table  table-hover table-bordered  w-100">
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Property</th>
+                                        <th scope="col">Value</th>
+                                    </thead>
+                                    <tbody id="pendingProjectTable">
+
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <div class="col-md-6 h-80">
+                                <table class="table table-responsive table-hover table-bordered  w-100">
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Project ID</th>
+                                        <th scope="col">Project Name</th>
+                                        <th scope="col">Created Date</th>
+                                    </thead>
+                                    <tbody id="allPendingTable">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll;" id="manageProject">
+                        <!--heading of the search project and search task-->
+                        <div class="row w-100">
+                            <div class="col-6 mt-2">
+                                <div class="alert alert-primary " style="text-align: center;">
+                                    <strong>View Project</strong>
+                                </div>
+                            </div>
+                            <div class="col-6 mt-2">
+                                <div class="alert alert-primary" style="text-align: center;">
+                                    <strong>View Task</strong>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row h-80 w-100">
+                            <div class="col-md-6 h-80">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Project ID or task name, click search button or press enter"
+                                        aria-describedby="basic-addon2" id="searchProjectString">
+
+                                    <div class="input-group-append">
+                                        <select name="property" class="custom-select" id="projectProperty">
+                                            <option value="projectid">ID</option>
+                                            <option value="name">Name</option>
+                                        </select>
+                                        <button class="btn btn-outline-secondary" type="button"
+                                            id="searchProjectButton"><i class="fas fa-search"></i></button>
+
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6 h-80">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Task ID or task name, click search button or press enter"
+                                        aria-describedby="basic-addon2" id="searchTaskString">
+
+                                    <div class="input-group-append">
+                                        <select name="property" class="custom-select" id="taskProperty">
+                                            <option value="taskid">ID</option>
+                                            <option value="name">Name</option>
+                                        </select>
+                                        <button class="btn btn-outline-secondary" type="button" id="searchTaskButton"><i
+                                                class="fas fa-search"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row h-80 w-100">
+                            <div class="col-md-6 h-80">
+                                <table class="table  table-hover table-bordered  w-100">
+                                    <caption>Show the Project Details.</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Property</th>
+                                        <th scope="col">Value</th>
+                                    </thead>
+                                    <tbody id="manageProjectTable">
+
+                                    </tbody>
+                                </table>
+
+                                <table class="table  table-hover table-bordered  w-100">
+                                    <caption>All task IDs and Names under this project</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">TaskID</th>
+                                        <th scope="col">Task Name</th>
+                                    </thead>
+                                    <tbody id="allTaskKeyDetail">
+
+                                    </tbody>
+                                </table>
+
+                            </div>
+                            <div class="col-md-6 h-80">
+                                <table class="table  table-hover table-bordered  w-100">
+                                    <caption>Show the task.</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Property</th>
+                                        <th scope="col">Value</th>
+                                    </thead>
+                                    <tbody id="manageTaskTable">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll;" id="manageDevices">
+                        <div class="row w-100 h-100">
+                            <div class="col-md-12 ">
+                                <ul class="nav nav-pills nav-fill mt-2 border-warning border-bottom">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" data-toggle="pill" href="#sbdi"
+                                            title="Search By Device ID">Search By Device ID</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="pill" href="#sbu" title="Search By User">Search
+                                            By User</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" data-toggle="pill" href="#sbduuid">Search By Device UUID</a>
+                                    </li>
+
+                                </ul>
+
+                                <!-- Tab panes -->
+                                <div class="tab-content ">
+                                    <div class="tab-pane container active" id="sbdi">
+                                        <div class="row  mt-2">
+                                            <div class="col-md-6">
+                                                <div class="input-group mb-3">
+                                                    <input type="text" class="form-control border border-dark"
+                                                        placeholder="Device ID and press enter for search"
+                                                        aria-describedby="basic-addon2" id="searchDeviceIDtxt">
+                                                    <div class="input-group-append">
+                                                        <button class="btn btn-outline-secondary" type="button"
+                                                            id="searchDeviceByIDbtn"><i
+                                                                class="fas fa-search"></i></button>
+                                                    </div>
+                                                </div>
+                                                <div id="downloadButtonSBDI"></div><br>
+                                                <table class="table  table-hover table-bordered  w-100"
+                                                    id="deviceDataSBDItbl">
+                                                    <caption>Show the device</caption>
+                                                    <thead class="thead-dark  w-100">
+                                                        <th scope="col">Property</th>
+                                                        <th scope="col">Value</th>
+                                                    </thead>
+                                                    <tbody id="deviceDataSBDI">
+
+                                                    </tbody>
+                                                </table>
+
+                                            </div>
+                                            <div class="col-md-6">
+                                                <table class="table  table-hover table-bordered  w-100"
+                                                    id="projectsDataSBDItbl">
+                                                    <caption>Show the Project that device contributed</caption>
+                                                    <thead class="thead-dark  w-100">
+                                                        <th scope="col">No</th>
+                                                        <th scope="col">Project ID</th>
+                                                        <th scope="col">Project Name</th>
+                                                    </thead>
+                                                    <tbody id="projectDataSDBI">
+
+                                                    </tbody>
+                                                </table>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane container fade" id="sbu">
+                                        <div class="row  mt-2">
+                                            <div class="col-md-12">
+                                                <div class="input-group mb-3">
+                                                    <input type="text" class="form-control border border-dark"
+                                                        placeholder="User ID and press enter for search"
+                                                        aria-describedby="basic-addon2" id="searchDeviceByUID">
+                                                    <div class="input-group-append">
+                                                        <button class="btn btn-outline-secondary" type="button"
+                                                            id="searchDeviceByUIDbtn"><i
+                                                                class="fas fa-search"></i></button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="downloadButton"></div><br>
+                                        <table class="table  table-hover table-bordered w-100"
+                                            id="deviceDataByUserIDtbl">
+                                            <caption>Show the Device Data</caption>
+                                            <thead class="thead-dark  w-100">
+                                                <th scope="col">No</th>
+                                                <th scope="col">Device ID</th>
+                                                <th scope="col">Device Name</th>
+                                                <th scope="col">Device UserID</th>
+                                                <th scope="col">Device UUID</th>
+                                                <th scope="col">Device RAM</th>
+                                                <th scope="col">Device CPU</th>
+                                                <th scope="col">Device Network</th>
+                                                <th scope="col">Device Storage</th>
+                                                <th scope="col">Device OS</th>
+                                                <th scope="col">Device Status</th>
+                                                <th scope="col">Device addedTime</th>
+                                            </thead>
+                                            <tbody id="deviceDataByUserID" style="word-break: break-all;">
+
+                                            </tbody>
+                                        </table>
+
+                                    </div>
+
+                                    <div class="tab-pane container fade" id="sbduuid">
+                                        <div class="row mt-2">
+                                            <div class="col-md-6">
+                                                <div class="input-group mb-3">
+                                                    <input type="text" class="form-control border border-dark"
+                                                        placeholder="Device UUID and press enter for search"
+                                                        aria-describedby="basic-addon2" id="searchDeviceUUIDtxt">
+                                                    <div class="input-group-append">
+                                                        <button class="btn btn-outline-secondary" type="button"
+                                                            id="searchDeviceUUIDbtn"><i
+                                                                class="fas fa-search"></i></button>
+                                                    </div>
+                                                </div>
+                                                <div id="downloadButtonUUID"></div><br>
+
+                                                <table class="table  table-hover table-bordered  w-100"
+                                                    id="deviceDataUUIDtbl">
+                                                    <caption>Show the device</caption>
+                                                    <thead class="thead-dark  w-100">
+                                                        <th scope="col">Property</th>
+                                                        <th scope="col">Value</th>
+                                                    </thead>
+                                                    <tbody id="deviceDataUUID">
+
+                                                    </tbody>
+                                                </table>
+
+                                            </div>
+                                            <div class="col-md-6">
+                                                <table class="table  table-hover table-bordered  w-100"
+                                                    id="projectDataUUIDtbl">
+                                                    <caption>Show the Project that device contributed</caption>
+                                                    <thead class="thead-dark  w-100">
+                                                        <th scope="col">No</th>
+                                                        <th scope="col">Project ID</th>
+                                                        <th scope="col">Project Name</th>
+                                                    </thead>
+                                                    <tbody id="projectDataUUID">
+
+                                                    </tbody>
+                                                </table>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                    <div class="tab-pane container fade" id="menu2">
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll;" id="userManage">
+                        <div class="row w-100 ">
+                            <div class="col-md-12 mt-2">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Enter User ID or email, select what you enter and hit ENTER key or press the search icon"
+                                        aria-describedby="basic-addon2" id="searchUsertxt">
+
+                                    <div class="input-group-append">
+                                        <select name="property" class="custom-select" id="userProperty">
+                                            <option value="userid">ID</option>
+                                            <option value="email">Email</option>
+                                        </select>
+                                        <button class="btn btn-outline-secondary" type="button" id="searchUserbtn"><i
+                                                class="fas fa-search"></i></button>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 mt-2 mb-2" id="manageUserbtn">
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row w-100">
+                            <div class="col-md-6">
+                                <div id="downloadUserData"></div>
+                                <table class="table  table-hover table-bordered  w-100" id="userDatatbl">
+                                    <caption>Show the User Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Property</th>
+                                        <th scope="col">Value</th>
+                                    </thead>
+                                    <tbody id="userData" style="word-break: break-all;">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                            <div class="col-md-6">
+
+                                <table class="table  table-hover table-bordered  w-100" id="userContributedtbl">
+                                    <caption>Show the User Contributed projects</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">No</th>
+                                        <th scope="col">Project ID</th>
+                                        <th scope="col">Contributed Date</th>
+                                    </thead>
+                                    <tbody id="userContributedData" style="word-break: break-all;">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        <div class="row w-100">
+                            <div class="col-md-12">
+                                <table class="table  table-hover table-bordered  w-100" id="userDevicetbl">
+                                    <caption>Show the User Devices Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">No</th>
+                                        <th scope="col">ID</th>
+                                        <th scope="col">Name</th>
+                                        <th scope="col">OS</th>
+                                        <th scope="col">State</th>
+                                    </thead>
+                                    <tbody id="userDeviceData" style="word-break: break-all;">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="row w-100">
+                            <div class="col-md-12">
+                                <table class="table  table-hover table-bordered  w-100" id="userProjecttbl">
+                                    <caption>Show the User Projects Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">No</th>
+                                        <th scope="col">ID</th>
+                                        <th scope="col">Name</th>
+                                        <th scope="col">Description</th>
+                                        <th scope="col">Status</th>
+                                    </thead>
+                                    <tbody id="userProjectData" style="word-break: break-all;">
+
+                                    </tbody>
+                                </table>
+                                <!--Hidden download table-->
+                                <table class="table  table-hover table-bordered  w-100" id="downloadManageUser"
+                                    style="display: none; width: 0%; height: 0%;">
+                                    <caption>Show the User Projects Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">Property</th>
+                                        <th scope="col">Value</th>
+                                    </thead>
+                                    <tbody id="downloadManageUserData" style="word-break: break-all;">
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll;" id="superAdmin">
+                        <div class="row w-100 ">
+                            <div class="col-md-12 mt-2">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Enter Admin ID or email, select what you enter and hit ENTER key or press the search icon"
+                                        aria-describedby="basic-addon2" id="searchAdmintxt">
+
+                                    <div class="input-group-append">
+                                        <select name="property" class="custom-select" id="adminProperty">
+                                            <option value="adminid">ID</option>
+                                            <option value="adminemail">Email</option>
+                                        </select>
+                                        <button class="btn btn-outline-secondary" type="button" id="searchAdminbtn"><i
+                                                class="fas fa-search"></i></button>
+                                    </div>
+                                </div>
+
+                                <table class="table  table-hover table-bordered  w-100" id="singleAdminTable">
+                                    <caption>Show the User Projects Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">ID</th>
+                                        <th scope="col">Email</th>
+                                        <th scope="col">Username</th>
+                                        <th scope="col">Status</th>
+                                        <th scope="col">Role</th>
+                                        <th scope="col">Created Date</th>
+                                        <th scope="col">Created By</th>
+                                    </thead>
+                                    <tbody id="adminData" style="word-break: break-all;">
+                                    </tbody>
+                                </table>
+                                <div id="downloadAdminData"></div>
+                                <hr class="bg-dark">
+                                <div>
+                                    <h3>Create new Admin Account</h3>
+                                    <div class="form-group">
+                                        <label for="adminNewEmail">Email address</label>
+                                        <input type="email" class="form-control" id="adminNewEmail"
+                                            aria-describedby="emailHelp" placeholder="Enter email">
+                                        <small id="emailHelp" class="form-text text-muted">We'll never share your email
+                                            with anyone else.</small><br>
+
+                                        <label for="adminNewPassword">Password</label>
+                                        <input type="password" class="form-control" id="adminNewPassword"
+                                            aria-describedby="emailHelp" placeholder="Enter password">
+                                        <small id="passwordHelp" class="form-text text-muted">Password must be long than
+                                            8 characters. Must inlude a Capital letter a
+                                            Simple letter a Number and a special character
+                                        </small><br>
+
+                                        <label for="adminNewUsername">Username</label>
+                                        <input type="text" class="form-control" id="adminNewUsername"
+                                            aria-describedby="emailHelp" placeholder="Enter password">
+                                        <small id="usernameHelp" class="form-text text-muted">Username for admin
+                                        </small><br>
+
+                                        <label for="adminNewRole">Role</label>
+                                        <select name="property" class="custom-select" id="adminNewRole">
+                                            <option value="admin">Admin</option>
+                                            <option value="moderator">Moderator</option>
+                                        </select>
+                                        <small id="adminRoleHelp" class="form-text text-muted">Choose the correct
+                                            previladge
+                                        </small>
+                                        <br>
+                                        <button class="btn btn-outline-secondary btn-block" type="button" id="newAdmin"
+                                            onclick="newAdmin()"><i class="fas fa-plus"></i> Create</button>
+                                    </div>
+                                </div>
+                                <hr class="bg-dark">
+                                <h3>Reset Password</h3>
+                                <div class="form-group">
+                                    <div class="input-group mb-3">
+                                        <input type="text" class="form-control border border-dark"
+                                            placeholder="Enter Admin ID or email, select what you enter and hit ENTER key or press the reset Button."
+                                            aria-describedby="basic-addon2" id="resetPasswordtxt">
+                                        `
+                                        <div class="input-group-append">
+                                            <select name="property" class="custom-select" id="resetProperty">
+                                                <option value="adminid">ID</option>
+                                                <option value="adminemail">Email</option>
+                                            </select>
+                                            <button class="btn btn-outline-warning" type="button"
+                                                id="resertPasswordbtn"><i class="fas fa-undo-alt"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <hr class="bg-dark">
+                                <h3>Change Password</h3>
+                                <div class="input-group mb-3">
+                                    <input type="password" class="form-control border border-dark"
+                                        placeholder="Enter Admin password and hit ENTER key or press the Change Password Button."
+                                        aria-describedby="basic-addon2" id="changeMyPasswordtxt" required>
+                                    `
+                                    <button class="btn btn-outline-warning" type="button" id="resertPasswordbtn"><i
+                                            class="fas fa-key"></i> Change Password</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <div class="h-100 w-100 commonHide"
+                        style="position: absolute; visibility: hidden; overflow-y: scroll;" id="viewLog">
+                        <div class="row w-100 ">
+                            <div class="col-md-12 mt-2">
+                                <div class="input-group mb-3">
+                                    <input type="text" class="form-control border border-dark"
+                                        placeholder="Enter User Email " aria-describedby="basic-addon2"
+                                        id="searchLogUserID">
+
+                                    <div class="input-group-append">
+
+                                        <button class="btn btn-outline-secondary" type="button" onclick="searchLog()"
+                                            id="searchUserLog"><i class="fas fa-search"></i></button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="row w-100 ">
+                            <div class="col-md-12 mt-2">
+                                <table class="table  table-hover table-bordered  w-100" id="userLogtbl">
+                                    <caption>Show the User Projects Data</caption>
+                                    <thead class="thead-dark  w-100">
+                                        <th scope="col">ID</th>
+                                        <th scope="col">notification</th>
+                                        <th scope="col">Date</th>
+                                        <th scope="col">Data</th>
+                                    </thead>
+                                    <tbody id="userLogtblData" style="word-break: break-all;">
+
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="h-100 w-100 commonHide" style="position: absolute; visibility: hidden; overflow-y: scroll;"
+                    id="thawa mokk hari ekk">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl" style="text-align: center; color: white;">
+        <p>Made with <span style="color: #e25555;">&hearts;</span> in Sri Lanka</a>, by <a
+                href="https://github.com/wisnshaftler" class="text-warning">wisnshaftler</a>.</p>
+    </div>
+
+    <!--loading please wait model-->
+    <div class="modal fade" id="waitingModal">
+        <div class="modal-dialog  modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="waitingModal-header">Please Wait</h4>
+                </div>
+                <div class="modal-body" id="waitingModal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/web-js/dashboard.js"></script>
+</body>
+
+</html>

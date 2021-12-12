@@ -1,0 +1,625 @@
+[{
+  "_id": {
+    "$oid": "60ff12116f0dd43394dbf7ba"
+  },
+  "data": "Error occures in the adminDevice searchDeviceByID in admin js.",
+  "time": {
+    "$date": "2021-07-26T19:50:41.962Z"
+  },
+  "error": "res.status(...).msg is not a function"
+},{
+  "_id": {
+    "$oid": "60fff193a729383f0417170b"
+  },
+  "data": "Error occures in the adminDevice searchDeviceByID in admin js.",
+  "time": {
+    "$date": "2021-07-27T11:44:19.101Z"
+  },
+  "error": "res.status(...).msg is not a function"
+},{
+  "_id": {
+    "$oid": "60fff1ce2f2adf2c64706d7f"
+  },
+  "data": "Error occures in the adminDevice searchDeviceByID in admin js.",
+  "time": {
+    "$date": "2021-07-27T11:45:18.494Z"
+  },
+  "error": "res.status(...).msg is not a function"
+},{
+  "_id": {
+    "$oid": "6103d1610968654150265b4d"
+  },
+  "data": "Error occures in the adminSuspendAdmin function in function js.",
+  "time": {
+    "$date": "2021-07-30T10:16:01.726Z"
+  },
+  "error": "Update document requires atomic operators"
+},{
+  "_id": {
+    "$oid": "611627f4da471334c86312d3"
+  },
+  "data": "Error occures by user request",
+  "time": {
+    "$date": "2021-08-13T08:06:12.428Z"
+  },
+  "error": {
+    "expose": true,
+    "statusCode": 400,
+    "status": 400,
+    "body": "{\r\n    \"email\":\"h@gmail.com\",\r\n    \"password\":\"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3\",\r\n    \"cpuName\":\"intel core i5\",\r\n    \"osName\":\"windows 10\",\r\n    \"pcname\":\"mage eka\",\r\n    \"ram\":5,\r\n    \"storage\":10,\r\n    \"network\":4,\r\n    \r\n}",
+    "type": "entity.parse.failed"
+  }
+},{
+  "_id": {
+    "$oid": "611c121ea154f91070347ebc"
+  },
+  "data": "Error occures by user request",
+  "time": {
+    "$date": "2021-08-17T19:46:38.956Z"
+  },
+  "error": {
+    "expose": true,
+    "statusCode": 400,
+    "status": 400,
+    "body": "{\r\n    \"email\":\"h@gmail.com\",\r\n    \"password\":\"a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3\",\r\n    \"UUID\": \"C527A621-7DA8-E011-A4BB-B870F4ABD9BF\",\r\n    \r\n}",
+    "type": "entity.parse.failed"
+  }
+},{
+  "_id": {
+    "$oid": "611f50d54dc947351488bcbb"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:51:01.120Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f50e7eaebc14964f02f99"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:51:19.839Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f50f17f46da60ecb87f45"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:51:29.070Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f51034921b545143fcee6"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:51:46.999Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f51696873531618bc8ebd"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:53:29.449Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f51ccd146113ea8ae3b3f"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:55:08.295Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f51d1d146113ea8ae3b40"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:55:13.208Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "611f51e177980b58bcfdac22"
+  },
+  "data": "Error occures in the newContribute function in software.js .",
+  "time": {
+    "$date": "2021-08-20T06:55:29.384Z"
+  },
+  "error": "regex must be a RegExp"
+},{
+  "_id": {
+    "$oid": "6120c455d964091ff4b459a2"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T09:16:05.045Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120c4c4d964091ff4b459a3"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T09:17:56.160Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120c4c5d964091ff4b459a4"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T09:17:57.579Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120c5a3d964091ff4b459a5"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-21T09:21:39.483Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6120c5b1d964091ff4b459a6"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-21T09:21:53.845Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6120c6d5d964091ff4b459a7"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-21T09:26:45.503Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6120c88e06f4584cd02417a7"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-21T09:34:06.457Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6120d018bc41bc17882ea8cf"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T10:06:16.807Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120d01cbc41bc17882ea8d0"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T10:06:20.593Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120d01ebc41bc17882ea8d1"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T10:06:22.177Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120d0577eef304678da0feb"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T10:07:19.561Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120d0b27eef304678da0fec"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "time": {
+    "$date": "2021-08-21T10:08:50.953Z"
+  }
+},{
+  "_id": {
+    "$oid": "612101f37eef304678da0fed"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "48ac8e3332fd4bcbd8b8fbb86c89e0b850cdaad648f46e94cbdd7db68846de0d",
+  "time": {
+    "$date": "2021-08-21T13:38:59.705Z"
+  }
+},{
+  "_id": {
+    "$oid": "612101f57eef304678da0fee"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "48ac8e3332fd4bcbd8b8fbb86c89e0b850cdaad648f46e94cbdd7db68846de0d",
+  "time": {
+    "$date": "2021-08-21T13:39:01.467Z"
+  }
+},{
+  "_id": {
+    "$oid": "6121020e70eeb613bc0322af"
+  },
+  "data": "Got more results while searching email confirm tocken",
+  "tocken": "48ac8e3332fd4bcbd8b8fbb86c89e0b850cdaad648f46e94cbdd7db68846de0d",
+  "time": {
+    "$date": "2021-08-21T13:39:26.599Z"
+  }
+},{
+  "_id": {
+    "$oid": "612341cf71c3354900c4d499"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:35:59.724Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612341dd71c3354900c4d49a"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:36:13.444Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612341eb71c3354900c4d49b"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:36:27.588Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "61234322a510893f545be9cd"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:41:38.309Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "61234323a510893f545be9ce"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:41:39.702Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "61234328a510893f545be9cf"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:41:44.154Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6123438ff931ec158ca41c02"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:43:27.329Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612343af625c345de43ba688"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:43:59.805Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6123441a6103ca0e08652085"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:45:46.607Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6123442bc4620c4738c03f2a"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:46:03.418Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "61234445f7b62029cca6966f"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:46:29.613Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612344775fa4fb376c707270"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:47:19.929Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612344b32c9acb219cc4e92c"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:48:19.064Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612344ba82227a393c296ba1"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:48:26.950Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612344bf82227a393c296ba2"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:48:31.217Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612344d1a9eb961a3c693baa"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:48:49.072Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "612345044bbf700fdc8cf271"
+  },
+  "data": "Error occures in the getProfile function.",
+  "time": {
+    "$date": "2021-08-23T06:49:40.829Z"
+  },
+  "error": "Cannot use 'in' operator to search for 'status' in undefined"
+},{
+  "_id": {
+    "$oid": "6127ac0f0ebbc2328c22c4a0"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-08-26T14:58:23.049Z"
+  },
+  "error": "No recipients defined"
+},{
+  "_id": {
+    "$oid": "6193b7d56dcbfe1b0cca9509"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T13:53:25.007Z"
+  },
+  "error": "queryA ETIMEOUT smtp.gmail.com"
+},{
+  "_id": {
+    "$oid": "6193b8466dcbfe1b0cca950a"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T13:55:18.476Z"
+  },
+  "error": "queryA ETIMEOUT smtp.gmail.com"
+},{
+  "_id": {
+    "$oid": "6193b8a0fd74d239a03b07a2"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T13:56:48.454Z"
+  },
+  "error": "queryA ETIMEOUT smtp.gmail.com"
+},{
+  "_id": {
+    "$oid": "6193b8eafd74d239a03b07a3"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T13:58:02.460Z"
+  },
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials y8sm20222837pfi.56 - gsmtp"
+},{
+  "_id": {
+    "$oid": "6193b8f1fd74d239a03b07a4"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T13:58:09.479Z"
+  },
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials g14sm4941061pgl.13 - gsmtp"
+},{
+  "_id": {
+    "$oid": "6193b965fd74d239a03b07a5"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:00:05.941Z"
+  },
+  "error": "read ECONNRESET"
+},{
+  "_id": {
+    "$oid": "6193b9bfc24cc5171075b19d"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:01:35.319Z"
+  },
+  "error": "Invalid login: 535-5.7.8 Username and Password not accepted. Learn more at\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials u6sm20124528pfg.157 - gsmtp"
+},{
+  "_id": {
+    "$oid": "6193bc1103342942acf7e21a"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:11:29.522Z"
+  },
+  "error": "connect ECONNREFUSED 127.0.0.1:465"
+},{
+  "_id": {
+    "$oid": "6193bc1103342942acf7e21b"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:11:29.528Z"
+  },
+  "error": "connect ECONNREFUSED 127.0.0.1:465"
+},{
+  "_id": {
+    "$oid": "6193bc1503342942acf7e21c"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:11:33.408Z"
+  },
+  "error": "connect ECONNREFUSED 127.0.0.1:465"
+},{
+  "_id": {
+    "$oid": "6193bc2703342942acf7e21d"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:11:51.842Z"
+  },
+  "error": "connect ECONNREFUSED 127.0.0.1:465"
+},{
+  "_id": {
+    "$oid": "6193bc493888bd09cc296860"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:12:25.285Z"
+  },
+  "error": "connect ECONNREFUSED 127.0.0.1:465"
+},{
+  "_id": {
+    "$oid": "6193bc6829533c44a891e131"
+  },
+  "data": "Error occures in the adminSendMail function in mailer js. While sending email to undefined reason for the mail is  Admin downloading the given project",
+  "time": {
+    "$date": "2021-11-16T14:12:56.484Z"
+  },
+  "error": "No recipients defined"
+},{
+  "_id": {
+    "$oid": "6194c151c8deab391062286c"
+  },
+  "data": "Error occures in the searchTask function in function js.",
+  "time": {
+    "$date": "2021-11-17T08:46:09.723Z"
+  },
+  "error": "Argument passed in must be a single String of 12 bytes or a string of 24 hex characters"
+},{
+  "_id": {
+    "$oid": "6194c15bc8deab391062286d"
+  },
+  "data": "Error occures in the searchTask function in function js.",
+  "time": {
+    "$date": "2021-11-17T08:46:19.756Z"
+  },
+  "error": "Argument passed in must be a single String of 12 bytes or a string of 24 hex characters"
+},{
+  "_id": {
+    "$oid": "6194e36338029116ecf6b893"
+  },
+  "data": "Error occures in the globalSearchProject function in admin js.",
+  "time": {
+    "$date": "2021-11-17T11:11:31.797Z"
+  },
+  "error": "searchProperty is not defined"
+},{
+  "_id": {
+    "$oid": "6194e37538029116ecf6b894"
+  },
+  "data": "Error occures in the globalSearchProject function in admin js.",
+  "time": {
+    "$date": "2021-11-17T11:11:49.105Z"
+  },
+  "error": "searchProperty is not defined"
+},{
+  "_id": {
+    "$oid": "6194e3a238029116ecf6b895"
+  },
+  "data": "Error occures in the globalSearchProject function in admin js.",
+  "time": {
+    "$date": "2021-11-17T11:12:34.217Z"
+  },
+  "error": "searchProperty is not defined"
+},{
+  "_id": {
+    "$oid": "6194e4fcbe81631aa0f993ca"
+  },
+  "data": "Error occures in the adminSearchTask function in admin js.",
+  "time": {
+    "$date": "2021-11-17T11:18:20.409Z"
+  },
+  "error": "def.adminGetTaskByName is not a function"
+},{
+  "_id": {
+    "$oid": "619514ce15b3a60984acc062"
+  },
+  "data": "Error occures in the newAdmin in admin js.",
+  "time": {
+    "$date": "2021-11-17T14:42:22.510Z"
+  },
+  "error": "Cannot set headers after they are sent to the client"
+},{
+  "_id": {
+    "$oid": "619514ce15b3a60984acc063"
+  },
+  "data": "Error occures in the newAdmin in admin js.",
+  "time": {
+    "$date": "2021-11-17T14:42:22.524Z"
+  },
+  "error": "Cannot set headers after they are sent to the client"
+}]

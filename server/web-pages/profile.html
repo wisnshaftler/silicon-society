@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Profile page </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/web-js/bootstrap.min.css">
+    <script src="/web-js/jquery.min.js"></script>
+    <script src="/web-js/popper.min.js"></script>
+    <script src="/web-js/bootstrap.min.js"></script>
+    <script src="/web-js/js.cookie.min.js"></script>
+    <script src="/web-js/crypto-js.min.js"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        html,
+        body {
+            height: 98%;
+        }
+
+        .container-fluid {
+            width: 98%;
+            height: 96%;
+            visibility: hidden;
+        }
+
+        .collapsing {
+            transition: 1s;
+        }
+
+        #accordion {
+            height: 95%;
+            overflow-y: scroll;
+        }
+
+        .loading {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+
+            100% {
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+
+        .proj-box-img {
+            text-align: center;
+            display: block;
+        }
+
+        .modal-xl {
+            width: 99%;
+        }
+    </style>
+
+</head>
+
+<body class="bg-dark ">
+    <!--loading image-->
+    <div class="loading">
+        <img src="/web-js/loading.gif" class="loading-image">
+    </div>
+    <!--loading model-->
+
+    <div class="container-fluid my-3 bg-white">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="web-pages/readme.html" target="_blank">API Documentation</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="web-pages/HowToUse.docx.html" target="_blank">How To Use</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" onclick="logout()" style="cursor:pointer;">Log Out</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Navbar text-->
+            <span class="navbar-text">
+                <span id="nos-prj"></span>
+                <span class="border border-left-0 border-top-0 border-bottom-0 border-white"></span>
+                <span id="nos-contro"></span>
+            </span>
+
+        </nav>
+
+        <div id="accordion">
+            <div class="card">
+                <div class="card-header">
+                    <a class="card-link" data-toggle="collapse" href="#my-projects">
+                        My Projects
+                    </a>
+                </div>
+                <div id="my-projects" class="collapse show" data-parent="#accordion">
+                    <div class="card-body" id="project-element">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <a class="card-link" data-toggle="collapse" href="#my-tasks">
+                        My Tasks
+                    </a>
+                </div>
+                <div id="my-tasks" class="collapse " data-parent="#accordion">
+                    <div class="card-body" id="tasks-element">
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" id="getTaskIDorName"
+                                placeholder="Enter task name or ID" aria-label="Enter Task name or ID"
+                                aria-describedby="basic-addon2">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button"
+                                    onclick="searchTask()">Search</button>
+                            </div>
+                        </div>
+                        <p class="text-danger"> Task name must be more than 2 charactors. Only alphanumaric and
+                            underscore is valid cant add spaces.
+                            Can only suspend added tasks and attend tasks. Suspend task cant be re active </p>
+                        <hr class="bg-dark">
+
+                        <div id="taskEditarea">
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#my-contro">
+                        My Contributions
+                    </a>
+                </div>
+                <div id="my-contro" class="collapse " data-parent="#accordion">
+                    <div class="card-body" id="contro-element">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#my-devices">
+                        My Devices
+                    </a>
+                </div>
+                <div id="my-devices" class="collapse " data-parent="#accordion">
+                    <div class="card-body" id="devices-element">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#new-project">
+                        Create New Project
+                    </a>
+                </div>
+                <div id="new-project" class="collapse" data-parent="#accordion">
+                    <div class="card-body" id="newproject-element">
+
+                        <div class="form-group">
+                            <label for="project-name">Project Name </label>
+                            <input type="text" class="form-control" id="project-name" required
+                                placeholder="Project Name (Characters must be alphanumaric. Maximum size is 20, must be start with letter)"
+                                autocomplete="off">
+                        </div>
+                        <div class="form-group">
+                            <label for="project-device-count">Device count</label>
+                            <input type="text" class="form-control" id="project-device-count" required
+                                placeholder="How many devices do you want?" autocomplete="off">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-rewarded">Project Rewarded</label>
+                            <select class="form-control" id="project-rewarded" onclick="project_reward()" required>
+                                <option value="false">False</option>
+                                <option value="true">True</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group" id="project-rewad-value-container"
+                            style="visibility: hidden; display: none;">
+                            <label for="project-reward-value">Reward value per task</label>
+                            <input type="text" class="form-control" id="project-reward-value"
+                                placeholder="How much give as the Rewarded">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-device-processor">Least Processor</label>
+                            <input list="project-processor-list" id="project-processor" class="form-control"
+                                placeholder="Clieck here and start typing processor type" required>
+                            <datalist id="project-processor-list"></datalist>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-ram">RAM Capacity</label>
+                            <input type="text" class="form-control" id="project-ram"
+                                placeholder="How much RAM capacity needs in GB" required value="">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-separate-task">Separate Task</label>
+                            <select class="form-control" id="project-separate-task"
+                                placeholder="Is this project have separate Task" required>
+                                <option value="false">False</option>
+                                <option value="true">True</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-os">Target platform</label>
+                            <select class="form-control" id="project-os" placeholder="Windows, Linux or both" required>
+                                <option value="windows">Windows</option>
+                                <option value="linux">Linux</option>
+                                <option value="both">Windows and Linux</option>
+                            </select>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-description">Project Description</label>
+                            <textarea class="form-control" id="project-description"
+                                placeholder="What is this project? Give the full details of the project"
+                                required></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-image">Project ICON</label>
+                            <input type="file" name="project-image" id="project-image" class="form-control"
+                                accept="image/png" onchange="imagePreview()" required>
+                            <div id="imgpreview"></div>
+                        </div>
+
+                        <button type="button" class="btn btn-primary btn-block" onclick="addNewProject()"
+                            id="project-submit"> Submit new Project </button>
+
+                        <hr class="bg-dark">
+                        <h4>Add software to project</h4>
+                        <strong>Make sure you uploading correct file(s) </strong>
+                        <div class="form-group">
+                            <label for="project-id">Project ID</label>
+                            <input type="text" class="form-control" id="project-id"
+                                placeholder="What is this project ID?" required>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="project-software">Project Software</label>
+                            <input type="file" name="project-software" id="project-software" class="form-control"
+                                accept=".exe, .deb" multiple required>
+                        </div>
+
+                        <button type="button" class="btn btn-primary btn-block" onclick="submitSoftware()"
+                            id="software-submit"> Submit the software </button>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">
+                    <a class="collapsed card-link" data-toggle="collapse" href="#settings">
+                        Settings
+                    </a>
+                </div>
+                <div id="settings" class="collapse" data-parent="#accordion">
+                    <div class="card-body" id="settings-element">
+                        <h4>Complete project <span><button type="button" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#compleProjectModel">Learn More</button></span></h4>
+
+                        <div class="form-group">
+                            <label for="project-id-complete">Project ID</label>
+                            <input type="text" class="form-control" id="project_id_complete"
+                                placeholder="What is this project ID?" required>
+                        </div>
+
+                        <button type="button" class="btn btn-primary btn-block" onclick="completeProject()"
+                            id="complete_Project"> Complete Project </button>
+
+                        <hr class="bg-dark">
+
+                        <h4>Update Password <span><button type="button" class="btn btn-primary" data-toggle="modal"
+                                    data-target="#changePasswordModal">Learn More</button></span></h4>
+
+                        <div class="form-group">
+                            <label for="project-id-complete">New Password</label>
+                            <input type="password" class="form-control" id="newPassowrd"
+                                placeholder="New password. Must need more than 8 charactors, capital lettes, simple letters, numbers and special charactors"
+                                required>
+                        </div>
+
+                        <button type="button" class="btn btn-primary btn-block" onclick="updatePassword()"
+                            id="update_password"> Update Password </button>
+                        <hr class="bg-dark">
+
+                        <div class="form-group">
+                            <label for="apisecret">Your API secret</label>
+                            <input type="text" class="form-control" id="apisecret" readonly>
+                            <br>
+                            <input type="text" class="form-control"
+                                value="Use AES-256-ecb encryption algorithm for encrypt your task data" readonly>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="userID">Your User ID</label>
+                            <input type="text" class="form-control" id="userID" readonly>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!--THIS IS the project modal-->
+    <div class="modal fade" id="loading-model">
+        <div class="modal-dialog modal-dialog-scrollable modal-xl">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title" id="modal-project-name"></h4>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body" id="modal-project-details">
+                    <h3 style="text-align:center;">Project Details</h3>
+                    <table class="table table-dark table-hover">
+                        <thead>
+                            <tr>
+                                <th>Property</th>
+                                <th>Value</th>
+                            </tr>
+                        </thead>
+                        <tbody id="modal-table-body">
+
+                        </tbody>
+                    </table>
+                    <div id="modal-task">
+
+                    </div>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"
+                        onclick="modal_clear()">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modelLoader">
+    </div>
+
+    <div class="modal fade" id="waitingModal">
+        <div class="modal-dialog  modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="waitingModal-header">Please Wait</h4>
+                </div>
+                <div class="modal-body" id="waitingModal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"
+                        onclick="modal_clear()">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/web-js/profile.js"></script>
+
+</body>
+
+</html>

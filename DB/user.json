@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "60831ae4aa3cf3385c451260"
+  },
+  "name": "h",
+  "email": "h@gmail.com",
+  "password": "9a362f0289ca096bbb29f8b14f3a65d9b432b0e46236f1006c72850913ec12c1",
+  "createDate": "2021-04-23T19:07:16.593Z",
+  "status": "active",
+  "verificationToken": "582ec82311adf083b2f6eda1b70c6315259620c69503dbfcb9b4c21f8faeb5ae",
+  "image": "img/profile/1.jpg",
+  "activatedAt": {
+    "$date": "2021-08-21T09:22:48.206Z"
+  },
+  "activated": true,
+  "apiSecret": "7d7cd92a9c3055f30f8943b5092abb8e"
+},{
+  "_id": {
+    "$oid": "6085b1b2a975233348a60882"
+  },
+  "name": "wisn",
+  "email": "wisn@wisn.com",
+  "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+  "createDate": "2021-04-23T19:07:16.593Z",
+  "status": "active",
+  "verificationToken": "b1f0233338a4e4652427cdee4c266cdba486e9d21dd36247e12c42923bd6c2c1",
+  "image": "img/profile/2.jpg",
+  "activated": false,
+  "activatedAt": {
+    "$date": "2021-04-23T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "6120cc5f4e1f3f21d039ddb4"
+  },
+  "name": "adsdsfsd",
+  "email": "wisnshaftler@gmail.com",
+  "password": "9a362f0289ca096bbb29f8b14f3a65d9b432b0e46236f1006c72850913ec12c1",
+  "createDate": "2021-08-21T09:50:23.024Z",
+  "status": "active",
+  "verificationToken": "48ac8e3332fd4bcbd8b8fbb86c89e0b850cdaad648f46e94cbdd7db68846de0d",
+  "activated": true,
+  "activatedAt": {
+    "$date": "2021-08-21T10:03:47.478Z"
+  },
+  "apiSecret": "7d7cd92a9c3055f30f8943b5092abb8e"
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "60f2c61bb3809feaeadb89be"
+  },
+  "email": "wisnshaftler@gmail.com",
+  "password": "9a362f0289ca096bbb29f8b14f3a65d9b432b0e46236f1006c72850913ec12c1",
+  "status": "active",
+  "role": "admin",
+  "createdBy": "default",
+  "username": "default admin",
+  "createdDate": "2021-04-23T19:08:00.228Z"
+},{
+  "_id": {
+    "$oid": "6193d7a36290ca41f00d8d0a"
+  },
+  "email": "h@gmail.com",
+  "password": "9a362f0289ca096bbb29f8b14f3a65d9b432b0e46236f1006c72850913ec12c1",
+  "status": "active",
+  "role": "moderator",
+  "createdBy": {
+    "$oid": "60f2c61bb3809feaeadb89be"
+  },
+  "username": "h",
+  "createdDate": {
+    "$date": "2021-11-16T16:09:07.608Z"
+  }
+}]

@@ -1,0 +1,1659 @@
+Processor,Base speed & Cores,Benchmark Score,Type
+amd ryzen threadripper 3990x,2.9 GHz (64 cores),25011,CPU
+amd ryzen threadripper 3970x,3.7 GHz (32 cores),22441,CPU
+intel xeon w-3175x,3.1 GHz (28 cores),20286,CPU
+amd ryzen threadripper 3960x,3.8 GHz (24 cores),19930,CPU
+intel xeon w-3275m,2.5 GHz (28 cores),18736,CPU
+amd ryzen 9 5950x,3.4 GHz (16 cores),16940,CPU
+intel core i9-10980xe,3.0 GHz (18 cores),15955,CPU
+intel core i9-9980xe,3.0 GHz (18 cores),15229,CPU
+amd epyc 7742,2.2 GHz (64 cores),15034,CPU
+intel core i9-7980xe,2.6 GHz (18 cores),14998,CPU
+intel xeon w-3245,3.2 GHz (16 cores),14691,CPU
+amd ryzen 9 5900x,3.7 GHz (12 cores),14236,CPU
+amd ryzen 9 3950x,3.5 GHz (16 cores),14205,CPU
+intel core i9-9960x,3.1 GHz (16 cores),14002,CPU
+intel core i9-7960x,2.8 GHz (16 cores),13942,CPU
+intel core i9-9940x,3.3 GHz (14 cores),13928,CPU
+intel xeon w-2295,3.0 GHz (18 cores),13829,CPU
+intel xeon gold 5218r,2.1 GHz (20 cores),13292,CPU
+intel xeon gold 6254,3.1 GHz (18 cores),13243,CPU
+intel core i9-10940x,3.3 GHz (14 cores),13208,CPU
+intel core i9-7940x,3.1 GHz (14 cores),12841,CPU
+intel core i9-10920x,3.5 GHz (12 cores),12725,CPU
+intel xeon e5-2699 v4,2.2 GHz (22 cores),12583,CPU
+intel xeon w-2191b,2.3 GHz (18 cores),12565,CPU
+amd ryzen threadripper 2950x,3.5 GHz (16 cores),12561,CPU
+amd epyc 7542,2.9 GHz (32 cores),12115,CPU
+intel xeon gold 6126,2.6 GHz (12 cores),12069,CPU
+amd ryzen 9 3900xt,3.8 GHz (12 cores),11991,CPU
+intel xeon w-3235,3.3 GHz (12 cores),11971,CPU
+intel core i9-7920x,2.9 GHz (12 cores),11851,CPU
+intel core i9-9920x,3.5 GHz (12 cores),11830,CPU
+amd ryzen 9 3900x,3.8 GHz (12 cores),11803,CPU
+intel xeon e5-2696 v4,2.2 GHz (22 cores),11628,CPU
+intel xeon e5-2698 v4,2.2 GHz (20 cores),11217,CPU
+amd epyc 7302p,3.0 GHz (16 cores),11183,CPU
+intel xeon e5-2696 v3,2.3 GHz (18 cores),11025,CPU
+intel xeon platinum 8124m,3.0 GHz (18 cores),10986,CPU
+intel core i9-10900k,3.7 GHz (10 cores),10854,CPU
+intel core i9-10900kf,3.7 GHz (10 cores),10807,CPU
+intel xeon gold 6154,3.0 GHz (18 cores),10779,CPU
+a40 pcie,"1305 MHz | 48 GB, GDDR6, 384 bit-1812 MHz",10752,GPU
+rtx a6000,"1455 MHz | 48 GB, GDDR6, 384 bit-2000 MHz",10752,GPU
+amd ryzen 9 3900,3.1 GHz (12 cores),10663,CPU
+intel core i9-10900x,3.7 GHz (10 cores),10585,CPU
+intel core i9-10850k,3.6 GHz (10 cores),10566,CPU
+geforce rtx 3090,"1395 MHz | 24 GB, GDDR6X, 384 bit-1219 MHz",10496,GPU
+amd ryzen threadripper 2990wx,3.0 GHz (32 cores),10464,CPU
+amd ryzen 7 5800x,3.8 GHz (8 cores),10430,CPU
+amd ryzen threadripper 1950x,3.4 GHz (16 cores),10395,CPU
+intel core i9-9900x,3.5 GHz (10 cores),10278,CPU
+geforce rtx 3080 ti,"1365 MHz | 12 GB, GDDR6X, 384 bit-1188 MHz",10240,GPU
+intel xeon e5-2690 v4,2.6 GHz (14 cores),10159,CPU
+intel core i9-7900x,3.3 GHz (10 cores),10037,CPU
+intel xeon w-2155,3.3 GHz (10 cores),9868,CPU
+intel xeon e5-2695 v4,2.1 GHz (18 cores),9789,CPU
+amd ryzen threadripper 2970wx,3.0 GHz (24 cores),9671,CPU
+amd ryzen threadripper 2920x,3.5 GHz (12 cores),9662,CPU
+intel core i9-10910,3.6 GHz (10 cores),9582,CPU
+intel xeon e5-2687w v4,3.0 GHz (12 cores),9510,CPU
+intel xeon e5-2698 v3,2.3 GHz (16 cores),9492,CPU
+intel core i9-10900f,2.8 GHz (10 cores),9487,CPU
+intel core i9-10900,2.8 GHz (10 cores),9348,CPU
+a10 pcie,"885 MHz | 24 GB, GDDR6, 384 bit-1563 MHz",9216,GPU
+a10g,"1320 MHz | 12 GB, GDDR6, 384 bit-1563 MHz",9216,GPU
+intel core i9-9900ks,4.0 GHz (8 cores),9162,CPU
+intel xeon e5-2697 v3,2.6 GHz (14 cores),9104,CPU
+intel core i7-9800x,3.8 GHz (8 cores),9085,CPU
+intel xeon w-2150b,3.0 GHz (10 cores),9070,CPU
+intel core i7-6950x,3.0 GHz (10 cores),9006,CPU
+amd ryzen 7 3800xt,3.9 GHz (8 cores),9004,CPU
+intel core i7-10700k,3.8 GHz (8 cores),8899,CPU
+amd ryzen 7 3800x,3.9 GHz (8 cores),8886,CPU
+intel xeon e5-2683 v4,2.1 GHz (16 cores),8786,CPU
+cmp 90hx,"1440 MHz | 10 GB, GDDR6X, 320 bit-1188 MHz",8704,GPU
+geforce rtx 3080,"1440 MHz | 10 GB, GDDR6X, 320 bit-1188 MHz",8704,GPU
+intel xeon e5-2690 v3,2.6 GHz (12 cores),8661,CPU
+amd ryzen threadripper 1920x,3.5 GHz (12 cores),8654,CPU
+intel core i9-9900kf,3.6 GHz (8 cores),8652,CPU
+intel core i7-10700kf,3.8 GHz (8 cores),8645,CPU
+intel xeon w-2145,3.7 GHz (8 cores),8628,CPU
+intel xeon e5-2680 v4,2.4 GHz (14 cores),8607,CPU
+intel core i9-9900k,3.6 GHz (8 cores),8598,CPU
+intel xeon e5-4667 v3,2.0 GHz (16 cores),8468,CPU
+amd ryzen 7 3700x,3.6 GHz (8 cores),8455,CPU
+intel core i7-7820x,3.6 GHz (8 cores),8410,CPU
+amd ryzen 5 5600x,3.7 GHz (6 cores),8197,CPU
+rtx a5000,"1170 MHz | 24 GB, GDDR6, 384 bit-2000 MHz",8192,GPU
+intel xeon silver 4214,2.2 GHz (12 cores),8166,CPU
+intel xeon e5-2683 v3,2.0 GHz (14 cores),8016,CPU
+amd ryzen 7 pro 4750g,3.6 GHz (8 cores),7987,CPU
+intel xeon e5-2680 v3,2.5 GHz (12 cores),7980,CPU
+intel core i7-10700f,2.9 GHz (8 cores),7859,CPU
+intel xeon w-2140b,3.2 GHz (8 cores),7823,CPU
+intel xeon e5-2678 v3,2.5 GHz (12 cores),7815,CPU
+intel xeon gold 6134,3.2 GHz (8 cores),7793,CPU
+intel core i7-10700,2.9 GHz (8 cores),7754,CPU
+intel xeon e5-1660 v3,3.0 GHz (8 cores),7725,CPU
+intel core i7-6900k,3.2 GHz (8 cores),7715,CPU
+intel xeon w-3223,3.5 GHz (8 cores),7704,CPU
+radeon instinct mi100,"1000 MHz | 32 GB, HBM2, 4096 bit-1200 MHz",7680,GPU
+arctic sound 2t,"900 MHz | 16 GB, HBM2e, 4096 bit-1200 MHz",7680,GPU
+intel core i9-9900,3.1 GHz (8 cores),7648,CPU
+intel xeon gold 5118,2.3 GHz (12 cores),7611,CPU
+intel xeon e5-2670 v3,2.3 GHz (12 cores),7518,CPU
+intel xeon silver 4116,2.1 GHz (12 cores),7456,CPU
+intel xeon e5-2696 v2,2.5 GHz (12 cores),7373,CPU
+intel xeon e-2288g,3.7 GHz (8 cores),7354,CPU
+intel core i7-5960x,3.0 GHz (8 cores),7222,CPU
+intel core i7-9700k,3.6 GHz (8 cores),7210,CPU
+intel core i7-9700kf,3.6 GHz (8 cores),7185,CPU
+amd ryzen 7 5800h,3.2 GHz (8 cores),7183,CPU
+intel core i5-10600kf,4.1 GHz (6 cores),7105,CPU
+amd ryzen 5 3600xt,3.8 GHz (6 cores),7093,CPU
+intel xeon e5-2660 v3,2.6 GHz (10 cores),6996,CPU
+amd ryzen 9 4900hs,3.0 GHz (8 cores),6987,CPU
+intel core i7-8086k,4.0 GHz (6 cores),6984,CPU
+intel core i7-10875h,2.3 GHz (8 cores),6981,CPU
+intel xeon e5-2697 v2,2.7 GHz (12 cores),6963,CPU
+intel core i5-10600k,4.1 GHz (6 cores),6959,CPU
+intel xeon e5-1660 v4,3.2 GHz (8 cores),6922,CPU
+a100 pcie,"765 MHz | 40 GB, HBM2e, 5120 bit-1215 MHz",6912,GPU
+a100 sxm4 40 gb,"1095 MHz | 40 GB, HBM2e, 5120 bit-1215 MHz",6912,GPU
+a100 sxm4 80 gb,"1095 MHz | 80 GB, HBM2e, 5120 bit-1593 MHz",6912,GPU
+grid a100a,"900 MHz | 48 GB, HBM2e, 6144 bit-1215 MHz",6912,GPU
+grid a100b,"900 MHz | 48 GB, HBM2e, 6144 bit-1215 MHz",6912,GPU
+amd ryzen 5 3600x,3.8 GHz (6 cores),6907,CPU
+intel core i9-10885h,2.4 GHz (8 cores),6890,CPU
+intel xeon e5-2667 v4,3.2 GHz (8 cores),6885,CPU
+intel xeon e5-1680 v2,3.0 GHz (8 cores),6868,CPU
+amd ryzen 7 2700x,3.7 GHz (8 cores),6863,CPU
+intel core i7-10870h,2.2 GHz (8 cores),6757,CPU
+intel xeon e5-1680 v4,3.4 GHz (8 cores),6751,CPU
+amd ryzen 9 4900h,3.3 GHz (8 cores),6710,CPU
+amd ryzen threadripper 1900x,3.8 GHz (8 cores),6694,CPU
+amd ryzen 5 3600,3.6 GHz (6 cores),6687,CPU
+intel xeon processor e5-1680 v3,3.2 GHz (8 cores),6636,CPU
+amd ryzen 7 4800hs,2.9 GHz (8 cores),6632,CPU
+amd ryzen 7 4800h,2.9 GHz (8 cores),6631,CPU
+intel core i7-8700k,3.7 GHz (6 cores),6570,CPU
+intel xeon e5-2687w v3,3.1 GHz (10 cores),6518,CPU
+intel core i7-9700f,3.0 GHz (8 cores),6482,CPU
+intel core i9-9980hk,2.4 GHz (8 cores),6480,CPU
+intel xeon e5-2690 v2,3.0 GHz (10 cores),6448,CPU
+amd ryzen 5 pro 4650g,3.7 GHz (6 cores),6442,CPU
+intel core i7-9700,3.0 GHz (8 cores),6393,CPU
+amd ryzen 7 1800x,3.6 GHz (8 cores),6343,CPU
+intel xeon w-2135,3.7 GHz (6 cores),6304,CPU
+intel xeon e5-2630 v4,2.2 GHz (10 cores),6276,CPU
+intel xeon e5-2640 v4,2.4 GHz (10 cores),6244,CPU
+intel core i5-10600,3.3 GHz (6 cores),6225,CPU
+intel core i7-7800x,3.5 GHz (6 cores),6222,CPU
+intel xeon e5-2687w v2,3.4 GHz (8 cores),6160,CPU
+intel xeon e5-2680 v2,2.8 GHz (10 cores),6144,CPU
+geforce rtx 3070 ti,"1575 MHz | 8 GB, GDDR6X, 256 bit-1188 MHz",6144,GPU
+rtx a4000,"735 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",6144,GPU
+arctic sound 1t,"900 MHz | 16 GB, HBM2e, 4096 bit-1200 MHz",6144,GPU
+intel xeon e5-2695 v2,2.4 GHz (12 cores),6128,CPU
+intel core i9-9880h,2.3 GHz (8 cores),6125,CPU
+amd ryzen 7 2700,3.2 GHz (8 cores),6120,CPU
+amd ryzen 7 pro 1700x,3.4 GHz (8 cores),6089,CPU
+amd ryzen 7 1700x,3.4 GHz (8 cores),5989,CPU
+intel xeon e5-2667 v2,3.3 GHz (8 cores),5957,CPU
+amd epyc 7401p,2.0 GHz (24 cores),5955,CPU
+amd ryzen 7 4800u,1.8 GHz (8 cores),5927,CPU
+intel core i5-10500,3.1 GHz (6 cores),5904,CPU
+geforce rtx 3070,"1500 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",5888,GPU
+intel xeon e-2146g,3.5 GHz (6 cores),5858,CPU
+intel core i7-8700,3.2 GHz (6 cores),5837,CPU
+intel xeon w-2133,3.6 GHz (6 cores),5819,CPU
+intel core i7-6850k,3.6 GHz (6 cores),5786,CPU
+intel core i5-10400f,2.9 GHz (6 cores),5766,CPU
+intel xeon e-2136,3.3 GHz (6 cores),5739,CPU
+intel xeon e5-4657l v2,2.4 GHz (12 cores),5721,CPU
+intel xeon e5-2650 v3,2.3 GHz (10 cores),5677,CPU
+amd ryzen 7 1700,3.0 GHz (8 cores),5677,CPU
+amd ryzen 5 2600x,3.6 GHz (6 cores),5668,CPU
+intel core i7-5930k,3.5 GHz (6 cores),5635,CPU
+intel core i5-10400,2.9 GHz (6 cores),5622,CPU
+intel xeon e5-1650 v4,3.6 GHz (6 cores),5617,CPU
+intel core i5-9600kf,3.7 GHz (6 cores),5609,CPU
+intel core i5-9600k,3.7 GHz (6 cores),5602,CPU
+intel core i7-8700b,3.2 GHz (6 cores),5600,CPU
+intel xeon e5-2470 v2,2.4 GHz (10 cores),5597,CPU
+intel core i7-6800k,3.4 GHz (6 cores),5582,CPU
+intel xeon e5-2640 v3,2.6 GHz (8 cores),5570,CPU
+intel xeon silver 4114,2.2 GHz (10 cores),5550,CPU
+intel core i5-8600k,3.6 GHz (6 cores),5535,CPU
+intel xeon e5-2670 v2,2.5 GHz (10 cores),5466,CPU
+intel core i7-10750h,2.6 GHz (6 cores),5463,CPU
+intel core i7-5820k,3.3 GHz (6 cores),5427,CPU
+intel core i7-10850h,2.7 GHz (6 cores),5387,CPU
+amd ryzen 7 pro 4750u,1.7 GHz (8 cores),5374,CPU
+amd epyc 7551,2.0 GHz (32 cores),5361,CPU
+intel xeon e5-1650 v3,3.5 GHz (6 cores),5316,CPU
+intel xeon e5-2690,2.9 GHz (8 cores),5288,CPU
+amd ryzen 5 2600,3.4 GHz (6 cores),5265,CPU
+amd ryzen 7 pro 1700,3.0 GHz (8 cores),5259,CPU
+intel xeon e5-2687w,3.1 GHz (8 cores),5247,CPU
+intel core i7-9700t,2.0 GHz (8 cores),5226,CPU
+amd ryzen 5 3500x,3.6 GHz (6 cores),5212,CPU
+intel xeon silver 4110,2.1 GHz (8 cores),5198,CPU
+amd ryzen 3 3300x,3.8 GHz (4 cores),5165,CPU
+amd ryzen 5 1600x,3.6 GHz (6 cores),5130,CPU
+intel xeon e-2276m,2.8 GHz (6 cores),5130,CPU
+intel xeon e5-2660 v2,2.2 GHz (10 cores),5124,CPU
+tesla pg500-216,"1260 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,GPU
+tesla pg503-216,"1312 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,GPU
+tesla v100 sxm2 16 gb,"1245 MHz | 16 GB, HBM2, 4096 bit-1106 MHz",5120,GPU
+tesla v100s pcie 32 gb,"1245 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,GPU
+quadro gv100,"1132 MHz | 32 GB, HBM2, 4096 bit-848 MHz",5120,GPU
+titan v ceo edition,"1200 MHz | 32 GB, HBM2, 4096 bit-848 MHz",5120,GPU
+tesla v100 dgxs 16 gb,"1327 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+tesla v100 dgxs 32 gb,"1297 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+tesla v100 fhhl,"937 MHz | 16 GB, HBM2, 4096 bit-810 MHz",5120,GPU
+tesla v100 pcie 32 gb,"1230 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+tesla v100 sxm2 32 gb,"1290 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+tesla v100 sxm3 32 gb,"1290 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+titan v,"1200 MHz | 12 GB, HBM2, 3072 bit-848 MHz",5120,GPU
+tesla v100 pcie 16 gb,"1245 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+tesla v100 sxm2 16 gb,"1312 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,GPU
+radeon pro w6900x,"2075 MHz | 32 GB, GDDR6, 256 bit-2000 MHz",5120,GPU
+radeon rx 6900 xt,"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",5120,GPU
+radeon rx 6900 xtx,"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",5120,GPU
+intel xeon e5-2650 v2,2.6 GHz (8 cores),5116,CPU
+intel xeon e5-2686 v4,2.3 GHz (8 cores),5038,CPU
+intel core i5-9600,3.1 GHz (6 cores),5035,CPU
+intel core i7-4960x,3.6 GHz (6 cores),4990,CPU
+amd ryzen 5 4600hs,3.0 GHz (6 cores),4948,CPU
+intel core i7-9850h,2.6 GHz (6 cores),4917,CPU
+amd ryzen 5 1600,3.2 GHz (6 cores),4911,CPU
+intel core i7-11370h,3.3 GHz (4 cores),4898,CPU
+intel core i7-8700t,2.4 GHz (6 cores),4887,CPU
+intel core i5-8600,3.1 GHz (6 cores),4885,CPU
+amd ryzen 5 4600u,2.1 GHz (6 cores),4885,CPU
+intel core i7-9750h,2.6 GHz (6 cores),4871,CPU
+intel xeon e5-2620 v4,2.1 GHz (8 cores),4870,CPU
+intel xeon e5-2680,2.7 GHz (8 cores),4867,CPU
+amd ryzen 5 4600h,3.0 GHz (6 cores),4865,CPU
+geforce rtx 3060 ti,"1410 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",4864,GPU
+amd ryzen 5 3500,3.6 GHz (6 cores),4863,CPU
+intel core i7-1185g7,3.0 GHz (4 cores),4862,CPU
+intel core i7-3970x,3.5 GHz (6 cores),4842,CPU
+intel core i7-4930k,3.4 GHz (6 cores),4827,CPU
+intel xeon e5-1650 v2,3.5 GHz (6 cores),4812,CPU
+intel core i9-8950hk,2.9 GHz (6 cores),4792,CPU
+intel core i7-7740x,4.3 GHz (4 cores),4782,CPU
+intel xeon e5-2630 v3,2.4 GHz (8 cores),4779,CPU
+amd ryzen 7 4700u,2.0 GHz (8 cores),4764,CPU
+intel core i3-10320,3.8 GHz (4 cores),4728,CPU
+amd ryzen 3 3100,3.6 GHz (4 cores),4703,CPU
+intel xeon e5-1660 v2,3.7 GHz (6 cores),4699,CPU
+intel core i7-7700k,4.2 GHz (4 cores),4694,CPU
+intel core i5-8500b,3.0 GHz (6 cores),4680,CPU
+intel core i5-9500,3.0 GHz (6 cores),4667,CPU
+intel xeon e5-2670,2.6 GHz (8 cores),4645,CPU
+intel core i7-3960x,3.3 GHz (6 cores),4632,CPU
+intel core i3-10300,3.7 GHz (4 cores),4632,CPU
+intel core i5-11300h,3.1 GHz (4 cores),4612,CPU
+grid rtx t10-16,"1065 MHz | 16 GB, GDDR6, 384 bit-1575 MHz",4608,GPU
+grid rtx t10-4,"1065 MHz | 4 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+grid rtx t10-8,"1065 MHz | 8 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+quadro rtx 6000,"1440 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+quadro rtx 6000 passive,"1305 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+quadro rtx 8000,"1395 MHz | 48 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+quadro rtx 8000 passive,"1230 MHz | 48 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+titan rtx,"1350 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,GPU
+radeon rx 6800 xt,"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",4608,GPU
+intel core i7-1165g7,2.8 GHz (4 cores),4599,CPU
+intel core i5-9400f,2.9 GHz (6 cores),4594,CPU
+intel core i5-8500,3.0 GHz (6 cores),4584,CPU
+intel xeon e5-1660,3.3 GHz (6 cores),4575,CPU
+intel xeon e-2176m,2.7 GHz (6 cores),4551,CPU
+intel core i5-9400,2.9 GHz (6 cores),4551,CPU
+intel core i5-8400,2.8 GHz (6 cores),4535,CPU
+intel core i7-8750h,2.2 GHz (6 cores),4526,CPU
+intel core i7-3930k,3.2 GHz (6 cores),4515,CPU
+intel core i7-1068ng7,2.3 GHz (4 cores),4498,CPU
+intel xeon w-2125,4.0 GHz (4 cores),4496,CPU
+intel core i7-8850h,2.6 GHz (6 cores),4493,CPU
+intel xeon e5-2643 v2,3.5 GHz (6 cores),4462,CPU
+intel xeon e5-2630l v3,1.8 GHz (8 cores),4461,CPU
+intel core i7-6700k,4.0 GHz (4 cores),4438,CPU
+amd ryzen 5 pro 4650u,2.1 GHz (6 cores),4434,CPU
+cmp 50hx,"1350 MHz | 10 GB, GDDR6, 320 bit-1750 MHz",4352,GPU
+geforce rtx 2080 ti,"1350 MHz | 11 GB, GDDR6, 352 bit-1750 MHz",4352,GPU
+intel xeon e5-1650,3.2 GHz (6 cores),4304,CPU
+intel xeon e5-2665,2.4 GHz (8 cores),4275,CPU
+intel core i5-1135g7,2.4 GHz (4 cores),4273,CPU
+intel core i3-9350kf,4.0 GHz (4 cores),4234,CPU
+intel core i5-1038ng7,2.0 GHz (4 cores),4216,CPU
+intel xeon silver 4108,1.8 GHz (8 cores),4185,CPU
+intel core i7-1185g7e,2.8 GHz (4 cores),4141,CPU
+intel core i7-5775c,3.3 GHz (4 cores),4116,CPU
+intel xeon e5-2637 v4,3.5 GHz (4 cores),4101,CPU
+radeon pro vega ii,"1574 MHz | 32 GB, HBM2, 4096 bit-806 MHz",4096,GPU
+radeon pro vega ii duo,"1400 MHz | 32 GB, HBM2, 4096 bit-1000 MHz",4096,GPU
+radeon instinct mi60,"1200 MHz | 32 GB, HBM2, 4096 bit-1000 MHz",4096,GPU
+radeon rx vega nano,"1247 MHz | 8 GB, HBM2, 2048 bit-800 MHz",4096,GPU
+radeon instinct mi25,"1400 MHz | 16 GB, HBM2, 2048 bit-852 MHz",4096,GPU
+radeon pro ssg,"1440 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon pro v320,"852 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon pro wx 9100,"1200 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon rx vega 64,"1247 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon rx vega 64 limited edition,"1247 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon rx vega 64 liquid cooling,"1406 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon vega frontier edition,"1382 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+radeon vega frontier edition watercooled,"1382 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,GPU
+firepro s9300 x2,"975 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+radeon instinct mi8,"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+radeon pro duo,"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+radeon r9 fury x,"1050 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+radeon r9 fury x2,"1050 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+radeon r9 nano,"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,GPU
+intel xeon e3-1245 v6,3.7 GHz (4 cores),4086,CPU
+intel core i7-8569u,2.8 GHz (4 cores),4057,CPU
+intel core i3-10100f,3.6 GHz (4 cores),4052,CPU
+intel core i3-10100,3.6 GHz (4 cores),4048,CPU
+intel xeon e3-1270 v6,3.8 GHz (4 cores),4043,CPU
+intel core i5-7640x,4.0 GHz (4 cores),4034,CPU
+intel core i7-8559u,2.7 GHz (4 cores),4010,CPU
+intel core i5-9500t,2.2 GHz (6 cores),3989,CPU
+intel core i7-7700,3.6 GHz (4 cores),3980,CPU
+intel xeon e5-2650,2.0 GHz (8 cores),3968,CPU
+intel xeon w-2123,3.6 GHz (4 cores),3945,CPU
+intel core i7-4790k,4.0 GHz (4 cores),3942,CPU
+intel core i7-8809g,3.1 GHz (4 cores),3941,CPU
+intel xeon e3-1240 v6,3.7 GHz (4 cores),3939,CPU
+intel xeon e5-2640 v2,2.0 GHz (8 cores),3927,CPU
+intel core i5-8500t,2.1 GHz (6 cores),3915,CPU
+intel xeon e5-2660,2.2 GHz (8 cores),3910,CPU
+intel xeon e3-1280 v6,3.9 GHz (4 cores),3905,CPU
+intel xeon e5-2667,2.9 GHz (6 cores),3900,CPU
+intel xeon e5-2620 v3,2.4 GHz (6 cores),3895,CPU
+intel xeon e3-1285l v4,3.4 GHz (4 cores),3886,CPU
+intel xeon e3-1240 v5,3.5 GHz (4 cores),3876,CPU
+intel core i7-7820hk,2.9 GHz (4 cores),3850,CPU
+titan xp,"1405 MHz | 12 GB, GDDR5X, 384 bit-1426 MHz",3840,GPU
+quadro p6000,"1506 MHz | 24 GB, GDDR5X, 384 bit-1127 MHz",3840,GPU
+tesla p10,"1025 MHz | 24 GB, GDDR5X, 384 bit-1808 MHz",3840,GPU
+tesla p40,"1303 MHz | 24 GB, GDDR5X, 384 bit-1808 MHz",3840,GPU
+radeon pro vii,"1400 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,GPU
+radeon pro w6800,"2075 MHz | 32 GB, GDDR6, 256 bit-2000 MHz",3840,GPU
+radeon rx 6800,"1700 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",3840,GPU
+radeon vii,"1400 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,GPU
+radeon instinct mi50,"1200 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,GPU
+intel core i5-8279u,2.4 GHz (4 cores),3838,CPU
+intel core i5-8259u,2.3 GHz (4 cores),3822,CPU
+intel xeon e3-1535m v6,3.1 GHz (4 cores),3809,CPU
+intel xeon e3-1275 v5,3.6 GHz (4 cores),3796,CPU
+intel xeon e3-1270 v5,3.6 GHz (4 cores),3793,CPU
+intel core i3-8350k,4.0 GHz (4 cores),3792,CPU
+intel core i7-5775r,3.3 GHz (4 cores),3772,CPU
+intel core i7-6700,3.4 GHz (4 cores),3767,CPU
+intel core i5-7600k,3.8 GHz (4 cores),3766,CPU
+intel core i5-10300h,2.5 GHz (4 cores),3753,CPU
+intel xeon e5-1630 v4,3.7 GHz (4 cores),3745,CPU
+intel xeon e3-1230 v6,3.5 GHz (4 cores),3739,CPU
+intel xeon e3-1245 v5,3.5 GHz (4 cores),3738,CPU
+intel xeon e5-2637 v3,3.5 GHz (4 cores),3731,CPU
+intel xeon e3-1275 v6,3.8 GHz (4 cores),3726,CPU
+intel core i7-990x,3.5 GHz (6 cores),3702,CPU
+intel core i5-8257u,1.4 GHz (4 cores),3702,CPU
+intel xeon e5-2630 v2,2.6 GHz (6 cores),3701,CPU
+intel core i7-4770k,3.5 GHz (4 cores),3691,CPU
+intel core i5-5675c,3.1 GHz (4 cores),3675,CPU
+intel xeon e5-1630 v3,3.7 GHz (4 cores),3665,CPU
+intel core i7-7920hq,3.1 GHz (4 cores),3662,CPU
+intel core i5-9300hf,2.4 GHz (4 cores),3658,CPU
+intel xeon e3-1585l v5,3.0 GHz (4 cores),3640,CPU
+amd ryzen 5 2500x,3.6 GHz (4 cores),3637,CPU
+intel xeon e3-1230 v5,3.4 GHz (4 cores),3633,CPU
+intel xeon e5-1620 v4,3.5 GHz (4 cores),3631,CPU
+intel xeon e5-2637 v2,3.5 GHz (4 cores),3630,CPU
+intel core i5-6600k,3.5 GHz (4 cores),3620,CPU
+intel xeon w3690,3.5 GHz (6 cores),3619,CPU
+intel xeon e3-1271 v3,3.6 GHz (4 cores),3619,CPU
+intel xeon x5690,3.5 GHz (6 cores),3608,CPU
+amd ryzen 5 3400g,3.7 GHz (4 cores),3602,CPU
+intel xeon e3-1275 v3,3.5 GHz (4 cores),3594,CPU
+intel core i7-6820hk,2.7 GHz (4 cores),3585,CPU
+intel xeon e3-1280 v3,3.6 GHz (4 cores),3584,CPU
+a30 pcie,"930 MHz | 24 GB, HBM2, 3072 bit-1215 MHz",3584,GPU
+geforce rtx 3060,"1320 MHz | 12 GB, GDDR6, 192 bit-1875 MHz",3584,GPU
+pg506-232,"930 MHz | 24 GB, HBM2, 3072 bit-1215 MHz",3584,GPU
+geforce gtx 1080 ti,"1481 MHz | 11 GB, GDDR5X, 352 bit-1376 MHz",3584,GPU
+quadro gp100,"1304 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,GPU
+titan x pascal,"1417 MHz | 12 GB, GDDR5X, 384 bit-1251 MHz",3584,GPU
+tesla p100 dgxs,"1328 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,GPU
+tesla p100 pcie 12 gb,"1190 MHz | 12 GB, HBM2, 3072 bit-715 MHz",3584,GPU
+tesla p100 pcie 16 gb,"1190 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,GPU
+tesla p100 sxm2,"1328 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,GPU
+radeon pro v340,"852 MHz | 16 GB, HBM2, 2048 bit-945 MHz",3584,GPU
+radeon pro wx 8200,"1200 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",3584,GPU
+radeon pro wx 8100,"1200 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",3584,GPU
+radeon rx vega 56,"1156 MHz | 8 GB, HBM2, 2048 bit-800 MHz",3584,GPU
+radeon r9 fury,"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",3584,GPU
+intel xeon e5-2623 v3,3.0 GHz (4 cores),3578,CPU
+amd ryzen 5 pro 1500,3.5 GHz (4 cores),3570,CPU
+amd ryzen 5 1500x,3.5 GHz (4 cores),3569,CPU
+intel xeon e3-1246 v3,3.5 GHz (4 cores),3566,CPU
+intel core i7-7820hq,2.9 GHz (4 cores),3559,CPU
+intel core i5-8400t,1.7 GHz (6 cores),3540,CPU
+intel core i7-8705g,3.1 GHz (4 cores),3530,CPU
+intel core i7-7700t,2.9 GHz (4 cores),3527,CPU
+intel xeon e5-1620 v3,3.5 GHz (4 cores),3523,CPU
+intel xeon e3-1281 v3,3.7 GHz (4 cores),3496,CPU
+intel core i7-4790,3.6 GHz (4 cores),3477,CPU
+intel xeon e3-1276 v3,3.6 GHz (4 cores),3476,CPU
+intel core i7-4910mq,2.9 GHz (4 cores),3473,CPU
+intel xeon e3-1241 v3,3.5 GHz (4 cores),3461,CPU
+intel core i7-6920hq,2.9 GHz (4 cores),3456,CPU
+intel core i7-980x,3.3 GHz (6 cores),3452,CPU
+intel xeon e3-1545m v5,2.9 GHz (4 cores),3438,CPU
+intel core i7-4771,3.5 GHz (4 cores),3436,CPU
+intel xeon e3-1240 v3,3.4 GHz (4 cores),3397,CPU
+intel xeon w3680,3.3 GHz (6 cores),3394,CPU
+intel core i7-4770,3.4 GHz (4 cores),3383,CPU
+intel core i7-4820k,3.7 GHz (4 cores),3376,CPU
+intel core i7-4770r,3.2 GHz (4 cores),3371,CPU
+intel xeon x5680,3.3 GHz (6 cores),3360,CPU
+intel core i7-4940mx,3.1 GHz (4 cores),3356,CPU
+intel core i7-3770k,3.5 GHz (4 cores),3348,CPU
+intel xeon e3-1230 v3,3.3 GHz (4 cores),3343,CPU
+intel xeon e3-1245 v3,3.4 GHz (4 cores),3333,CPU
+xbox series x gpu,"1825 MHz | 10 GB, GDDR6, 320 bit-1750 MHz",3328,GPU
+intel xeon e3-1270 v3,3.5 GHz (4 cores),3327,CPU
+intel core i7-6700te,2.4 GHz (4 cores),3325,CPU
+intel xeon e5-2640,2.5 GHz (6 cores),3323,CPU
+intel core i5-8400h,2.5 GHz (4 cores),3320,CPU
+intel core i3-9100,3.6 GHz (4 cores),3317,CPU
+intel core i5-7600,3.5 GHz (4 cores),3314,CPU
+intel core i5-9300h,2.4 GHz (4 cores),3314,CPU
+intel xeon e3-1231 v3,3.4 GHz (4 cores),3309,CPU
+intel xeon e3-1290 v2,3.7 GHz (4 cores),3308,CPU
+intel core i7-4790s,3.2 GHz (4 cores),3299,CPU
+intel core i7-6700t,2.8 GHz (4 cores),3279,CPU
+intel core i3-10100t,3.0 GHz (4 cores),3277,CPU
+intel core i5-8300h,2.3 GHz (4 cores),3275,CPU
+intel xeon e3-1505m v5,2.8 GHz (4 cores),3274,CPU
+intel xeon e5-2430 v2,2.5 GHz (6 cores),3264,CPU
+intel xeon e5-2630l v2,2.4 GHz (6 cores),3246,CPU
+intel core i3-8100b,3.6 GHz (4 cores),3245,CPU
+intel xeon silver 4112,2.6 GHz (4 cores),3239,CPU
+intel core i7-970,3.2 GHz (6 cores),3237,CPU
+intel core i5-4690k,3.5 GHz (4 cores),3235,CPU
+intel xeon e5-2420 v2,2.2 GHz (6 cores),3226,CPU
+intel xeon x5670,2.9 GHz (6 cores),3223,CPU
+intel xeon e3-1575m v5,3.0 GHz (4 cores),3218,CPU
+intel core i7-7700hq,2.8 GHz (4 cores),3215,CPU
+intel xeon e3-1535m v5,2.9 GHz (4 cores),3208,CPU
+amd ryzen 5 2400g,3.6 GHz (4 cores),3207,CPU
+intel core i7-4960hq,2.6 GHz (4 cores),3204,CPU
+geforce gtx 1080 ti 10 gb,"1557 MHz | 10 GB, GDDR5X, 320 bit-1376 MHz",3200,GPU
+p102-100,"1582 MHz | 5 GB, GDDR5X, 320 bit-1376 MHz",3200,GPU
+p102-101,"1557 MHz | 10 GB, GDDR5, 320 bit-2002 MHz",3200,GPU
+intel xeon e5-1620 v2,3.7 GHz (4 cores),3194,CPU
+intel xeon x5675,3.1 GHz (6 cores),3189,CPU
+intel core i7-8557u,1.7 GHz (4 cores),3186,CPU
+intel core i7-4770s,3.1 GHz (4 cores),3185,CPU
+intel xeon e5-2623 v4,2.6 GHz (4 cores),3177,CPU
+intel core i3-9100f,3.6 GHz (4 cores),3173,CPU
+intel xeon e3-1270 v2,3.5 GHz (4 cores),3164,CPU
+intel xeon w3670,3.2 GHz (6 cores),3156,CPU
+intel xeon e3-1280 v2,3.6 GHz (4 cores),3152,CPU
+intel core i7-4930mx,3.0 GHz (4 cores),3149,CPU
+amd ryzen 7 3750h,2.3 GHz (4 cores),3147,CPU
+amd ryzen 5 1400,3.2 GHz (4 cores),3143,CPU
+intel core i7-6820hq,2.7 GHz (4 cores),3140,CPU
+intel xeon e3-1275l v3,2.7 GHz (4 cores),3140,CPU
+intel core i7-2600k,3.4 GHz (4 cores),3134,CPU
+intel xeon e5-2667 v3,3.2 GHz (8 cores),3128,CPU
+intel core i7-4870hq,2.5 GHz (4 cores),3121,CPU
+intel core i7-4850hq,2.3 GHz (4 cores),3119,CPU
+intel core i5-4670k,3.4 GHz (4 cores),3116,CPU
+intel core i5-8305g,2.8 GHz (4 cores),3109,CPU
+intel core i7-3820,3.6 GHz (4 cores),3108,CPU
+amd fx-9590,4.7 GHz (8 cores),3103,CPU
+intel core i7-10510u,1.8 GHz (4 cores),3101,CPU
+intel core i5-6600,3.3 GHz (4 cores),3097,CPU
+intel core i7-4980hq,2.8 GHz (4 cores),3086,CPU
+intel xeon e5-2620 v2,2.1 GHz (6 cores),3085,CPU
+intel core i7-3770,3.4 GHz (4 cores),3083,CPU
+intel xeon e5-1620,3.6 GHz (4 cores),3078,CPU
+geforce rtx 2080 super,"1650 MHz | 8 GB, GDDR6, 256 bit-1937 MHz",3072,GPU
+quadro rtx 5000,"1620 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",3072,GPU
+quadro m6000 24 gb,"988 MHz | 24 GB, GDDR5, 384 bit-1653 MHz",3072,GPU
+geforce gtx titan x,"1000 MHz | 12 GB, GDDR5, 384 bit-1753 MHz",3072,GPU
+quadro m6000,"988 MHz | 12 GB, GDDR5, 384 bit-1653 MHz",3072,GPU
+tesla m40,"948 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",3072,GPU
+intel xeon x5650,2.7 GHz (6 cores),3071,CPU
+intel core i5-7500,3.4 GHz (4 cores),3065,CPU
+intel xeon e5645,2.4 GHz (6 cores),3061,CPU
+intel core i7-6700hq,2.6 GHz (4 cores),3059,CPU
+amd ryzen 3 2300x,3.5 GHz (4 cores),3052,CPU
+intel core i7-2700k,3.5 GHz (4 cores),3044,CPU
+intel xeon x5660,2.8 GHz (6 cores),3041,CPU
+amd opteron 6376,2.3 GHz (16 cores),3039,CPU
+intel core i7-4770hq,2.2 GHz (4 cores),3037,CPU
+intel xeon e5-2630,2.3 GHz (6 cores),3032,CPU
+intel xeon e3-1245 v2,3.4 GHz (4 cores),3026,CPU
+intel xeon e3-1225 v5,3.3 GHz (4 cores),3022,CPU
+intel xeon,2.2 GHz (4 cores),3020,CPU
+intel core i3-8100,3.6 GHz (4 cores),3019,CPU
+intel core i7-4900mq,2.8 GHz (4 cores),3015,CPU
+intel xeon e5-1607 v4,3.1 GHz (4 cores),2993,CPU
+intel core i5-7600t,2.8 GHz (4 cores),2992,CPU
+intel core i5-10210u,1.6 GHz (4 cores),2987,CPU
+intel xeon e5649,2.5 GHz (6 cores),2986,CPU
+intel core i7-4810mq,2.8 GHz (4 cores),2977,CPU
+intel xeon e3-1240 v2,3.4 GHz (4 cores),2973,CPU
+intel xeon e5-2643,3.3 GHz (4 cores),2966,CPU
+intel xeon e3-1230v2,3.3 GHz (4 cores),2960,CPU
+intel core i3-8300,3.7 GHz (4 cores),2960,CPU
+intel xeon e3-1220 v6,3.0 GHz (4 cores),2959,CPU
+intel core i5-4690,3.5 GHz (4 cores),2954,CPU
+intel core i7-6770hq,2.6 GHz (4 cores),2951,CPU
+geforce rtx 2080,"1515 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2944,GPU
+intel core i7-3840qm,2.8 GHz (4 cores),2928,CPU
+intel xeon e5-2630l,2.0 GHz (6 cores),2927,CPU
+intel core i7-4790t,2.7 GHz (4 cores),2926,CPU
+intel core i7-4860hq,2.4 GHz (4 cores),2921,CPU
+intel xeon e3-1225 v6,3.3 GHz (4 cores),2920,CPU
+amd ryzen 3 1300x,3.5 GHz (4 cores),2917,CPU
+intel core i7-3940xm,3.0 GHz (4 cores),2914,CPU
+intel core i5-6500,3.2 GHz (4 cores),2907,CPU
+intel core i7-4770t,2.5 GHz (4 cores),2904,CPU
+intel core i7-5700hq,2.7 GHz (4 cores),2896,CPU
+intel core i5-4670,3.4 GHz (4 cores),2895,CPU
+intel core i7-3770s,3.1 GHz (4 cores),2885,CPU
+intel xeon e5-2609 v4,1.7 GHz (8 cores),2885,CPU
+geforce gtx titan black,"889 MHz | 6 GB, GDDR5, 384 bit-1750 MHz",2880,GPU
+geforce gtx titan z,"705 MHz | 6 GB, GDDR5, 384 bit-1750 MHz",2880,GPU
+geforce gtx 780 ti,"875 MHz | 3 GB, GDDR5, 384 bit-1753 MHz",2880,GPU
+geforce gtx 780 ti 6 gb,"875 MHz | 6 GB, GDDR5, 384 bit-1753 MHz",2880,GPU
+quadro k6000,"797 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+quadro k6000 sdi,"902 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40c,"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40d,"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40m,"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40s,"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40st,"575 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+tesla k40t,"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,GPU
+amd ryzen 3 3200g,3.6 GHz (4 cores),2872,CPU
+intel core i7-4712mq,2.3 GHz (4 cores),2859,CPU
+intel core i5-5575r,2.8 GHz (4 cores),2857,CPU
+intel xeon e5-2620,2.0 GHz (6 cores),2841,CPU
+intel xeon e3-1270,3.4 GHz (4 cores),2837,CPU
+intel core i3-9100t,3.1 GHz (4 cores),2832,CPU
+intel xeon e3-1220 v5,3.0 GHz (4 cores),2827,CPU
+amd ryzen 3 pro 1300,3.5 GHz (4 cores),2822,CPU
+amd fx-9370,4.4 GHz (8 cores),2820,CPU
+amd ryzen 3 4300u,2.7 GHz (4 cores),2820,CPU
+intel xeon e3-1225 v3,3.2 GHz (4 cores),2819,CPU
+intel core i5-4590,3.3 GHz (4 cores),2818,CPU
+geforce gtx 980 ti,"1000 MHz | 6 GB, GDDR5, 384 bit-1753 MHz",2816,GPU
+firepro s9170,"930 MHz | 32 GB, GDDR5, 512 bit-1250 MHz",2816,GPU
+radeon r9 390x,"1050 MHz | 8 GB, GDDR5, 512 bit-1500 MHz",2816,GPU
+firepro s9150,"900 MHz | 16 GB, GDDR5, 512 bit-1250 MHz",2816,GPU
+firepro w9100,"930 MHz | 16 GB, GDDR5, 512 bit-1250 MHz",2816,GPU
+radeon r9 290x2,"1000 MHz | 4 GB, GDDR5, 512 bit-1350 MHz",2816,GPU
+radeon r9 295x2,"1018 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2816,GPU
+radeon r9 290x,"1000 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2816,GPU
+intel core i7-4800mq,2.7 GHz (4 cores),2813,CPU
+intel xeon x5677,3.5 GHz (4 cores),2812,CPU
+intel core i5-6600t,2.7 GHz (4 cores),2811,CPU
+intel core i5-7400,3.0 GHz (4 cores),2808,CPU
+intel core i5-3570k,3.4 GHz (4 cores),2795,CPU
+intel core i5-4690s,3.2 GHz (4 cores),2795,CPU
+intel xeon e3-1226 v3,3.3 GHz (4 cores),2791,CPU
+amd ryzen 7 3780u microsoft surface edition,2.3 GHz (4 cores),2788,CPU
+amd ryzen 5 3550h,2.1 GHz (4 cores),2783,CPU
+intel core i7-4720hq,2.6 GHz (4 cores),2781,CPU
+intel core i5-4670s,3.1 GHz (4 cores),2779,CPU
+intel core i5-2550k,3.4 GHz (4 cores),2769,CPU
+amd fx-8350,4.0 GHz (8 cores),2760,CPU
+intel xeon e3-1265l v3,2.5 GHz (4 cores),2759,CPU
+intel core i5-4590s,3.0 GHz (4 cores),2756,CPU
+intel core i7-3820qm,2.7 GHz (4 cores),2755,CPU
+intel xeon e3-1505m v6,3.0 GHz (4 cores),2754,CPU
+intel core i7-4785t,2.2 GHz (4 cores),2744,CPU
+intel core i5-7440hq,2.8 GHz (4 cores),2744,CPU
+intel core i7-4750hq,2.0 GHz (4 cores),2743,CPU
+intel core i7-2600,3.4 GHz (4 cores),2737,CPU
+intel core i7-3720qm,2.6 GHz (4 cores),2733,CPU
+intel core i7-4700hq,2.4 GHz (4 cores),2732,CPU
+intel core i3-8100t,3.1 GHz (4 cores),2732,CPU
+intel core i5-1030ng7,1.1 GHz (4 cores),2732,CPU
+intel core i7-8650u,1.9 GHz (4 cores),2731,CPU
+intel core i5-4570,3.2 GHz (4 cores),2724,CPU
+intel core i5-5675r,3.1 GHz (4 cores),2719,CPU
+intel core i3-7350k,4.2 GHz (2 cores),2715,CPU
+intel core i7-4710hq,2.5 GHz (4 cores),2708,CPU
+intel core i7-4710mq,2.5 GHz (4 cores),2703,CPU
+intel xeon e5-2420,1.9 GHz (6 cores),2692,CPU
+amd ryzen 3 2200g,3.5 GHz (4 cores),2692,CPU
+amd fx-8370,4.0 GHz (8 cores),2691,CPU
+geforce gtx titan,"836 MHz | 6 GB, GDDR5, 384 bit-1502 MHz",2688,GPU
+tesla k20x,"732 MHz | 6 GB, GDDR5, 384 bit-1300 MHz",2688,GPU
+tesla k20xm,"732 MHz | 6 GB, GDDR5, 384 bit-1300 MHz",2688,GPU
+intel xeon e3-1285l v3,3.1 GHz (4 cores),2687,CPU
+intel xeon e3-1220 v3,3.1 GHz (4 cores),2686,CPU
+intel xeon e3-1280,3.5 GHz (4 cores),2685,CPU
+intel xeon e3-1275 v2,3.5 GHz (4 cores),2683,CPU
+amd ryzen 3 1200,3.1 GHz (4 cores),2678,CPU
+intel xeon e3-1230l v3,1.8 GHz (4 cores),2662,CPU
+intel core i5-6400,2.7 GHz (4 cores),2658,CPU
+intel core i7-4702hq,2.2 GHz (4 cores),2654,CPU
+intel core i5-7300hq,2.5 GHz (4 cores),2648,CPU
+intel xeon e3-1245,3.3 GHz (4 cores),2645,CPU
+intel core i5-7500t,2.7 GHz (4 cores),2644,CPU
+intel core i5-6440hq,2.6 GHz (4 cores),2638,CPU
+intel core i7-3770t,2.5 GHz (4 cores),2635,CPU
+intel core i7-4700mq,2.4 GHz (4 cores),2632,CPU
+intel core i5-4570s,2.9 GHz (4 cores),2632,CPU
+intel core i5-2500k,3.3 GHz (4 cores),2623,CPU
+amd ryzen 7 3700u,2.3 GHz (4 cores),2622,CPU
+amd ryzen 7 pro 2700u,2.2 GHz (4 cores),2621,CPU
+intel core i7-1060ng7,1.2 GHz (4 cores),2603,CPU
+intel xeon x5570,2.9 GHz (4 cores),2589,CPU
+amd ryzen 5 pro 2500u,2.0 GHz (4 cores),2586,CPU
+intel core i5-6402p,2.8 GHz (4 cores),2582,CPU
+intel core i7-3740qm,2.7 GHz (4 cores),2581,CPU
+intel core i5-4460,3.2 GHz (4 cores),2578,CPU
+intel core i7-4702mq,2.2 GHz (4 cores),2575,CPU
+intel xeon e5-2609 v3,1.9 GHz (6 cores),2571,CPU
+a16 pcie,"885 MHz | 16 GB, GDDR6, 128 bit-1812 MHz",2560,GPU
+geforce rtx 2070 super,"1605 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,GPU
+p104-101,"1506 MHz | 4 GB, GDDR5, 256 bit-2002 MHz",2560,GPU
+tesla t4,"585 MHz | 16 GB, GDDR6, 256 bit-1250 MHz",2560,GPU
+geforce gtx 1080 11gbps,"1607 MHz | 8 GB, GDDR5X, 256 bit-1376 MHz",2560,GPU
+geforce gtx 1080,"1607 MHz | 8 GB, GDDR5X, 256 bit-1251 MHz",2560,GPU
+quadro p5000,"1607 MHz | 16 GB, GDDR5X, 256 bit-1127 MHz",2560,GPU
+tesla p4,"886 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",2560,GPU
+radeon rx 6700 xt,"2321 MHz | 12 GB, GDDR6, 192 bit-2000 MHz",2560,GPU
+radeon pro 5700 xt,"1243 MHz | 16 GB, GDDR6, 256 bit-1500 MHz",2560,GPU
+radeon pro w5700x,"1243 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",2560,GPU
+radeon rx 5700 xt,"1605 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,GPU
+radeon rx 5700 xt 50th anniversary,"1680 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,GPU
+xbox one x gpu,"1172 MHz | 12 GB, GDDR5, 384 bit-1700 MHz",2560,GPU
+radeon r9 390,"1000 MHz | 8 GB, GDDR5, 512 bit-1500 MHz",2560,GPU
+radeon r9 390 x2,"1000 MHz | 8 GB, GDDR5, 512 bit-1350 MHz",2560,GPU
+firepro s9100,"824 MHz | 12 GB, GDDR5, 512 bit-1250 MHz",2560,GPU
+firepro w8100,"824 MHz | 8 GB, GDDR5, 512 bit-1250 MHz",2560,GPU
+radeon r9 290,"947 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2560,GPU
+amd ryzen 7 pro 3700u,2.3 GHz (4 cores),2545,CPU
+amd ryzen 5 3580u microsoft surface edition,2.1 GHz (4 cores),2538,CPU
+intel xeon e3-1240,3.3 GHz (4 cores),2536,CPU
+intel core i4-4690t,2.5 GHz (4 cores),2532,CPU
+intel core i5-3570,3.4 GHz (4 cores),2531,CPU
+intel core i7-4765t,2.0 GHz (4 cores),2522,CPU
+amd ryzen 5 3500u,2.1 GHz (4 cores),2513,CPU
+intel xeon e3-1230,3.2 GHz (4 cores),2512,CPU
+intel core i5-3550,3.3 GHz (4 cores),2506,CPU
+intel core i3-1115g4,3.0 GHz (2 cores),2497,CPU
+tesla k80,"562 MHz | 12 GB, GDDR5, 384 bit-1253 MHz",2496,GPU
+tesla k20m,"706 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,GPU
+tesla k20s,"575 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,GPU
+tesla k20c,"706 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,GPU
+amd ryzen 5 pro 3500u,2.1 GHz (4 cores),2493,CPU
+intel core i7-3630qm,2.4 GHz (4 cores),2492,CPU
+amd fx-8320,3.5 GHz (8 cores),2487,CPU
+intel core i7-3615qm,2.3 GHz (4 cores),2483,CPU
+intel xeon e3-1225 v2,3.2 GHz (4 cores),2472,CPU
+intel xeon x5550,2.7 GHz (4 cores),2468,CPU
+intel core i7-4712hq,2.3 GHz (4 cores),2468,CPU
+intel core i5-6500t,2.5 GHz (4 cores),2466,CPU
+intel core i7-3635qm,2.4 GHz (4 cores),2460,CPU
+intel core i5-6500te,2.3 GHz (4 cores),2457,CPU
+intel core i7-975,3.3 GHz (4 cores),2449,CPU
+intel xeon w3580,3.3 GHz (4 cores),2448,CPU
+intel core i7-3610qm,2.3 GHz (4 cores),2447,CPU
+intel core i5-4430,3.0 GHz (4 cores),2445,CPU
+intel core i5-4440,3.1 GHz (4 cores),2444,CPU
+intel core i5-7400t,2.4 GHz (4 cores),2440,CPU
+amd ryzen 7 2700u,2.2 GHz (4 cores),2436,CPU
+geforce gtx 1070 ti,"1607 MHz | 8 GB, GDDR5, 256 bit-2002 MHz",2432,GPU
+intel core i7-8665u,1.9 GHz (4 cores),2425,CPU
+intel core i5-8365u,1.6 GHz (4 cores),2419,CPU
+intel core i7-965,3.2 GHz (4 cores),2412,CPU
+intel core i5-3470,3.2 GHz (4 cores),2412,CPU
+amd fx-8300,3.3 GHz (8 cores),2407,CPU
+intel xeon l5640,2.3 GHz (6 cores),2401,CPU
+intel core i5-4570r,2.7 GHz (4 cores),2397,CPU
+intel core i5-3570s,3.1 GHz (4 cores),2384,CPU
+amd ryzen 5 2500u,2.0 GHz (4 cores),2382,CPU
+intel core i5-4460s,2.9 GHz (4 cores),2381,CPU
+intel core i5-3450,3.1 GHz (4 cores),2375,CPU
+intel xeon e3-1220 v2,3.1 GHz (4 cores),2374,CPU
+intel core i5-6300hq,2.3 GHz (4 cores),2370,CPU
+amd fx-8150,3.6 GHz (8 cores),2358,CPU
+intel core i7-4700eq,2.4 GHz (4 cores),2356,CPU
+intel xeon e5-1607 v2,3.0 GHz (4 cores),2330,CPU
+intel core i7-8565u,1.8 GHz (4 cores),2327,CPU
+intel core i7-3632qm,2.2 GHz (4 cores),2326,CPU
+intel core i5-4670t,2.3 GHz (4 cores),2324,CPU
+amd opteron 4386,3.1 GHz (8 cores),2322,CPU
+amd fx-8320e,3.2 GHz (8 cores),2307,CPU
+amd fx-8310,3.4 GHz (4 cores),2306,CPU
+cmp 40hx,"1470 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,GPU
+geforce rtx 3050,"1545 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",2304,GPU
+geforce rtx 2070,"1410 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,GPU
+quadro rtx 4000,"1005 MHz | 8 GB, GDDR6, 256 bit-1625 MHz",2304,GPU
+quadro k5200,"667 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",2304,GPU
+geforce gtx 780,"863 MHz | 3 GB, GDDR5, 384 bit-1502 MHz",2304,GPU
+geforce gtx 780 6 gb,"863 MHz | 6 GB, GDDR5, 384 bit-1502 MHz",2304,GPU
+geforce gtx 780 rev. 2,"863 MHz | 3 GB, GDDR5, 384 bit-1502 MHz",2304,GPU
+radeon rx 6700,"2200 MHz | 6 GB, GDDR6, 192 bit-2000 MHz",2304,GPU
+playstation 5 gpu,"2233 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",2304,GPU
+radeon pro 5700,"1243 MHz | 8 GB, GDDR6, 256 bit-1500 MHz",2304,GPU
+radeon pro v520,"1000 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",2304,GPU
+radeon rx 5600 xt,"1130 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",2304,GPU
+radeon rx 590 gme,"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+radeon pro w5700,"1400 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,GPU
+radeon rx 5700,"1465 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,GPU
+radeon rx 580g,"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+radeon rx 580x,"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+radeon rx 590,"1469 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+radeon pro duo polaris,"1243 MHz | 16 GB, GDDR5, 256 bit-1750 MHz",2304,GPU
+radeon rx 580,"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+playstation 4 pro gpu,"911 MHz | 8 GB, GDDR5, 256 bit-1700 MHz",2304,GPU
+radeon instinct mi6,"1120 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,GPU
+radeon pro v7300x,"1188 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,GPU
+radeon pro v7350x2,"1188 MHz | 16 GB, GDDR5, 256 bit-1750 MHz",2304,GPU
+radeon pro wx 7100,"1188 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,GPU
+radeon rx 480,"1120 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+radeon rx 580 oem,"1120 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,GPU
+intel core i7-2600s,2.8 GHz (4 cores),2301,CPU
+intel core i7-3612qm,2.1 GHz (4 cores),2299,CPU
+intel xeon w5580,3.2 GHz (4 cores),2294,CPU
+intel core i7-2960xm,2.7 GHz (4 cores),2285,CPU
+intel core i5-3340,3.1 GHz (4 cores),2282,CPU
+intel core i5-3470s,2.9 GHz (4 cores),2276,CPU
+intel core i7-875k,2.9 GHz (4 cores),2269,CPU
+intel xeon e5-2676 v3,2.4 GHz (2 cores),2265,CPU
+intel core i3-7300,4.0 GHz (2 cores),2264,CPU
+intel core i7-2860qm,2.5 GHz (4 cores),2253,CPU
+intel core i5-3475s,2.9 GHz (4 cores),2253,CPU
+intel core i3-6320,3.9 GHz (2 cores),2251,CPU
+intel core i5-3550s,3.0 GHz (4 cores),2234,CPU
+intel core i5-3350p,3.1 GHz (4 cores),2229,CPU
+intel core i5-2500,3.3 GHz (4 cores),2224,CPU
+intel core i7-2820qm,2.3 GHz (4 cores),2217,CPU
+intel core i5-3570t,2.3 GHz (4 cores),2199,CPU
+intel core i5-4590t,2.0 GHz (4 cores),2185,CPU
+intel core i5-4430s,2.7 GHz (4 cores),2184,CPU
+intel core i7-7567u,3.5 GHz (2 cores),2178,CPU
+geforce rtx 2060 super,"1470 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2176,GPU
+intel core i5-6400t,2.2 GHz (4 cores),2167,CPU
+intel core i5-3335s,2.7 GHz (4 cores),2167,CPU
+intel core i5-3450s,2.8 GHz (4 cores),2142,CPU
+intel xeon e3-1220,3.1 GHz (4 cores),2138,CPU
+intel core i7-960,3.2 GHz (4 cores),2134,CPU
+intel core i5-3330,3.0 GHz (4 cores),2133,CPU
+intel core i7-2920xm,2.5 GHz (4 cores),2131,CPU
+intel core i5-2400,3.1 GHz (4 cores),2129,CPU
+intel core i7-2760qm,2.4 GHz (4 cores),2127,CPU
+intel xeon e5620,2.4 GHz (4 cores),2123,CPU
+intel xeon e5-1607,3.0 GHz (4 cores),2117,CPU
+intel xeon e3-1225,3.1 GHz (4 cores),2109,CPU
+intel xeon w3565,3.2 GHz (4 cores),2106,CPU
+intel core i7-950,3.1 GHz (4 cores),2099,CPU
+intel xeon e5640,2.7 GHz (4 cores),2099,CPU
+amd fx-8120,3.1 GHz (8 cores),2088,CPU
+intel xeon e3-1265l v2,2.5 GHz (4 cores),2084,CPU
+intel core i3-8109u,3.0 GHz (2 cores),2077,CPU
+intel core i7-940,2.9 GHz (4 cores),2072,CPU
+intel core i7-870,2.9 GHz (4 cores),2066,CPU
+intel core i3-6300,3.8 GHz (2 cores),2065,CPU
+amd fx-6350,3.9 GHz (6 cores),2063,CPU
+intel xeon w3540,2.9 GHz (4 cores),2056,CPU
+intel core i3-7100,3.9 GHz (2 cores),2056,CPU
+tesla p6,"1012 MHz | 16 GB, GDDR5, 256 bit-1502 MHz",2048,GPU
+grid m60-1q,"557 MHz | 1024 MB, GDDR5, 256 bit-1253 MHz",2048,GPU
+grid m60-2q,"557 MHz | 2 GB, GDDR5, 256 bit-1253 MHz",2048,GPU
+grid m60-4a,"557 MHz | 4 GB, GDDR5, 256 bit-1253 MHz",2048,GPU
+grid m60-8q,"557 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",2048,GPU
+quadro m5000,"861 MHz | 8 GB, GDDR5, 256 bit-1653 MHz",2048,GPU
+tesla m60,"557 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",2048,GPU
+geforce gtx 980,"1127 MHz | 4 GB, GDDR5, 256 bit-1753 MHz",2048,GPU
+radeon rx 6600 xt,"2200 MHz | 8 GB, GDDR6, 128 bit-2000 MHz",2048,GPU
+radeon rx 5600 oem,"1130 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",2048,GPU
+radeon rx 570x,"1168 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2048,GPU
+radeon rx 580 2048sp,"1168 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",2048,GPU
+radeon rx 570,"1168 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",2048,GPU
+firepro s7150,"920 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",2048,GPU
+radeon rx 470,"926 MHz | 4 GB, GDDR5, 256 bit-1650 MHz",2048,GPU
+radeon r9 380x,"970 MHz | 4 GB, GDDR5, 256 bit-1425 MHz",2048,GPU
+firepro d700,"850 MHz | 6 GB, GDDR5, 384 bit-1370 MHz",2048,GPU
+radeon r9 285x,"1002 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,GPU
+radeon hd 7990,"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,GPU
+radeon hd 8970 oem,"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,GPU
+radeon hd 8990 oem,"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,GPU
+radeon r9 280x,"850 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,GPU
+radeon r9 280x2,"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,GPU
+firepro w9000,"975 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",2048,GPU
+radeon hd 7970 ghz edition,"1000 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,GPU
+radeon hd 7970 x2,"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,GPU
+radeon hd 7970,"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,GPU
+intel xeon e5630,2.5 GHz (4 cores),2046,CPU
+intel core i5-2320,3.0 GHz (4 cores),2041,CPU
+intel pentium gold g5400,3.7 GHz (2 cores),2040,CPU
+intel core i5-3330s,2.7 GHz (4 cores),2031,CPU
+intel core i5-3340s,2.8 GHz (4 cores),2028,CPU
+intel core i3-1005g1,1.2 GHz (2 cores),2021,CPU
+intel xeon w3530,2.8 GHz (4 cores),2020,CPU
+intel xeon e5-1603,2.8 GHz (4 cores),2014,CPU
+intel xeon e5530,2.4 GHz (8 cores),2013,CPU
+intel xeon w3550,3.1 GHz (4 cores),2009,CPU
+intel core i5-7267u,3.1 GHz (2 cores),2008,CPU
+intel core i5-7360u,2.3 GHz (2 cores),2007,CPU
+amd ryzen 3 2300u,2.0 GHz (4 cores),2007,CPU
+amd phenom ii x6 1090t black edition,3.2 GHz (6 cores),2004,CPU
+intel core i7-7660u,2.5 GHz (2 cores),2002,CPU
+intel core i7-2720qm,2.2 GHz (4 cores),1990,CPU
+intel xeon x3460,2.8 GHz (4 cores),1963,CPU
+intel core i5-2300,2.8 GHz (4 cores),1962,CPU
+intel core i3-6100,3.7 GHz (2 cores),1960,CPU
+intel core i5-2310,2.9 GHz (4 cores),1959,CPU
+intel pentium g4620,3.7 GHz (2 cores),1954,CPU
+intel xeon e3-1260l,2.4 GHz (4 cores),1953,CPU
+intel core i5-7260u,2.2 GHz (2 cores),1935,CPU
+intel core i7-2670qm,2.2 GHz (4 cores),1934,CPU
+intel core i7-930,2.8 GHz (4 cores),1933,CPU
+intel core i5-4460t,1.9 GHz (4 cores),1924,CPU
+geforce rtx 2060 tu104,"1365 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1920,GPU
+geforce rtx 2060,"1365 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1920,GPU
+geforce gtx 1070 gddr5x,"1506 MHz | 8 GB, GDDR5X, 256 bit-1001 MHz",1920,GPU
+p104-100,"1607 MHz | 4 GB, GDDR5X, 256 bit-1251 MHz",1920,GPU
+geforce gtx 1070,"1506 MHz | 8 GB, GDDR5, 256 bit-2002 MHz",1920,GPU
+intel pentium gold g5500,3.8 GHz (2 cores),1917,CPU
+intel core i7-860,2.8 GHz (4 cores),1911,CPU
+intel core i3-10110u,2.1 GHz (2 cores),1910,CPU
+amd fx-6300,3.5 GHz (6 cores),1905,CPU
+intel core i3-4360,3.7 GHz (2 cores),1904,CPU
+intel core i7-920,2.7 GHz (4 cores),1903,CPU
+intel xeon w3520,2.7 GHz (4 cores),1902,CPU
+intel core i3-7100t,3.4 GHz (2 cores),1901,CPU
+amd fx-6120,3.5 GHz (3 cores),1899,CPU
+intel pentium g4600,3.6 GHz (2 cores),1895,CPU
+amd athlon 3000g,3.5 GHz (2 cores),1892,CPU
+intel xeon x5560,2.8 GHz (4 cores),1889,CPU
+intel core i7-2630qm,2.0 GHz (4 cores),1888,CPU
+intel core i7-6567u,3.3 GHz (2 cores),1887,CPU
+intel core i3-6098p,3.6 GHz (2 cores),1886,CPU
+intel core i7-2635qm,2.0 GHz (4 cores),1882,CPU
+amd fx-6200,3.8 GHz (3 cores),1878,CPU
+intel core i3-8121u,2.2 GHz (2 cores),1873,CPU
+intel core i5-8250u,1.6 GHz (4 cores),1870,CPU
+intel core i5-2500s,2.7 GHz (4 cores),1867,CPU
+intel pentium g4560,3.5 GHz (2 cores),1848,CPU
+intel xeon l5520,2.3 GHz (4 cores),1847,CPU
+intel core i3-4370,3.8 GHz (2 cores),1837,CPU
+intel core i3-4350,3.6 GHz (2 cores),1837,CPU
+intel core i5-2405s,2.5 GHz (4 cores),1834,CPU
+intel xeon x3450,2.7 GHz (4 cores),1830,CPU
+intel core i7-7560u,2.4 GHz (2 cores),1820,CPU
+intel core i3-4330,3.5 GHz (2 cores),1810,CPU
+intel core 2 extreme x9770,3.2 GHz (4 cores),1808,CPU
+intel xeon x3440,2.5 GHz (4 cores),1808,CPU
+intel core i5-6287u,3.1 GHz (2 cores),1795,CPU
+intel core i7-6650u,2.2 GHz (2 cores),1792,CPU
+quadro p4000,"1202 MHz | 8 GB, GDDR5, 256 bit-1901 MHz",1792,GPU
+radeon rx 6600,"2200 MHz | 8 GB, GDDR6, 128 bit-2000 MHz",1792,GPU
+radeon rx 560 xt,"1074 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",1792,GPU
+firepro s7150 x2,"1050 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,GPU
+radeon pro wx 5100,"713 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,GPU
+radeon rx 470d,"926 MHz | 4 GB, GDDR5, 256 bit-1650 MHz",1792,GPU
+radeon r9 380,"970 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1792,GPU
+radeon r9 380 oem,"918 MHz | 4 GB, GDDR5, 256 bit-1375 MHz",1792,GPU
+firepro s10000 passive 12gb,"825 MHz | 6 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+firepro s9050,"900 MHz | 12 GB, GDDR5, 384 bit-1375 MHz",1792,GPU
+firepro w7100,"920 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,GPU
+radeon r9 280,"827 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+radeon r9 285,"918 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1792,GPU
+radeon hd 7950 mac edition,"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+radeon hd 8950 oem,"850 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+radeon sky 700,"900 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",1792,GPU
+radeon sky 900,"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+firepro s10000,"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+firepro s10000 passive,"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+firepro s9000,"900 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",1792,GPU
+firepro s9010,"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+firepro w8000,"900 MHz | 4 GB, GDDR5, 256 bit-1375 MHz",1792,GPU
+radeon hd 7950,"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+radeon hd 7950 boost,"850 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,GPU
+intel core i5-2400s,2.5 GHz (4 cores),1788,CPU
+amd athlon x4 880k,4.2 GHz (2 cores),1783,CPU
+amd phenom ii x4 980,3.7 GHz (4 cores),1767,CPU
+intel core i7-6660u,2.4 GHz (2 cores),1748,CPU
+intel core i7-5557u,3.1 GHz (2 cores),1746,CPU
+intel core i3-6100t,3.2 GHz (2 cores),1745,CPU
+intel xeon e5-2609,2.4 GHz (4 cores),1731,CPU
+amd fx-6100,3.3 GHz (6 cores),1720,CPU
+intel core i5-5287u,2.9 GHz (2 cores),1712,CPU
+intel core i3-4170,3.7 GHz (2 cores),1712,CPU
+intel core i3-4160,3.6 GHz (2 cores),1711,CPU
+amd athlon 200ge,3.2 GHz (2 cores),1710,CPU
+intel core i7-2675qm,2.2 GHz (4 cores),1697,CPU
+intel core i3-4340,3.6 GHz (2 cores),1684,CPU
+intel core i7-6560u,2.2 GHz (2 cores),1680,CPU
+quadro m4000,"773 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",1664,GPU
+geforce gtx 970,"1050 MHz | 4 GB, GDDR5, 256 bit-1753 MHz",1664,GPU
+intel core i5-6267u,2.9 GHz (2 cores),1661,CPU
+intel core i5-4308u,2.8 GHz (2 cores),1656,CPU
+intel core i3-4150,3.5 GHz (2 cores),1649,CPU
+intel core i7-4558u,2.8 GHz (2 cores),1648,CPU
+intel xeon e5-2609 v2,2.5 GHz (4 cores),1647,CPU
+intel core i5-4570t,2.9 GHz (2 cores),1646,CPU
+intel core i7-4610m,3.0 GHz (2 cores),1631,CPU
+intel xeon e5520,2.3 GHz (4 cores),1629,CPU
+intel core i5-l16g7,1.4 GHz (5 cores),1627,CPU
+intel core i3-1000ng4,1.1 GHz (2 cores),1615,CPU
+amd fx-4330,4.0 GHz (2 cores),1614,CPU
+intel core i5-760,2.8 GHz (4 cores),1612,CPU
+intel core i5-6360u,2.0 GHz (2 cores),1607,CPU
+intel core i3-4130,3.4 GHz (2 cores),1606,CPU
+intel pentium g4500,3.5 GHz (2 cores),1603,CPU
+intel core i7-4600m,2.9 GHz (2 cores),1602,CPU
+amd phenom ii x4 975 black edition,3.6 GHz (4 cores),1600,CPU
+radeon hd 6870 1600sp edition,"850 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1600,GPU
+firestream 9370,"825 MHz | 4 GB, GDDR5, 256 bit-1150 MHz",1600,GPU
+amd a10-7870k,3.9 GHz (2 cores),1597,CPU
+intel core i5-4340m,2.9 GHz (2 cores),1592,CPU
+amd athlon x4 870k,3.9 GHz (2 cores),1583,CPU
+amd athlon x4 860k,3.7 GHz (4 cores),1576,CPU
+amd a10-7850k,3.7 GHz (4 cores),1575,CPU
+intel core i3-8130u,2.2 GHz (2 cores),1573,CPU
+intel core i5-750,2.7 GHz (4 cores),1566,CPU
+intel core i5-4200h,2.8 GHz (2 cores),1560,CPU
+intel core i3-4170t,3.2 GHz (2 cores),1560,CPU
+amd athlon x4 845,3.5 GHz (2 cores),1559,CPU
+intel core i5-6260u,1.8 GHz (2 cores),1558,CPU
+intel core i7-940xm,2.1 GHz (4 cores),1556,CPU
+amd a10-7860k,3.6 GHz (4 cores),1542,CPU
+intel core i5-4278u,2.6 GHz (2 cores),1538,CPU
+amd a10-6800k,4.1 GHz (4 cores),1536,CPU
+geforce gtx 1660 ti,"1500 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",1536,GPU
+grid m6-8q,"722 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",1536,GPU
+tesla m6,"930 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",1536,GPU
+grid k220q,"745 MHz | 512 MB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k500,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k520q,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k540q,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k560q,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+tesla k8,"693 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k2,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k200,"745 MHz | 256 MB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k240q,"745 MHz | 1024 MB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k260q,"745 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k280q,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+grid k520,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+geforce gtx 680 mac edition,"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,GPU
+geforce gtx 770,"1046 MHz | 2 GB, GDDR5, 256 bit-1753 MHz",1536,GPU
+quadro k5000 sync,"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,GPU
+geforce gtx 680,"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,GPU
+geforce gtx 690,"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,GPU
+quadro k5000,"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,GPU
+quadro k5000 mac edition,"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,GPU
+tesla k10,"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+radeon pro 5500 xt,"1187 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1536,GPU
+zhongshan subor z+ gpu,"1300 MHz | 8 GB, GDDR5, 256 bit-1200 MHz",1536,GPU
+firepro d500,"725 MHz | 3 GB, GDDR5, 384 bit-1270 MHz",1536,GPU
+radeon hd 7870 xt,"925 MHz | 2 GB, GDDR5, 256 bit-1500 MHz",1536,GPU
+radeon hd 7950 monica bios 1,"925 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1536,GPU
+radeon hd 6970 x2,"880 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1536,GPU
+radeon hd 6990,"830 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1536,GPU
+radeon hd 6970,"880 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1536,GPU
+amd fx-4350,4.2 GHz (4 cores),1530,CPU
+intel core i5-4310m,2.7 GHz (2 cores),1527,CPU
+intel core i7-4578u,3.0 GHz (2 cores),1525,CPU
+intel core i7-5650u,2.2 GHz (2 cores),1519,CPU
+intel core i5-4300m,2.6 GHz (2 cores),1513,CPU
+intel pentium g3258,3.2 GHz (2 cores),1512,CPU
+intel core i3-4150t,3.0 GHz (2 cores),1512,CPU
+intel core i5-4210h,2.9 GHz (2 cores),1510,CPU
+intel core i3-4160t,3.1 GHz (2 cores),1509,CPU
+amd fx - 4320,4.0 GHz (2 cores),1507,CPU
+intel core i5-5257u,2.7 GHz (2 cores),1501,CPU
+intel xeon e5-2407,2.2 GHz (4 cores),1497,CPU
+amd a10-9700,3.5 GHz (4 cores),1496,CPU
+amd a12-9800,3.8 GHz (4 cores),1492,CPU
+intel core i5-4210m,2.6 GHz (2 cores),1491,CPU
+amd phenom ii x4 965 black edition,3.4 GHz (4 cores),1489,CPU
+intel core i7-5600u,2.6 GHz (2 cores),1488,CPU
+amd phenom ii x4 970 black edition,3.5 GHz (4 cores),1476,CPU
+amd athlon x4 950,3.5 GHz (4 cores),1474,CPU
+intel core i3-4130t,2.9 GHz (2 cores),1473,CPU
+amd fx-4170,4.2 GHz (2 cores),1472,CPU
+intel core i5-4288u,2.6 GHz (2 cores),1469,CPU
+amd a8-7650k,3.3 GHz (4 cores),1457,CPU
+intel pentium silver j5005,1.5 GHz (4 cores),1457,CPU
+amd ryzen 3 3250u,2.6 GHz (2 cores),1457,CPU
+intel core i5-8210y,1.6 GHz (2 cores),1455,CPU
+intel core i5-5350u,1.8 GHz (2 cores),1454,CPU
+amd a10-5800k,3.8 GHz (2 cores),1450,CPU
+amd fx - 770k,3.5 GHz (2 cores),1447,CPU
+amd a10-6700,3.7 GHz (4 cores),1445,CPU
+amd a10-7800,3.5 GHz (4 cores),1444,CPU
+radeon hd 6850 1440sp edition,"725 MHz | 1024 MB, GDDR5, 256 bit-1000 MHz",1440,GPU
+firestream 9350,"700 MHz | 2 GB, GDDR5, 256 bit-1000 MHz",1440,GPU
+amd a8 pro-7600b,3.1 GHz (4 cores),1436,CPU
+intel core i3-7130u,2.7 GHz (2 cores),1435,CPU
+intel core i7-3540m,3.0 GHz (2 cores),1431,CPU
+intel celeron j4125,2.0 GHz (4 cores),1430,CPU
+amd a8-8650,3.2 GHz (4 cores),1429,CPU
+intel xeon x3370,3.0 GHz (4 cores),1429,CPU
+intel core i5-3380m,2.9 GHz (2 cores),1427,CPU
+intel xeon e5472,3.0 GHz (4 cores),1424,CPU
+intel pentium g4400,3.3 GHz (2 cores),1424,CPU
+intel core i3-6157u,2.4 GHz (2 cores),1424,CPU
+intel core i7-3520m,2.9 GHz (2 cores),1416,CPU
+amd athlon x4 840,3.1 GHz (4 cores),1414,CPU
+intel core i3-3245,3.4 GHz (2 cores),1410,CPU
+amd a8-6600k,3.9 GHz (4 cores),1410,CPU
+cmp 30hx,"1530 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1408,GPU
+geforce gtx 1660,"1530 MHz | 6 GB, GDDR5, 192 bit-2001 MHz",1408,GPU
+geforce gtx 1660 super,"1530 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1408,GPU
+radeon pro w5500,"1744 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1408,GPU
+radeon rx 5300,"1327 MHz | 3 GB, GDDR6, 96 bit-1750 MHz",1408,GPU
+radeon rx 5300 xt,"1670 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1408,GPU
+radeon rx 5500 oem,"1500 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1408,GPU
+radeon rx 5500 xt,"1607 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1408,GPU
+radeon hd 6950,"800 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1408,GPU
+intel core i5-4258u,2.4 GHz (2 cores),1406,CPU
+amd fx-4300,3.8 GHz (4 cores),1406,CPU
+intel core i5-4200m,2.5 GHz (2 cores),1402,CPU
+intel xeon x3430,2.4 GHz (4 cores),1392,CPU
+amd phenom ii x4 955 black edition,3.2 GHz (4 cores),1391,CPU
+intel core i3-3225,3.3 GHz (2 cores),1388,CPU
+intel core i7-5500u,2.4 GHz (2 cores),1386,CPU
+amd ryzen 3 3200u,2.6 GHz (2 cores),1386,CPU
+amd ryzen 3 2200u,2.5 GHz (2 cores),1385,CPU
+amd a8-9600,3.1 GHz (4 cores),1385,CPU
+intel core i5-3470t,2.9 GHz (2 cores),1384,CPU
+amd a10 pro-7800b,3.5 GHz (4 cores),1384,CPU
+intel pentium g3460,3.5 GHz (2 cores),1383,CPU
+intel core i3-3250,3.5 GHz (2 cores),1380,CPU
+intel core i3-2125,3.3 GHz (2 cores),1376,CPU
+intel xeon e5450,3.0 GHz (4 cores),1376,CPU
+intel core i3-3240,3.4 GHz (2 cores),1373,CPU
+amd athlon x4 750k,3.4 GHz (4 cores),1372,CPU
+amd fx-9830p,3.0 GHz (4 cores),1372,CPU
+amd phenom ii x4 b97,3.2 GHz (4 cores),1372,CPU
+intel core i5-3360m,2.8 GHz (2 cores),1371,CPU
+amd athlon ii x4 651,3.0 GHz (4 cores),1371,CPU
+amd pro a10-8770e,2.8 GHz (4 cores),1367,CPU
+intel xeon x5460,3.2 GHz (4 cores),1362,CPU
+amd a10-6790k,4.0 GHz (4 cores),1362,CPU
+amd a10 pro-7850b,3.7 GHz (4 cores),1359,CPU
+intel core i7-920xm,2.0 GHz (4 cores),1358,CPU
+amd a8-7600,3.1 GHz (4 cores),1358,CPU
+intel core 2 extreme x9650,3.0 GHz (4 cores),1355,CPU
+intel xeon x5482,3.2 GHz (4 cores),1355,CPU
+amd a8-6500,3.5 GHz (4 cores),1355,CPU
+intel xeon e5440,2.8 GHz (4 cores),1354,CPU
+amd phenom ii x4 850,3.3 GHz (4 cores),1345,CPU
+intel core 2 quad q9650,3.0 GHz (4 cores),1344,CPU
+geforce gtx 760 oem,"993 MHz | 2 GB, GDDR5, 256 bit-1650 MHz",1344,GPU
+quadro k4200,"771 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1344,GPU
+geforce gtx 760 ti oem,"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,GPU
+geforce gtx 760 ti oem rebrand,"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,GPU
+quadro 4100,"797 MHz | 2 GB, DDR3, 256 bit-891 MHz",1344,GPU
+geforce gtx 660 ti,"915 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",1344,GPU
+geforce gtx 670,"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,GPU
+amd pro a10-9700e,3.0 GHz (4 cores),1341,CPU
+amd athlon x4 760k,3.8 GHz (4 cores),1339,CPU
+amd a10-8750,3.6 GHz (4 cores),1338,CPU
+amd a8-5600k,3.6 GHz (4 cores),1337,CPU
+intel core i3-3220,3.3 GHz (2 cores),1331,CPU
+intel core i7-4510u,2.0 GHz (2 cores),1331,CPU
+intel xeon x3360,2.8 GHz (4 cores),1327,CPU
+amd phenom ii x4 945,3.0 GHz (4 cores),1326,CPU
+intel core i5-5300u,2.3 GHz (2 cores),1325,CPU
+intel core i3-2130,3.4 GHz (2 cores),1324,CPU
+intel core i5-6200u,2.3 GHz (2 cores),1322,CPU
+amd fx-4100,3.6 GHz (4 cores),1319,CPU
+intel core i5-6300u,2.4 GHz (2 cores),1319,CPU
+amd a8-6500b,3.5 GHz (4 cores),1318,CPU
+intel core i7-4600u,2.1 GHz (2 cores),1317,CPU
+intel core 2 quad q9550,2.8 GHz (4 cores),1316,CPU
+amd pro a8-8650b,3.2 GHz (4 cores),1315,CPU
+intel xeon x5450,3.0 GHz (4 cores),1313,CPU
+amd r-series rx-427bb,2.7 GHz (4 cores),1312,CPU
+amd a8-3870,3.0 GHz (4 cores),1309,CPU
+intel core i5-3340m,2.7 GHz (2 cores),1306,CPU
+intel core i5-3320m,2.6 GHz (2 cores),1302,CPU
+intel core i3-7100u,2.4 GHz (2 cores),1302,CPU
+intel celeron g4900,3.1 GHz (2 cores),1299,CPU
+amd fx-4130,3.8 GHz (4 cores),1298,CPU
+intel core i3-3210,3.2 GHz (2 cores),1298,CPU
+amd a10-5700,3.4 GHz (4 cores),1297,CPU
+amd a10-9630p,2.6 GHz (4 cores),1295,CPU
+intel core i7-2640m,2.8 GHz (2 cores),1291,CPU
+intel core i3-6100u,2.3 GHz (2 cores),1285,CPU
+amd phenom ii x4 b40,3.0 GHz (4 cores),1284,CPU
+amd phenom ii x4 b95,3.0 GHz (4 cores),1281,CPU
+geforce gtx 1650 super,"1530 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",1280,GPU
+quadro p2200,"1000 MHz | 5 GB, GDDR5X, 160 bit-1251 MHz",1280,GPU
+geforce gtx 1060 6 gb gddr5x,"1506 MHz | 6 GB, GDDR5X, 192 bit-1001 MHz",1280,GPU
+geforce gtx 1060 6 gb gp104,"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,GPU
+geforce gtx 1060 6 gb rev. 2,"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,GPU
+geforce gtx 1060 8 gb gddr5x,"1506 MHz | 8 GB, GDDR5X, 256 bit-1001 MHz",1280,GPU
+geforce gtx 1060 5 gb,"1506 MHz | 5 GB, GDDR5, 160 bit-2002 MHz",1280,GPU
+geforce gtx 1060 6 gb 9gbps,"1506 MHz | 6 GB, GDDR5, 192 bit-2257 MHz",1280,GPU
+p106-100,"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,GPU
+geforce gtx 1060 6 gb,"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,GPU
+geforce gtx 960 oem,"924 MHz | 3 GB, GDDR5, 192 bit-1253 MHz",1280,GPU
+radeon pro 5300,"1000 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1280,GPU
+xbox series s gpu,"1565 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1280,GPU
+radeon r9 370,"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+radeon r9 370x,"980 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+firepro d300,"850 MHz | 2 GB, GDDR5, 256 bit-1270 MHz",1280,GPU
+radeon r7 265x oem,"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+radeon hd 8860 oem,"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+radeon hd 8870 oem,"1000 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1280,GPU
+radeon r9 270,"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+radeon r9 270x,"1000 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,GPU
+radeon sky 500,"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,GPU
+firepro s7000,"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,GPU
+firepro w7000,"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,GPU
+radeon hd 7870 ghz edition,"1000 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1280,GPU
+firepro v7900,"725 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1280,GPU
+firepro v7900 sdi,"725 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1280,GPU
+radeon hd 6930,"750 MHz | 1024 MB, GDDR5, 256 bit-1200 MHz",1280,GPU
+amd phenom ii x4 820,2.8 GHz (4 cores),1279,CPU
+amd phenom ii x4 925,2.8 GHz (4 cores),1276,CPU
+amd athlon ii x4 641,2.8 GHz (4 cores),1276,CPU
+intel pentium g3420,3.2 GHz (2 cores),1275,CPU
+intel core i5-4310u,2.0 GHz (2 cores),1272,CPU
+amd a8-5500b,3.2 GHz (4 cores),1272,CPU
+intel celeron g3900,2.8 GHz (2 cores),1269,CPU
+intel core i7-740qm,1.7 GHz (4 cores),1267,CPU
+intel core i7-4650u,1.7 GHz (2 cores),1265,CPU
+intel core i7-4500u,1.8 GHz (2 cores),1264,CPU
+intel core i5-2390t,2.7 GHz (2 cores),1264,CPU
+intel core 2 extreme q6850,3.0 GHz (4 cores),1264,CPU
+amd phenom ii x4 940 black edition,3.0 GHz (4 cores),1263,CPU
+intel core 2 quad q9505,2.8 GHz (4 cores),1261,CPU
+intel celeron g3930,2.9 GHz (2 cores),1261,CPU
+amd phenom ii x4 830,2.8 GHz (4 cores),1259,CPU
+intel core i7-840qm,1.9 GHz (4 cores),1258,CPU
+intel core 2 quad q9450,2.7 GHz (4 cores),1257,CPU
+intel core i3-2120,3.3 GHz (2 cores),1255,CPU
+intel core i7-2620m,2.7 GHz (2 cores),1255,CPU
+intel core i5-5250u,1.6 GHz (2 cores),1255,CPU
+amd pro a10-8750b,3.6 GHz (4 cores),1251,CPU
+amd phenom ii x4 840,3.2 GHz (4 cores),1249,CPU
+intel core i5-3230m,2.6 GHz (2 cores),1249,CPU
+intel celeron j4105,1.5 GHz (4 cores),1248,CPU
+amd athlon ii x4 640,3.0 GHz (4 cores),1243,CPU
+intel pentium g4400t,2.9 GHz (2 cores),1241,CPU
+amd a8-3850,2.9 GHz (4 cores),1239,CPU
+intel core 2 extreme q9300,2.5 GHz (4 cores),1238,CPU
+intel core i5-655k,3.2 GHz (2 cores),1238,CPU
+intel core i5-4300u,1.9 GHz (2 cores),1238,CPU
+intel core i5-680,3.6 GHz (2 cores),1237,CPU
+intel xeon e5420,2.5 GHz (4 cores),1237,CPU
+amd phenom ii x4 910,2.6 GHz (4 cores),1236,CPU
+intel core i5-3210m,2.5 GHz (2 cores),1235,CPU
+intel core 2 quad q9500,2.8 GHz (4 cores),1234,CPU
+amd athlon ii x4 645,3.1 GHz (4 cores),1233,CPU
+intel core i3-4100m,2.5 GHz (2 cores),1232,CPU
+intel core i7-3667u,2.0 GHz (2 cores),1230,CPU
+intel core i3-7020u,2.3 GHz (2 cores),1227,CPU
+intel core i7-3537u,2.0 GHz (2 cores),1225,CPU
+intel pentium g3260,3.3 GHz (2 cores),1223,CPU
+intel core i5-5200u,2.2 GHz (2 cores),1222,CPU
+amd a8-5500,3.2 GHz (4 cores),1215,CPU
+intel pentium g3250,3.2 GHz (2 cores),1210,CPU
+intel core i5-2540m,2.6 GHz (2 cores),1208,CPU
+intel core i3-2105,3.1 GHz (2 cores),1205,CPU
+intel core i3-3240t,2.9 GHz (2 cores),1204,CPU
+intel pentium silver n5000,1.1 GHz (4 cores),1203,CPU
+amd phenom ii x4 810,2.6 GHz (4 cores),1202,CPU
+intel core i5-4260u,1.4 GHz (2 cores),1196,CPU
+intel core i3-2100,3.1 GHz (2 cores),1195,CPU
+intel xeon e5462,2.8 GHz (4 cores),1194,CPU
+amd a8-3820,2.5 GHz (4 cores),1194,CPU
+amd a6-3650,2.6 GHz (4 cores),1193,CPU
+amd a6-3670,2.7 GHz (4 cores),1192,CPU
+amd a12-9730p,2.8 GHz (4 cores),1191,CPU
+intel core 2 quad q9400,2.7 GHz (4 cores),1186,CPU
+amd phenom ii x4 960t,3.0 GHz (4 cores),1185,CPU
+amd fx-7600p,2.7 GHz (4 cores),1184,CPU
+amd athlon ii x4 635,2.9 GHz (4 cores),1173,CPU
+intel pentium 4415u,2.3 GHz (2 cores),1172,CPU
+intel xeon e5506,2.1 GHz (4 cores),1171,CPU
+intel core i5-2520m,2.5 GHz (2 cores),1166,CPU
+intel core i7-820qm,1.7 GHz (4 cores),1165,CPU
+intel core i5-660,3.3 GHz (2 cores),1164,CPU
+intel pentium gold 4417u,2.3 GHz (2 cores),1160,CPU
+amd fx-8800p,2.1 GHz (4 cores),1157,CPU
+amd athlon x4 740,3.2 GHz (4 cores),1154,CPU
+intel pentium g3240,3.1 GHz (2 cores),1154,CPU
+intel core i3-3220t,2.8 GHz (2 cores),1153,CPU
+geforce gtx 1060 3 gb,"1506 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",1152,GPU
+geforce gtx 1060 3 gb gp104,"1506 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",1152,GPU
+geforce gtx 760,"980 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1152,GPU
+geforce gtx 760 oem,"823 MHz | 1536 MB, GDDR5, 192 bit-1400 MHz",1152,GPU
+geforce gtx 760 oem rebrand,"823 MHz | 3 GB, GDDR5, 256 bit-1400 MHz",1152,GPU
+geforce gtx 760 x2,"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1152,GPU
+geforce gtx 660 oem,"823 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1152,GPU
+geforce gtx 660 oem,"823 MHz | 1536 MB, GDDR5, 192 bit-1400 MHz",1152,GPU
+playstation 4 slim gpu,"800 MHz | 8 GB, GDDR5, 256 bit-1375 MHz",1152,GPU
+playstation 4 gpu,"800 MHz | 8 GB, GDDR5, 256 bit-1375 MHz",1152,GPU
+intel core i5-4210u,1.7 GHz (2 cores),1151,CPU
+intel core i5-4250u,1.3 GHz (2 cores),1150,CPU
+intel core 2 quad q6700,2.7 GHz (4 cores),1148,CPU
+amd a8-3800,2.4 GHz (4 cores),1147,CPU
+amd phenom ii x4 905e,2.5 GHz (4 cores),1147,CPU
+intel xeon e5430,2.7 GHz (4 cores),1145,CPU
+intel core i7-720qm,1.6 GHz (4 cores),1144,CPU
+intel core i5-2435m,2.4 GHz (2 cores),1140,CPU
+intel core i5-650,3.2 GHz (2 cores),1139,CPU
+amd phenom ii x4 b35,2.9 GHz (4 cores),1138,CPU
+intel core i3-5020u,2.2 GHz (2 cores),1137,CPU
+intel core i3-4000m,2.4 GHz (2 cores),1136,CPU
+amd athlon ii x4 630,2.8 GHz (4 cores),1132,CPU
+intel xeon e5410,2.3 GHz (4 cores),1130,CPU
+intel pentium g3220,3.0 GHz (2 cores),1124,CPU
+amd athlon ii x4 620,2.6 GHz (4 cores),1123,CPU
+intel core i5-2450m,2.5 GHz (2 cores),1123,CPU
+intel core i5-4200u,1.6 GHz (2 cores),1120,CPU
+radeon hd 6870 x2,"900 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1120,GPU
+radeon hd 6870,"900 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1120,GPU
+intel core i7-3517u,1.9 GHz (2 cores),1117,CPU
+intel core 2 quad q8400,2.7 GHz (4 cores),1116,CPU
+intel core i7-3687u,2.1 GHz (2 cores),1116,CPU
+intel core i3-560,3.3 GHz (2 cores),1113,CPU
+intel xeon l5420,2.5 GHz (4 cores),1110,CPU
+intel celeron n4100,1.1 GHz (4 cores),1109,CPU
+intel core i3-5157u,2.5 GHz (2 cores),1103,CPU
+intel core i5-3427u,1.8 GHz (2 cores),1097,CPU
+intel core i3-6006u,2.0 GHz (2 cores),1097,CPU
+amd a12-9720p,2.7 GHz (4 cores),1097,CPU
+intel core 2 quad q9300,2.5 GHz (4 cores),1096,CPU
+intel xeon e3-1220l v2,2.3 GHz (2 cores),1096,CPU
+amd a10-5800b,3.8 GHz (4 cores),1094,CPU
+amd phenom x4 9950,2.6 GHz (4 cores),1086,CPU
+intel xeon e5606,2.1 GHz (4 cores),1086,CPU
+amd phenom x4 9850,2.5 GHz (4 cores),1084,CPU
+intel pentium 4405u,2.1 GHz (2 cores),1081,CPU
+intel core i5-2430m,2.4 GHz (2 cores),1075,CPU
+amd pro a12-8800b,2.1 GHz (4 cores),1075,CPU
+intel core i5-2410m,2.3 GHz (2 cores),1074,CPU
+amd pro a12-8830b,2.5 GHz (4 cores),1073,CPU
+amd athlon ii x3 460,3.4 GHz (3 cores),1070,CPU
+intel xeon x5355,2.7 GHz (4 cores),1068,CPU
+intel core i5-661,3.3 GHz (2 cores),1067,CPU
+intel core i3-2120t,2.6 GHz (2 cores),1066,CPU
+amd a6-3600,2.1 GHz (4 cores),1065,CPU
+intel xeon e5345,2.3 GHz (4 cores),1062,CPU
+intel pentium g2130,3.2 GHz (2 cores),1060,CPU
+intel core i3-5015u,2.1 GHz (2 cores),1057,CPU
+intel xeon e5504,2.0 GHz (4 cores),1055,CPU
+intel pentium g2120,3.1 GHz (2 cores),1055,CPU
+intel xeon x3220,2.4 GHz (4 cores),1055,CPU
+intel core i3-550,3.2 GHz (2 cores),1054,CPU
+intel core 2 quad q8300,2.5 GHz (4 cores),1052,CPU
+intel core i5-3437u,1.9 GHz (2 cores),1050,CPU
+amd a10-9620p,2.5 GHz (4 cores),1049,CPU
+intel core i5-3337u,1.8 GHz (2 cores),1046,CPU
+intel core i3-5010u,2.1 GHz (2 cores),1040,CPU
+amd fx-9800p,2.7 GHz (4 cores),1039,CPU
+amd athlon ii x3 450,3.2 GHz (3 cores),1035,CPU
+intel core 2 quad q6600,2.4 GHz (4 cores),1031,CPU
+amd a8-5557m,2.1 GHz (4 cores),1031,CPU
+amd pro a10-8730b,2.4 GHz (4 cores),1029,CPU
+intel core i3-3120m,2.5 GHz (2 cores),1026,CPU
+intel core i5-2415m,2.3 GHz (2 cores),1024,CPU
+quadro p2000,"1076 MHz | 5 GB, GDDR5, 160 bit-1752 MHz",1024,GPU
+geforce gtx 950 oem,"937 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",1024,GPU
+quadro m3000 se,"823 MHz | 4 GB, GDDR5, 256 bit-1253 MHz",1024,GPU
+geforce gtx 960,"1127 MHz | 2 GB, GDDR5, 128 bit-1753 MHz",1024,GPU
+geforce gtx 960 oem,"1176 MHz | 4 GB, GDDR5, 128 bit-1753 MHz",1024,GPU
+tesla m4,"872 MHz | 4 GB, GDDR5, 128 bit-1375 MHz",1024,GPU
+radeon rx 6300 xt,"2200 MHz | 4 GB, GDDR6, 64 bit-2000 MHz",1024,GPU
+radeon rx 560x,"1175 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1024,GPU
+radeon rx 460 1024sp,"1090 MHz | 2 GB, GDDR5, 128 bit-1750 MHz",1024,GPU
+radeon rx 560,"1175 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1024,GPU
+radeon pro v5300x,"1125 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",1024,GPU
+radeon pro wx 4100,"1125 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",1024,GPU
+radeon r7 370,"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,GPU
+radeon r9 270 1024sp,"900 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1024,GPU
+radeon r9 370 1024sp,"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,GPU
+radeon r7 265,"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,GPU
+radeon hd 7850,"860 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1024,GPU
+intel core i5-3317u,1.7 GHz (2 cores),1022,CPU
+amd a10-9600p,2.4 GHz (4 cores),1018,CPU
+intel pentium g3250t,2.8 GHz (2 cores),1018,CPU
+intel celeron g1840,2.8 GHz (2 cores),1016,CPU
+intel core i3-540,3.1 GHz (2 cores),1014,CPU
+intel pentium g2030,3.0 GHz (2 cores),1009,CPU
+amd a10-7400p,2.5 GHz (4 cores),1008,CPU
+intel core i5-580m,2.7 GHz (2 cores),1003,CPU
+intel pentium g850,2.9 GHz (2 cores),1002,CPU
+intel core 2 quad q8200,2.3 GHz (4 cores),1001,CPU
+intel core i7-640m,2.8 GHz (2 cores),1000,CPU
+intel core i3-5005u,2.0 GHz (2 cores),999,CPU
+intel celeron j3455,1.5 GHz (4 cores),996,CPU
+amd a10-5750m,2.5 GHz (4 cores),994,CPU
+intel pentium j4205,1.5 GHz (4 cores),991,CPU
+amd phenom ii x4 n950,2.1 GHz (4 cores),990,CPU
+intel pentium g2020,2.9 GHz (2 cores),989,CPU
+amd athlon ii x3 455,3.3 GHz (3 cores),988,CPU
+amd phenom x4 9600b,2.3 GHz (4 cores),986,CPU
+amd phenom ii x3 720,2.8 GHz (3 cores),984,CPU
+amd athlon ii x4 631,2.6 GHz (4 cores),984,CPU
+intel core i7-2637m,1.7 GHz (2 cores),981,CPU
+amd pro a12-9800b,2.7 GHz (4 cores),981,CPU
+intel celeron g1820,2.7 GHz (2 cores),980,CPU
+intel core i7-620m,2.7 GHz (2 cores),976,CPU
+amd a6-3620,2.2 GHz (4 cores),975,CPU
+intel pentium g860,3.0 GHz (2 cores),967,CPU
+intel pentium g3450,3.4 GHz (2 cores),967,CPU
+intel pentium g3240t,2.7 GHz (2 cores),961,CPU
+amd athlon ii x3 445,3.1 GHz (3 cores),960,CPU
+intel core i3-4025u,1.9 GHz (2 cores),960,CPU
+geforce gtx 660 rev. 2,"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",960,GPU
+geforce gtx 750 ti oem,"1033 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",960,GPU
+geforce gtx 660,"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",960,GPU
+radeon hd 6850 x2,"800 MHz | 2 GB, GDDR5, 256 bit-1050 MHz",960,GPU
+radeon hd 6850,"775 MHz | 1024 MB, GDDR5, 256 bit-1000 MHz",960,GPU
+intel core i3-3110m,2.4 GHz (2 cores),959,CPU
+intel core m-5y10,800 MHz (2 cores),950,CPU
+amd pro a10-8700b,1.8 GHz (4 cores),950,CPU
+intel core i3-4030u,1.9 GHz (2 cores),949,CPU
+amd a10-4600m,2.3 GHz (4 cores),948,CPU
+amd phenom x4 9550,2.2 GHz (4 cores),945,CPU
+amd a10-8700p,1.8 GHz (4 cores),944,CPU
+intel pentium n4200,1.1 GHz (4 cores),944,CPU
+amd a8-3530mx,1.9 GHz (4 cores),939,CPU
+intel core i3-530,2.9 GHz (2 cores),937,CPU
+intel core m-5y10c,800 MHz (2 cores),937,CPU
+intel pentium g870,3.1 GHz (2 cores),936,CPU
+intel pentium g645,2.9 GHz (2 cores),935,CPU
+amd phenom x4 9750,2.4 GHz (4 cores),933,CPU
+intel pentium g2010,2.8 GHz (2 cores),931,CPU
+amd athlon ii x3 440,3.0 GHz (3 cores),927,CPU
+intel pentium g840,2.8 GHz (2 cores),927,CPU
+intel core i7-2677m,1.8 GHz (2 cores),926,CPU
+intel core m-5y70,1.1 GHz (2 cores),926,CPU
+intel pentium g3220t,2.6 GHz (2 cores),923,CPU
+intel celeron g1840t,2.5 GHz (2 cores),921,CPU
+intel core i5-560m,2.7 GHz (2 cores),919,CPU
+intel atom x7-e3950,1.6 GHz (4 cores),912,CPU
+intel celeron g1620,2.7 GHz (2 cores),911,CPU
+intel core m-5y51,1.1 GHz (2 cores),911,CPU
+intel pentium 2030m,2.5 GHz (2 cores),910,CPU
+intel pentium g2030t,2.6 GHz (2 cores),909,CPU
+amd phenom ii x4 n970,2.2 GHz (4 cores),904,CPU
+amd athlon ii x3 425,2.7 GHz (3 cores),903,CPU
+amd athlon ii x3 435,2.9 GHz (3 cores),903,CPU
+amd pro a8-9600b,2.4 GHz (4 cores),903,CPU
+intel celeron n3450,1.1 GHz (4 cores),896,CPU
+t1000,"1065 MHz | 4 GB, GDDR6, 128 bit-1250 MHz",896,GPU
+geforce gtx 1650 gddr6,"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,GPU
+geforce gtx 1650 tu106,"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,GPU
+geforce gtx 1650 tu116,"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,GPU
+geforce gtx 1650,"1485 MHz | 4 GB, GDDR5, 128 bit-2001 MHz",896,GPU
+aerobox gpu,"935 MHz | 8 GB, DDR3, 256 bit-1066 MHz",896,GPU
+radeon rx 560dx,"1090 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",896,GPU
+radeon rx 560 896sp,"1090 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",896,GPU
+radeon rx 560d,"1090 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",896,GPU
+radeon rx 460,"1090 MHz | 2 GB, GDDR5, 128 bit-1750 MHz",896,GPU
+radeon r7 360 896sp,"1100 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",896,GPU
+radeon hd 7790,"1000 MHz | 1024 MB, GDDR5, 128 bit-1500 MHz",896,GPU
+radeon hd 8770 oem,"1050 MHz | 1024 MB, GDDR5, 128 bit-1500 MHz",896,GPU
+radeon r7 260x,"1100 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",896,GPU
+radeon r9 260 oem,"1100 MHz | 1024 MB, GDDR5, 128 bit-1625 MHz",896,GPU
+amd a8-5550m,2.1 GHz (4 cores),892,CPU
+intel core i5-540m,2.5 GHz (2 cores),883,CPU
+intel core i5-2557m,1.7 GHz (2 cores),883,CPU
+amd a10-5757m,2.5 GHz (4 cores),881,CPU
+intel core i3-2370m,2.4 GHz (2 cores),877,CPU
+intel celeron g1610,2.6 GHz (2 cores),877,CPU
+amd a10 pro-7350b,2.1 GHz (4 cores),873,CPU
+intel pentium g2020t,2.5 GHz (2 cores),872,CPU
+intel pentium 3825u,1.9 GHz (2 cores),868,CPU
+amd fx-7500,2.1 GHz (4 cores),863,CPU
+intel core i5-480m,2.7 GHz (2 cores),861,CPU
+intel core i5-520m,2.4 GHz (2 cores),860,CPU
+amd phenom x4 9650,2.3 GHz (4 cores),856,CPU
+intel pentium g630,2.7 GHz (2 cores),854,CPU
+intel pentium 4415y,1.6 GHz (2 cores),852,CPU
+intel core i3-4010u,1.7 GHz (2 cores),851,CPU
+intel core i3-4005u,1.7 GHz (2 cores),849,CPU
+intel core i3-2350m,2.3 GHz (2 cores),847,CPU
+intel core i5-3339y,1.5 GHz (2 cores),846,CPU
+intel core i5-4210y,1.5 GHz (2 cores),840,CPU
+amd phenom x3 8600b,2.3 GHz (3 cores),833,CPU
+intel celeron 3865u,1.8 GHz (2 cores),832,CPU
+amd a10-5745m,2.1 GHz (4 cores),831,CPU
+amd phenom ii x3 710,2.6 GHz (3 cores),829,CPU
+intel core i5-460m,2.5 GHz (2 cores),828,CPU
+intel core i3-2348m,2.3 GHz (2 cores),828,CPU
+amd a8-3520m,1.6 GHz (4 cores),824,CPU
+intel core i5-450m,2.4 GHz (2 cores),820,CPU
+intel pentium 2020m,2.4 GHz (2 cores),818,CPU
+intel pentium g640,2.8 GHz (2 cores),811,CPU
+intel core i3-2330m,2.2 GHz (2 cores),809,CPU
+amd athlon 5350,2.0 GHz (4 cores),808,CPU
+intel core i7-640lm,2.1 GHz (2 cores),807,CPU
+intel core i3-390m,2.7 GHz (2 cores),805,CPU
+intel pentium g620,2.6 GHz (2 cores),805,CPU
+amd phenom x3 8650,2.3 GHz (3 cores),803,CPU
+amd a8-4500m,1.9 GHz (4 cores),803,CPU
+amd a10-7300,1.9 GHz (4 cores),803,CPU
+intel pentium g645t,2.5 GHz (2 cores),800,CPU
+radeon hd 7720 oem,"840 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",800,GPU
+radeon hd 6770,"850 MHz | 1024 MB, GDDR5, 128 bit-1200 MHz",800,GPU
+radeon hd 6790,"840 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",800,GPU
+amd a4-7300,3.8 GHz (2 cores),799,CPU
+intel celeron g530,2.4 GHz (2 cores),797,CPU
+intel celeron 3955u,2.0 GHz (2 cores),796,CPU
+intel core i3-2328m,2.2 GHz (2 cores),794,CPU
+intel core i3-2310m,2.1 GHz (2 cores),792,CPU
+intel core i3-3227u,1.9 GHz (2 cores),791,CPU
+intel celeron g550,2.6 GHz (2 cores),787,CPU
+intel core 2 extreme x9100,3.1 GHz (2 cores),786,CPU
+intel atom c3538,2.1 GHz (4 cores),785,CPU
+amd a8-3500m,1.5 GHz (4 cores),784,CPU
+amd pro a6-9500,3.5 GHz (2 cores),784,CPU
+amd phenom ii x4 p960,1.8 GHz (4 cores),783,CPU
+amd a10-4655m,2.0 GHz (4 cores),783,CPU
+intel core 2 duo e8600,3.3 GHz (2 cores),782,CPU
+intel core 2 duo e8500,3.2 GHz (2 cores),777,CPU
+intel core i5-430m,2.3 GHz (2 cores),775,CPU
+intel core i3-380m,2.5 GHz (2 cores),774,CPU
+intel pentium g630t,2.3 GHz (2 cores),773,CPU
+intel core i3-4020y,1.5 GHz (2 cores),768,CPU
+amd pro a8-8600b,1.6 GHz (4 cores),768,CPU
+geforce gtx 1050 3 gb,"1392 MHz | 3 GB, GDDR5, 96 bit-1752 MHz",768,GPU
+p106-090,"1354 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",768,GPU
+geforce gtx 1050 ti,"1291 MHz | 4 GB, GDDR5, 128 bit-1752 MHz",768,GPU
+geforce gtx 950 low power,"1026 MHz | 2 GB, GDDR5, 128 bit-1653 MHz",768,GPU
+quadro m2000,"796 MHz | 4 GB, GDDR5, 128 bit-1653 MHz",768,GPU
+geforce gtx 950,"1024 MHz | 2 GB, GDDR5, 128 bit-1653 MHz",768,GPU
+geforce gtx 650 ti boost,"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",768,GPU
+geforce gtx 650 ti oem,"928 MHz | 2 GB, GDDR5, 128 bit-1350 MHz",768,GPU
+quadro k4000,"810 MHz | 3 GB, GDDR5, 192 bit-1404 MHz",768,GPU
+geforce gtx 650 ti,"928 MHz | 1024 MB, GDDR5, 128 bit-1350 MHz",768,GPU
+radeon rx 455 oem,"1050 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",768,GPU
+xbox one s gpu,"914 MHz | 8 GB, DDR3, 256 bit-1066 MHz",768,GPU
+firepro w4300,"930 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",768,GPU
+radeon r7 360,"1000 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,GPU
+radeon r7 360e,"1050 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,GPU
+radeon r9 360 oem,"1000 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",768,GPU
+firepro w5100,"930 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",768,GPU
+firepro r5000,"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,GPU
+firepro w5000 dvi,"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,GPU
+radeon r7 260,"1000 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,GPU
+xbox one gpu,"853 MHz | 8 GB, DDR3, 256 bit-1066 MHz",768,GPU
+firepro w4000,"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,GPU
+firepro w5000,"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,GPU
+radeon hd 7950 monica bios 2,"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",768,GPU
+h3c xg310,"900 MHz | 8 GB, LPDDR4X, 128 bit-2133 MHz",768,GPU
+xe dg1-sdv,"900 MHz | 3 GB, LPDDR4X, 96 bit-2133 MHz",768,GPU
+intel celeron j4005,2.0 GHz (2 cores),765,CPU
+intel core i5-2467m,1.6 GHz (2 cores),764,CPU
+intel pentium j3710,1.6 GHz (4 cores),764,CPU
+intel core i5-4202y,1.6 GHz (2 cores),762,CPU
+amd a8-7410,2.2 GHz (4 cores),761,CPU
+amd a6-9500,3.5 GHz (2 cores),760,CPU
+intel celeron n4020,1.1 GHz (2 cores),759,CPU
+intel core 2 duo t9900,3.1 GHz (2 cores),756,CPU
+amd a8-5545m,1.7 GHz (4 cores),755,CPU
+amd a6-7400k,3.5 GHz (1 core),755,CPU
+amd phenom ii x2 560 black edition,3.3 GHz (2 cores),752,CPU
+intel core i3-3217u,1.8 GHz (2 cores),752,CPU
+amd athlon ii x2 270,3.4 GHz (2 cores),748,CPU
+amd phenom ii n870,2.3 GHz (3 cores),747,CPU
+intel pentium b970,2.3 GHz (2 cores),745,CPU
+intel pentium b980,2.4 GHz (2 cores),745,CPU
+intel core i3-350m,2.3 GHz (2 cores),743,CPU
+amd phenom ii x3 n830,2.1 GHz (3 cores),743,CPU
+intel core i5-4300y,1.6 GHz (2 cores),742,CPU
+amd phenom ii x2 565 black edition,3.4 GHz (2 cores),741,CPU
+intel core i3-370m,2.4 GHz (2 cores),741,CPU
+amd a6-3400m,1.4 GHz (4 cores),737,CPU
+amd a6-6400k,3.9 GHz (2 cores),737,CPU
+intel pentium g6950,2.8 GHz (2 cores),737,CPU
+intel celeron g540,2.5 GHz (2 cores),736,CPU
+amd a8-6410,2.0 GHz (4 cores),736,CPU
+amd a8-7100,1.8 GHz (4 cores),735,CPU
+intel core 2 duo t9800,2.9 GHz (2 cores),732,CPU
+amd a6-5400b,3.6 GHz (2 cores),728,CPU
+amd a6-7310,2.0 GHz (4 cores),727,CPU
+intel pentium 3805u,1.9 GHz (2 cores),725,CPU
+radeon hd 6770 green edition,"700 MHz | 2 GB, GDDR3, 128 bit-667 MHz",720,GPU
+radeon hd 6750,"700 MHz | 1024 MB, GDDR5, 128 bit-1150 MHz",720,GPU
+amd a6-3420m,1.5 GHz (4 cores),719,CPU
+amd phenom x4 9500,2.2 GHz (4 cores),718,CPU
+amd a6-3500,2.1 GHz (3 cores),717,CPU
+amd a8 pro-7150b,1.9 GHz (4 cores),717,CPU
+intel core 2 duo e8400,3.0 GHz (2 cores),713,CPU
+intel celeron j1900,2.0 GHz (4 cores),713,CPU
+intel pentium n3540,2.2 GHz (4 cores),712,CPU
+amd phenom x3 8450,2.1 GHz (3 cores),711,CPU
+intel atom x7-z8700,1.6 GHz (4 cores),704,CPU
+radeon rx vega 11,300 MHz | System Shared-System Shared,704,GPU
+radeon vega 11,300 MHz | System Shared-System Shared,704,GPU
+radeon rx vega 11,300 MHz | System Shared-System Shared,704,GPU
+radeon rx vega 11 embedded,300 MHz | System Shared-System Shared,704,GPU
+radeon vega 11 embedded,300 MHz | System Shared-System Shared,704,GPU
+intel core 2 duo e8300,2.8 GHz (2 cores),703,CPU
+amd a6-6310,1.8 GHz (4 cores),697,CPU
+intel atom x7-z8750,1.6 GHz (4 cores),695,CPU
+amd a6-5400k,3.6 GHz (2 cores),692,CPU
+amd a4-6300,3.7 GHz (2 cores),691,CPU
+intel core 2 duo e7600,3.1 GHz (2 cores),690,CPU
+intel pentium n3530,2.2 GHz (4 cores),690,CPU
+intel pentium 3556u,1.7 GHz (2 cores),689,CPU
+intel celeron 3965y,1.5 GHz (2 cores),688,CPU
+intel celeron n4000,1.1 GHz (2 cores),687,CPU
+amd athlon ii x2 b26,3.2 GHz (2 cores),687,CPU
+amd phenom ii x2 545,3.0 GHz (2 cores),685,CPU
+intel core 2 duo e8200,2.7 GHz (2 cores),685,CPU
+amd athlon ii x2 b22,2.8 GHz (2 cores),684,CPU
+intel pentium e6700,3.2 GHz (2 cores),682,CPU
+intel celeron 3215u,1.7 GHz (2 cores),682,CPU
+intel pentium a1020,2.4 GHz (4 cores),682,CPU
+intel atom z3795,1.6 GHz (4 cores),680,CPU
+intel core 2 duo e8135,2.7 GHz (2 cores),675,CPU
+intel core 2 duo t9600,2.8 GHz (2 cores),674,CPU
+intel atom x5-z8550,1.4 GHz (4 cores),674,CPU
+amd phenom ii x2 555 black edition,3.2 GHz (2 cores),673,CPU
+intel core 2 extreme x9000,2.8 GHz (2 cores),673,CPU
+amd a4-7210,1.8 GHz (4 cores),673,CPU
+amd a4 pro-3350b,2.0 GHz (4 cores),673,CPU
+amd phenom ii x2 550 black edition,3.1 GHz (2 cores),672,CPU
+amd phenom x4 9600,2.3 GHz (4 cores),672,CPU
+amd athlon ii x2 240e,2.8 GHz (2 cores),671,CPU
+intel core 2 duo e7500,2.9 GHz (2 cores),670,CPU
+amd a6-5200,2.0 GHz (4 cores),669,CPU
+intel pentium n3700,1.6 GHz (4 cores),668,CPU
+amd a6-3410mx,1.6 GHz (4 cores),666,CPU
+intel pentium 2127u,1.9 GHz (2 cores),666,CPU
+intel core i3-330m,2.1 GHz (2 cores),665,CPU
+amd athlon ii x2 255,3.1 GHz (2 cores),664,CPU
+intel pentium b960,2.2 GHz (2 cores),664,CPU
+intel pentium n3520,2.2 GHz (4 cores),664,CPU
+intel celeron n2940,1.8 GHz (4 cores),664,CPU
+amd athlon ii x2 250,3.0 GHz (2 cores),661,CPU
+intel celeron 3855u,1.6 GHz (2 cores),661,CPU
+amd athlon ii x2 260,3.2 GHz (2 cores),655,CPU
+intel celeron g1610t,2.3 GHz (2 cores),655,CPU
+intel pentium e5800,3.2 GHz (2 cores),654,CPU
+amd phenom ii x2 b55,3.0 GHz (2 cores),654,CPU
+intel atom x5-z8500,1.4 GHz (4 cores),652,CPU
+a4 pro-3340b,2.2 GHz (4 cores),652,CPU
+intel celeron n2930,1.8 GHz (4 cores),651,CPU
+intel celeron n3150,1.6 GHz (4 cores),651,CPU
+intel core 2 duo t9500,2.6 GHz (2 cores),651,CPU
+intel celeron 1005m,1.9 GHz (2 cores),649,CPU
+amd phenom ii x2 n660,3.0 GHz (2 cores),649,CPU
+intel pentium b950,2.1 GHz (2 cores),648,CPU
+amd athlon 5150,1.6 GHz (4 cores),647,CPU
+amd e2-7110,1.8 GHz (4 cores),646,CPU
+intel celeron 1000m,1.8 GHz (2 cores),645,CPU
+amd a4-4020,3.2 GHz (2 cores),644,CPU
+amd athlon ii x2 245e,2.9 GHz (2 cores),644,CPU
+amd athlon ii x2 245,2.9 GHz (2 cores),643,CPU
+amd athlon ii x2 220,2.8 GHz (2 cores),641,CPU
+amd a6 pro-7400b,3.5 GHz (2 cores),640,CPU
+t600,"930 MHz | 4 GB, GDDR6, 128 bit-1250 MHz",640,GPU
+quadro p1000,"1266 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",640,GPU
+grid m10-8q,"1033 MHz | 8 GB, GDDR5, 128 bit-1300 MHz",640,GPU
+grid m3-3020,"1033 MHz | 4 GB, GDDR5, 128 bit-1300 MHz",640,GPU
+geforce gtx 1050,"1354 MHz | 2 GB, GDDR5, 128 bit-1752 MHz",640,GPU
+tesla m10,"1033 MHz | 8 GB, GDDR5, 128 bit-1300 MHz",640,GPU
+geforce gtx 750 ti,"1020 MHz | 2 GB, GDDR5, 128 bit-1350 MHz",640,GPU
+quadro k2200,"1046 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",640,GPU
+radeon pro wx 3200,"1295 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",640,GPU
+radeon r7 350 640sp,"925 MHz | 2 GB, GDDR5, 128 bit-1125 MHz",640,GPU
+radeon 550x 640sp,"1019 MHz | 4 GB, GDDR5, 64 bit-1500 MHz",640,GPU
+radeon rx 550x 640sp,"1019 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",640,GPU
+radeon rx 550 640sp,"1019 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",640,GPU
+radeon r7 250x,"950 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,GPU
+radeon r7 250xe,"860 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,GPU
+radeon hd 8760 oem,"1000 MHz | 2 GB, GDDR5, 128 bit-1125 MHz",640,GPU
+radeon hd 7770 ghz edition,"1000 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,GPU
+xe dg1 oem,"900 MHz | 4 GB, LPDDR4X, 128 bit-2133 MHz",640,GPU
+intel core i5-2537m,1.4 GHz (2 cores),636,CPU
+amd a4-6210,1.8 GHz (4 cores),635,CPU
+intel core 2 duo e6750,2.7 GHz (2 cores),631,CPU
+amd a8-4555m,1.6 GHz (4 cores),631,CPU
+amd gx-415ga,1.5 GHz (4 cores),630,CPU
+amd athlon ii x2 240,2.8 GHz (2 cores),629,CPU
+intel core 2 duo e6850,3.0 GHz (2 cores),627,CPU
+intel core i3-2377m,1.5 GHz (2 cores),626,CPU
+intel pentium e6600,3.1 GHz (2 cores),625,CPU
+amd athlon ii x2 235e,2.7 GHz (2 cores),625,CPU
+intel pentium b940,2.0 GHz (2 cores),624,CPU
+intel core 2 duo t9550,2.7 GHz (2 cores),623,CPU
+intel celeron n3160,1.6 GHz (4 cores),623,CPU
+intel pentium 2117u,1.8 GHz (2 cores),622,CPU
+amd a4-4000,3.0 GHz (2 cores),622,CPU
+intel celeron j3160,1.6 GHz (4 cores),619,CPU
+amd a4-5300,3.4 GHz (2 cores),617,CPU
+intel celeron 3205u,1.5 GHz (2 cores),615,CPU
+intel core 2 duo e7300,2.7 GHz (2 cores),614,CPU
+intel pentium e5700,3.0 GHz (2 cores),611,CPU
+intel core 2 duo e7400,2.8 GHz (2 cores),609,CPU
+amd phenom ii x2 n640,2.9 GHz (2 cores),607,CPU
+amd a4-3420,2.8 GHz (2 cores),603,CPU
+intel pentium e6500,2.9 GHz (2 cores),601,CPU
+intel pentium g640t,2.4 GHz (2 cores),601,CPU
+intel core 2 duo t9300,2.5 GHz (2 cores),599,CPU
+amd athlon ii x2 b24,3.0 GHz (2 cores),599,CPU
+intel celeron 1037u,1.8 GHz (2 cores),598,CPU
+intel atom x5-e8000,1.0 GHz (4 cores),598,CPU
+intel core 2 duo t9400,2.5 GHz (2 cores),596,CPU
+intel core 2 duo p9400,2.4 GHz (2 cores),595,CPU
+amd athlon x2 7750 black edition,2.7 GHz (2 cores),595,CPU
+intel core 2 duo p9700,2.8 GHz (2 cores),591,CPU
+intel core 2 duo p9500,2.5 GHz (2 cores),581,CPU
+intel atom x5-z8330,1.4 GHz (4 cores),579,CPU
+geforce gtx 645 oem,"824 MHz | 1024 MB, GDDR5, 128 bit-1000 MHz",576,GPU
+iris pro graphics p580,350 MHz | System Shared-System Shared,576,GPU
+intel pentium e5500,2.8 GHz (2 cores),575,CPU
+intel core i3-2375m,1.5 GHz (2 cores),575,CPU
+intel core i3-2365m,1.4 GHz (2 cores),573,CPU
+amd a4-5300b,3.4 GHz (2 cores),571,CPU
+intel pentium e6300,2.8 GHz (2 cores),570,CPU
+amd athlon ii x2 215,2.7 GHz (2 cores),570,CPU
+intel core 2 duo p8700,2.5 GHz (2 cores),569,CPU
+intel celeron b830,1.8 GHz (2 cores),565,CPU
+intel celeron j3355,2.0 GHz (2 cores),565,CPU
+intel core 2 duo e6550,2.3 GHz (2 cores),561,CPU
+amd a4-5000,1.5 GHz (4 cores),559,CPU
+intel core 2 duo e6700,2.7 GHz (2 cores),554,CPU
+intel core 2 duo t7700,2.4 GHz (2 cores),554,CPU
+intel pentium e5400,2.7 GHz (2 cores),554,CPU
+intel pentium e5200,2.5 GHz (2 cores),551,CPU
+amd a4-3400,2.7 GHz (2 cores),549,CPU
+intel core i3-2367m,1.4 GHz (2 cores),547,CPU
+intel pentium p6200,2.1 GHz (2 cores),546,CPU
+intel core 2 duo p8400,2.3 GHz (2 cores),545,CPU
+intel core 2 duo p8600,2.4 GHz (2 cores),545,CPU
+amd phenom x3 8400,2.1 GHz (3 cores),543,CPU
+intel pentium e5300,2.6 GHz (2 cores),543,CPU
+intel celeron 1017u,1.6 GHz (2 cores),541,CPU
+intel core 2 duo e6600,2.4 GHz (2 cores),539,CPU
+intel pentium n3510,2.0 GHz (4 cores),535,CPU
+intel celeron b820,1.7 GHz (2 cores),530,CPU
+intel celeron 1007u,1.5 GHz (2 cores),530,CPU
+intel core 2 duo e7200,2.5 GHz (2 cores),529,CPU
+amd turion ii p540,2.4 GHz (2 cores),529,CPU
+intel atom x5-z8350,1.4 GHz (4 cores),527,CPU
+intel pentium p6100,2.0 GHz (2 cores),525,CPU
+amd sempron 3850,1.3 GHz (4 cores),524,CPU
+amd athlon x2 340,3.2 GHz (1 core),524,CPU
+intel core 2 duo e4600,2.4 GHz (2 cores),522,CPU
+intel celeron n3350,1.1 GHz (2 cores),522,CPU
+intel core 2 duo t6670,2.2 GHz (2 cores),520,CPU
+amd e2-6110,1.5 GHz (4 cores),520,CPU
+intel celeron 2955u,1.4 GHz (2 cores),517,CPU

@@ -1,0 +1,17 @@
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.Form1.resources
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.Properties.Resources.resources
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.csproj.GenerateResource.cache
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.csproj.CoreCompileInputs.cache
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\SS_OFFICIAL.exe.config
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\SS_OFFICIAL.exe
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\SS_OFFICIAL.pdb
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\Cake.Powershell.dll
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\Newtonsoft.Json.dll
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\System.Management.Automation.dll
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\Cake.Powershell.pdb
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\Cake.Powershell.xml
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\bin\Debug\Newtonsoft.Json.xml
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.csproj.CopyComplete
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.exe
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.pdb
+D:\final project\SS_Official\SS_OFFICIAL\SS_OFFICIAL\obj\Debug\SS_OFFICIAL.csproj.AssemblyReference.cache

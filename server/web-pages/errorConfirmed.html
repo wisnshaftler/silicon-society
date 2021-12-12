@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Silicon Society</title>
+  <title>Profile page </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="/web-js/bootstrap.min.css">
+    <script src="/web-js/jquery.min.js"></script>
+    <script src="/web-js/popper.min.js"></script>
+    <script src="/web-js/bootstrap.min.js"></script>
+    <script src="/web-js/js.cookie.min.js"></script>
+    <script src="/web-js/crypto-js.min.js"></script>
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+    <link rel="manifest" href="/img/site.webmanifest">
+
+  <link href="/web-js/cover.css" rel="stylesheet">
+
+</head>
+
+<body class="text-center">
+
+  <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+      <div class="inner">
+        <h3 class="masthead-brand">Silicon Society</h3>
+        <nav class="nav nav-masthead justify-content-center">
+          <a class="nav-link active" href="/">Home</a>
+          <a class="nav-link" href="/web-pages/howto.html">How To Use</a>
+          <a class="nav-link" href="/web-pages/contact-us.html">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main role="main" class="inner cover">
+      <h1 class="cover-heading">Welcome to Global Community Network</h1>
+      <p class="lead">Verifications is not sucessfull. </p>
+      <p class="lead">
+        <a href="/" class="btn btn-lg btn-secondary" id="login">Bring me to home</a>
+        
+      </p>
+    </main>
+
+    <footer class="mastfoot mt-auto">
+      <div class="inner">
+        <p>Made with <span style="color: #e25555;">&hearts;</span> in Sri Lanka</a>, by <a
+            href="https://github.com/wisnshaftler">wisnshaftler</a>.</p>
+      </div>
+    </footer>
+  </div>
+  <script src="/web-js/index.js"></script>
+
+</body>
+
+  <!--login modal-->
+<div class="modal fade" id="loginModal">
+  <div class="modal-dialog modal-dialog-scrollable modal-xl">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title text-dark">Login</h4>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+
+        <div class="form-group">
+          <label for="email" class="text-dark">Email </label>
+          <input type="email" class="form-control" id="email" placeholder="Your Email" autocomplete="off" required>
+        </div>
+
+        <div class="form-group">
+          <label for="password" class="text-dark text-left">Password </label>
+          <input type="password" class="form-control" id="password" placeholder="Your Password" autocomplete="off"
+            required>
+        </div>
+
+        <div class="form-group">
+          <div id="loginStatus" style="color:orange"></div><br>
+          <button type="button" class="btn btn-outline-dark btn-block" onclick="login()">Sign In</button>
+        </div>
+
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!--create modal-->
+<div class="modal fade" id="createModal">
+  <div class="modal-dialog modal-dialog-scrollable modal-xl">
+    <div class="modal-content">
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title text-dark">Create Account</h4>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+
+        <div class="form-group">
+          <label for="email-create" class="text-dark">Email </label>
+          <input type="email" class="form-control" id="email-create" placeholder="Your Email" autocomplete="off" required>
+        </div>
+
+        <div class="form-group">
+          <label for="password-create" class="text-dark text-left">Password </label>
+          <input type="password" class="form-control" id="password-create" placeholder="Your Password" autocomplete="off"
+            required>
+        </div>
+
+        <div class="form-group">
+          <label for="name-create" class="text-dark text-left">Full name </label>
+          <input type="password" class="form-control" id="name-create" placeholder="Your Full Name" autocomplete="off"
+            required>
+        </div>
+
+        <div class="form-group">
+          <label for="username-create" class="text-dark text-left">Username</label>
+          <input type="password" class="form-control" id="username-create" placeholder="Your Username" autocomplete="off"
+            required>
+        </div>
+
+        <div class="form-group">
+          <strong style="color: black;">by clicking Create Account button, you agree to the terms and conditions</strong>
+        </div>
+
+        <div class="form-group">
+          <div id="loginStatus" style="color:orange"></div><br>
+          <button type="button" class="btn btn-outline-dark btn-block" onclick="create()">Create Account</button>
+        </div>
+        
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</html>

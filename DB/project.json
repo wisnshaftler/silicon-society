@@ -1,0 +1,277 @@
+[{
+  "_id": {
+    "$oid": "60845d2a4105552532420bab"
+  },
+  "name": "Sample project 1",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "needDeviceCount": 10,
+  "rewarded": false,
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": false,
+  "status": "complete",
+  "os": "windows",
+  "approvedBy": "blank",
+  "separateTask": false,
+  "softwareID": "",
+  "description": "This is testing description",
+  "img": "img/1.png",
+  "devices": [
+    "6087c8a2cec1d85421a72f99"
+  ],
+  "time": {
+    "$date": "2021-04-23T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "60859ab1fdb89e495a9b6597"
+  },
+  "name": "Sample Project 2",
+  "createdBy": "6085b1b2a975233348a60882",
+  "needDeviceCount": 10,
+  "rewarded": false,
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": false,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "blank",
+  "separateTask": false,
+  "softwareID": "software id goes here",
+  "description": "This is testing description 1",
+  "img": "img/2.png",
+  "devices": [],
+  "time": {
+    "$date": "2021-04-23T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "60859b00fdb89e495a9b6598"
+  },
+  "name": "Sample project 3",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "needDeviceCount": 1,
+  "rewarded": false,
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 10,
+  "approved": false,
+  "status": "complete",
+  "os": "windows",
+  "approvedBy": "blank",
+  "separateTask": false,
+  "softwareID": "",
+  "description": "This is testing description 2",
+  "img": "img/1.png",
+  "devices": [],
+  "time": {
+    "$date": "2021-04-23T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "60859b13fdb89e495a9b6599"
+  },
+  "name": "Sample project 4",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "needDeviceCount": 10,
+  "rewarded": false,
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": false,
+  "status": "suspend",
+  "os": "windows",
+  "approvedBy": "blank",
+  "separateTask": false,
+  "softwareID": "software id goes here",
+  "description": "This is testing description 3",
+  "img": "img/1.png",
+  "devices": [
+    "6087c8a2cec1d85421a72f69"
+  ],
+  "time": {
+    "$date": "2021-04-23T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "60859b20fdb89e495a9b659a"
+  },
+  "name": "Sample project 5",
+  "createdBy": "60831ae4aa3cf3385c451261",
+  "needDeviceCount": 10,
+  "rewarded": false,
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": false,
+  "img": "img/1.png",
+  "softwareID": [
+    "024352bf0cd335f11539b4b87bd29d70.deb",
+    "024352bf0cd335f11539b4b87bd29d70.deb"
+  ],
+  "description": "This is testing description 4",
+  "devices": [],
+  "time": {
+    "$date": "2021-07-19T19:08:00.228Z"
+  }
+},{
+  "_id": {
+    "$oid": "60c4c684cb60e4160043cecb"
+  },
+  "name": "Sample project 6",
+  "createdBy": "60831ae4aa3cf3385c451261",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": true,
+  "status": "active",
+  "os": "both",
+  "approvedBy": "",
+  "separateTask": "false",
+  "softwareID": [
+    "e59ea02b4b615729c17692b98449ec5d.exe",
+    "024352bf0cd335f11539b4b87bd29d70.deb"
+  ],
+  "description": "ape hadakam uzi senadira",
+  "notice": "meka awl ekai",
+  "img": "img/41791225b72f54552fd2078ef8fc550b.png",
+  "devices": [
+    "6087c8a2cec1d85421a72f69"
+  ],
+  "time": {
+    "$date": "2021-06-12T14:36:52.665Z"
+  }
+},{
+  "_id": {
+    "$oid": "611668aa7d1a1c4c54484023"
+  },
+  "name": "Testing software project",
+  "createdBy": "60831ae4aa3cf3385c451261",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a672",
+  "leastRAM": 1,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": "false",
+  "softwareID": [
+    "358bfc90e1d40cadb23d9c065ad6553c.exe",
+    "358bfc90e1d40cadb23d9c065ad65533.dk"
+  ],
+  "description": "This is sample project for software testing",
+  "notice": "",
+  "img": "img/7fdc95f7cd7b7224c344ca06840b672a.png",
+  "devices": [
+    "6116b6f77d1a1c4c54484027"
+  ],
+  "time": {
+    "$date": "2021-08-13T12:42:18.755Z"
+  }
+},{
+  "_id": {
+    "$oid": "612341bf71c3354900c4d498"
+  },
+  "name": "Testing API project",
+  "createdBy": "6120cc5f4e1f3f21d039ddb4",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a811",
+  "leastRAM": 1,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": "false",
+  "softwareID": [
+    "0a00667808a90d7913b6a240f2d08d0b.exe"
+  ],
+  "description": "sample API check project",
+  "notice": "",
+  "img": "img/5970c0d91aa672447e7426eaa9b7b6e0.png",
+  "devices": [
+    "6116b6f77d1a1c4c54484026",
+    "61274e6e73a8192e5c061502"
+  ],
+  "time": {
+    "$date": "2021-08-23T06:35:43.296Z"
+  }
+},{
+  "_id": {
+    "$oid": "6193d4866290ca41f00d8d08"
+  },
+  "name": "Sample project",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a1ad",
+  "leastRAM": 2,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": "true",
+  "softwareID": [
+    "143ef8817346265e992a9799c05c8d84.exe"
+  ],
+  "description": "This is sample project description",
+  "notice": "",
+  "img": "img/b1a9c6a94172fa6db63f36432f69ab14.png",
+  "devices": [],
+  "time": {
+    "$date": "2021-11-16T15:55:50.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "6194bf259158d24accd0a69c"
+  },
+  "name": "Demo Project",
+  "createdBy": "6120cc5f4e1f3f21d039ddb4",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a811",
+  "leastRAM": 1,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": "false",
+  "softwareID": [
+    "e20446f2e3ef44dc1fa361c78a9bd0ba.exe"
+  ],
+  "description": "Demo Task Data",
+  "notice": "",
+  "img": "img/0bf8a24ca731dd6070ff9680092bc8c6.png",
+  "devices": [],
+  "time": {
+    "$date": "2021-11-17T08:36:53.386Z"
+  }
+},{
+  "_id": {
+    "$oid": "61953c6e111e1d23d4a26599"
+  },
+  "name": "Sample Testing Project",
+  "createdBy": "60831ae4aa3cf3385c451260",
+  "needDeviceCount": 10,
+  "rewarded": "false",
+  "leastCPU": "6113e2758236d84cbf44a1ad",
+  "leastRAM": 2,
+  "approved": true,
+  "status": "active",
+  "os": "windows",
+  "approvedBy": "60f2c61bb3809feaeadb89be",
+  "separateTask": "true",
+  "softwareID": [
+    "916840e55513ff0b092725b528f04518.exe"
+  ],
+  "description": "Sample Project Description",
+  "notice": "",
+  "img": "img/0ecd70c6d6a47ec1a5ce2deec8537722.png",
+  "devices": [],
+  "time": {
+    "$date": "2021-11-17T17:31:26.214Z"
+  }
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6194bf6cbac10d2d184a5883"
+  },
+  "projectID": "6194bf259158d24accd0a69c",
+  "userID": "60831ae4aa3cf3385c451260",
+  "joinDate": {
+    "$date": "2021-11-17T08:38:04.712Z"
+  },
+  "deviceID": "61274e6e73a8192e5c061502",
+  "leftDate": {
+    "$date": "2021-11-17T17:34:42.132Z"
+  }
+},{
+  "_id": {
+    "$oid": "61953d56111e1d23d4a2659c"
+  },
+  "projectID": "612341bf71c3354900c4d498",
+  "userID": "60831ae4aa3cf3385c451260",
+  "joinDate": {
+    "$date": "2021-11-17T17:35:18.868Z"
+  },
+  "deviceID": "61274e6e73a8192e5c061502"
+}]

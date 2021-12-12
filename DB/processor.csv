@@ -1,0 +1,1659 @@
+Base speed & Cores,Benchmark Score,Processor,Type,_id
+2.9 GHz (64 cores),25011,amd ryzen threadripper 3990x,CPU,6113e2758236d84cbf44a1ad
+3.7 GHz (32 cores),22441,amd ryzen threadripper 3970x,CPU,6113e2758236d84cbf44a1ae
+3.1 GHz (28 cores),20286,intel xeon w-3175x,CPU,6113e2758236d84cbf44a1af
+3.8 GHz (24 cores),19930,amd ryzen threadripper 3960x,CPU,6113e2758236d84cbf44a1b0
+2.5 GHz (28 cores),18736,intel xeon w-3275m,CPU,6113e2758236d84cbf44a1b1
+3.4 GHz (16 cores),16940,amd ryzen 9 5950x,CPU,6113e2758236d84cbf44a1b2
+3.0 GHz (18 cores),15955,intel core i9-10980xe,CPU,6113e2758236d84cbf44a1b3
+3.0 GHz (18 cores),15229,intel core i9-9980xe,CPU,6113e2758236d84cbf44a1b4
+2.2 GHz (64 cores),15034,amd epyc 7742,CPU,6113e2758236d84cbf44a1b5
+2.6 GHz (18 cores),14998,intel core i9-7980xe,CPU,6113e2758236d84cbf44a1b6
+3.2 GHz (16 cores),14691,intel xeon w-3245,CPU,6113e2758236d84cbf44a1b7
+3.7 GHz (12 cores),14236,amd ryzen 9 5900x,CPU,6113e2758236d84cbf44a1b8
+3.5 GHz (16 cores),14205,amd ryzen 9 3950x,CPU,6113e2758236d84cbf44a1b9
+3.1 GHz (16 cores),14002,intel core i9-9960x,CPU,6113e2758236d84cbf44a1ba
+2.8 GHz (16 cores),13942,intel core i9-7960x,CPU,6113e2758236d84cbf44a1bb
+3.3 GHz (14 cores),13928,intel core i9-9940x,CPU,6113e2758236d84cbf44a1bc
+3.0 GHz (18 cores),13829,intel xeon w-2295,CPU,6113e2758236d84cbf44a1bd
+2.1 GHz (20 cores),13292,intel xeon gold 5218r,CPU,6113e2758236d84cbf44a1be
+3.1 GHz (18 cores),13243,intel xeon gold 6254,CPU,6113e2758236d84cbf44a1bf
+3.3 GHz (14 cores),13208,intel core i9-10940x,CPU,6113e2758236d84cbf44a1c0
+3.1 GHz (14 cores),12841,intel core i9-7940x,CPU,6113e2758236d84cbf44a1c1
+3.5 GHz (12 cores),12725,intel core i9-10920x,CPU,6113e2758236d84cbf44a1c2
+2.2 GHz (22 cores),12583,intel xeon e5-2699 v4,CPU,6113e2758236d84cbf44a1c3
+2.3 GHz (18 cores),12565,intel xeon w-2191b,CPU,6113e2758236d84cbf44a1c4
+3.5 GHz (16 cores),12561,amd ryzen threadripper 2950x,CPU,6113e2758236d84cbf44a1c5
+2.9 GHz (32 cores),12115,amd epyc 7542,CPU,6113e2758236d84cbf44a1c6
+2.6 GHz (12 cores),12069,intel xeon gold 6126,CPU,6113e2758236d84cbf44a1c7
+3.8 GHz (12 cores),11991,amd ryzen 9 3900xt,CPU,6113e2758236d84cbf44a1c8
+3.3 GHz (12 cores),11971,intel xeon w-3235,CPU,6113e2758236d84cbf44a1c9
+2.9 GHz (12 cores),11851,intel core i9-7920x,CPU,6113e2758236d84cbf44a1ca
+3.5 GHz (12 cores),11830,intel core i9-9920x,CPU,6113e2758236d84cbf44a1cb
+3.8 GHz (12 cores),11803,amd ryzen 9 3900x,CPU,6113e2758236d84cbf44a1cc
+2.2 GHz (22 cores),11628,intel xeon e5-2696 v4,CPU,6113e2758236d84cbf44a1cd
+2.2 GHz (20 cores),11217,intel xeon e5-2698 v4,CPU,6113e2758236d84cbf44a1ce
+3.0 GHz (16 cores),11183,amd epyc 7302p,CPU,6113e2758236d84cbf44a1cf
+2.3 GHz (18 cores),11025,intel xeon e5-2696 v3,CPU,6113e2758236d84cbf44a1d0
+3.0 GHz (18 cores),10986,intel xeon platinum 8124m,CPU,6113e2758236d84cbf44a1d1
+3.7 GHz (10 cores),10854,intel core i9-10900k,CPU,6113e2758236d84cbf44a1d2
+3.7 GHz (10 cores),10807,intel core i9-10900kf,CPU,6113e2758236d84cbf44a1d3
+3.0 GHz (18 cores),10779,intel xeon gold 6154,CPU,6113e2758236d84cbf44a1d4
+"1305 MHz | 48 GB, GDDR6, 384 bit-1812 MHz",10752,a40 pcie,GPU,6113e2758236d84cbf44a1d5
+"1455 MHz | 48 GB, GDDR6, 384 bit-2000 MHz",10752,rtx a6000,GPU,6113e2758236d84cbf44a1d6
+3.1 GHz (12 cores),10663,amd ryzen 9 3900,CPU,6113e2758236d84cbf44a1d7
+3.7 GHz (10 cores),10585,intel core i9-10900x,CPU,6113e2758236d84cbf44a1d8
+3.6 GHz (10 cores),10566,intel core i9-10850k,CPU,6113e2758236d84cbf44a1d9
+"1395 MHz | 24 GB, GDDR6X, 384 bit-1219 MHz",10496,geforce rtx 3090,GPU,6113e2758236d84cbf44a1da
+3.0 GHz (32 cores),10464,amd ryzen threadripper 2990wx,CPU,6113e2758236d84cbf44a1db
+3.8 GHz (8 cores),10430,amd ryzen 7 5800x,CPU,6113e2758236d84cbf44a1dc
+3.4 GHz (16 cores),10395,amd ryzen threadripper 1950x,CPU,6113e2758236d84cbf44a1dd
+3.5 GHz (10 cores),10278,intel core i9-9900x,CPU,6113e2758236d84cbf44a1de
+"1365 MHz | 12 GB, GDDR6X, 384 bit-1188 MHz",10240,geforce rtx 3080 ti,GPU,6113e2758236d84cbf44a1df
+2.6 GHz (14 cores),10159,intel xeon e5-2690 v4,CPU,6113e2758236d84cbf44a1e0
+3.3 GHz (10 cores),10037,intel core i9-7900x,CPU,6113e2758236d84cbf44a1e1
+3.3 GHz (10 cores),9868,intel xeon w-2155,CPU,6113e2758236d84cbf44a1e2
+2.1 GHz (18 cores),9789,intel xeon e5-2695 v4,CPU,6113e2758236d84cbf44a1e3
+3.0 GHz (24 cores),9671,amd ryzen threadripper 2970wx,CPU,6113e2758236d84cbf44a1e4
+3.5 GHz (12 cores),9662,amd ryzen threadripper 2920x,CPU,6113e2758236d84cbf44a1e5
+3.6 GHz (10 cores),9582,intel core i9-10910,CPU,6113e2758236d84cbf44a1e6
+3.0 GHz (12 cores),9510,intel xeon e5-2687w v4,CPU,6113e2758236d84cbf44a1e7
+2.3 GHz (16 cores),9492,intel xeon e5-2698 v3,CPU,6113e2758236d84cbf44a1e8
+2.8 GHz (10 cores),9487,intel core i9-10900f,CPU,6113e2758236d84cbf44a1e9
+2.8 GHz (10 cores),9348,intel core i9-10900,CPU,6113e2758236d84cbf44a1ea
+"885 MHz | 24 GB, GDDR6, 384 bit-1563 MHz",9216,a10 pcie,GPU,6113e2758236d84cbf44a1eb
+"1320 MHz | 12 GB, GDDR6, 384 bit-1563 MHz",9216,a10g,GPU,6113e2758236d84cbf44a1ec
+4.0 GHz (8 cores),9162,intel core i9-9900ks,CPU,6113e2758236d84cbf44a1ed
+2.6 GHz (14 cores),9104,intel xeon e5-2697 v3,CPU,6113e2758236d84cbf44a1ee
+3.8 GHz (8 cores),9085,intel core i7-9800x,CPU,6113e2758236d84cbf44a1ef
+3.0 GHz (10 cores),9070,intel xeon w-2150b,CPU,6113e2758236d84cbf44a1f0
+3.0 GHz (10 cores),9006,intel core i7-6950x,CPU,6113e2758236d84cbf44a1f1
+3.9 GHz (8 cores),9004,amd ryzen 7 3800xt,CPU,6113e2758236d84cbf44a1f2
+3.8 GHz (8 cores),8899,intel core i7-10700k,CPU,6113e2758236d84cbf44a1f3
+3.9 GHz (8 cores),8886,amd ryzen 7 3800x,CPU,6113e2758236d84cbf44a1f4
+2.1 GHz (16 cores),8786,intel xeon e5-2683 v4,CPU,6113e2758236d84cbf44a1f5
+"1440 MHz | 10 GB, GDDR6X, 320 bit-1188 MHz",8704,cmp 90hx,GPU,6113e2758236d84cbf44a1f6
+"1440 MHz | 10 GB, GDDR6X, 320 bit-1188 MHz",8704,geforce rtx 3080,GPU,6113e2758236d84cbf44a1f7
+2.6 GHz (12 cores),8661,intel xeon e5-2690 v3,CPU,6113e2758236d84cbf44a1f8
+3.5 GHz (12 cores),8654,amd ryzen threadripper 1920x,CPU,6113e2758236d84cbf44a1f9
+3.6 GHz (8 cores),8652,intel core i9-9900kf,CPU,6113e2758236d84cbf44a1fa
+3.8 GHz (8 cores),8645,intel core i7-10700kf,CPU,6113e2758236d84cbf44a1fb
+3.7 GHz (8 cores),8628,intel xeon w-2145,CPU,6113e2758236d84cbf44a1fc
+2.4 GHz (14 cores),8607,intel xeon e5-2680 v4,CPU,6113e2758236d84cbf44a1fd
+3.6 GHz (8 cores),8598,intel core i9-9900k,CPU,6113e2758236d84cbf44a1fe
+2.0 GHz (16 cores),8468,intel xeon e5-4667 v3,CPU,6113e2758236d84cbf44a1ff
+3.6 GHz (8 cores),8455,amd ryzen 7 3700x,CPU,6113e2758236d84cbf44a200
+3.6 GHz (8 cores),8410,intel core i7-7820x,CPU,6113e2758236d84cbf44a201
+3.7 GHz (6 cores),8197,amd ryzen 5 5600x,CPU,6113e2758236d84cbf44a202
+"1170 MHz | 24 GB, GDDR6, 384 bit-2000 MHz",8192,rtx a5000,GPU,6113e2758236d84cbf44a203
+2.2 GHz (12 cores),8166,intel xeon silver 4214,CPU,6113e2758236d84cbf44a204
+2.0 GHz (14 cores),8016,intel xeon e5-2683 v3,CPU,6113e2758236d84cbf44a205
+3.6 GHz (8 cores),7987,amd ryzen 7 pro 4750g,CPU,6113e2758236d84cbf44a206
+2.5 GHz (12 cores),7980,intel xeon e5-2680 v3,CPU,6113e2758236d84cbf44a207
+2.9 GHz (8 cores),7859,intel core i7-10700f,CPU,6113e2758236d84cbf44a208
+3.2 GHz (8 cores),7823,intel xeon w-2140b,CPU,6113e2758236d84cbf44a209
+2.5 GHz (12 cores),7815,intel xeon e5-2678 v3,CPU,6113e2758236d84cbf44a20a
+3.2 GHz (8 cores),7793,intel xeon gold 6134,CPU,6113e2758236d84cbf44a20b
+2.9 GHz (8 cores),7754,intel core i7-10700,CPU,6113e2758236d84cbf44a20c
+3.0 GHz (8 cores),7725,intel xeon e5-1660 v3,CPU,6113e2758236d84cbf44a20d
+3.2 GHz (8 cores),7715,intel core i7-6900k,CPU,6113e2758236d84cbf44a20e
+3.5 GHz (8 cores),7704,intel xeon w-3223,CPU,6113e2758236d84cbf44a20f
+"1000 MHz | 32 GB, HBM2, 4096 bit-1200 MHz",7680,radeon instinct mi100,GPU,6113e2758236d84cbf44a210
+"900 MHz | 16 GB, HBM2e, 4096 bit-1200 MHz",7680,arctic sound 2t,GPU,6113e2758236d84cbf44a211
+3.1 GHz (8 cores),7648,intel core i9-9900,CPU,6113e2758236d84cbf44a212
+2.3 GHz (12 cores),7611,intel xeon gold 5118,CPU,6113e2758236d84cbf44a213
+2.3 GHz (12 cores),7518,intel xeon e5-2670 v3,CPU,6113e2758236d84cbf44a214
+2.1 GHz (12 cores),7456,intel xeon silver 4116,CPU,6113e2758236d84cbf44a215
+2.5 GHz (12 cores),7373,intel xeon e5-2696 v2,CPU,6113e2758236d84cbf44a216
+3.7 GHz (8 cores),7354,intel xeon e-2288g,CPU,6113e2758236d84cbf44a217
+3.0 GHz (8 cores),7222,intel core i7-5960x,CPU,6113e2758236d84cbf44a218
+3.6 GHz (8 cores),7210,intel core i7-9700k,CPU,6113e2758236d84cbf44a219
+3.6 GHz (8 cores),7185,intel core i7-9700kf,CPU,6113e2758236d84cbf44a21a
+3.2 GHz (8 cores),7183,amd ryzen 7 5800h,CPU,6113e2758236d84cbf44a21b
+4.1 GHz (6 cores),7105,intel core i5-10600kf,CPU,6113e2758236d84cbf44a21c
+3.8 GHz (6 cores),7093,amd ryzen 5 3600xt,CPU,6113e2758236d84cbf44a21d
+2.6 GHz (10 cores),6996,intel xeon e5-2660 v3,CPU,6113e2758236d84cbf44a21e
+3.0 GHz (8 cores),6987,amd ryzen 9 4900hs,CPU,6113e2758236d84cbf44a21f
+4.0 GHz (6 cores),6984,intel core i7-8086k,CPU,6113e2758236d84cbf44a220
+2.3 GHz (8 cores),6981,intel core i7-10875h,CPU,6113e2758236d84cbf44a221
+2.7 GHz (12 cores),6963,intel xeon e5-2697 v2,CPU,6113e2758236d84cbf44a222
+4.1 GHz (6 cores),6959,intel core i5-10600k,CPU,6113e2758236d84cbf44a223
+3.2 GHz (8 cores),6922,intel xeon e5-1660 v4,CPU,6113e2758236d84cbf44a224
+"765 MHz | 40 GB, HBM2e, 5120 bit-1215 MHz",6912,a100 pcie,GPU,6113e2758236d84cbf44a225
+"1095 MHz | 40 GB, HBM2e, 5120 bit-1215 MHz",6912,a100 sxm4 40 gb,GPU,6113e2758236d84cbf44a226
+"1095 MHz | 80 GB, HBM2e, 5120 bit-1593 MHz",6912,a100 sxm4 80 gb,GPU,6113e2758236d84cbf44a227
+"900 MHz | 48 GB, HBM2e, 6144 bit-1215 MHz",6912,grid a100a,GPU,6113e2758236d84cbf44a228
+"900 MHz | 48 GB, HBM2e, 6144 bit-1215 MHz",6912,grid a100b,GPU,6113e2758236d84cbf44a229
+3.8 GHz (6 cores),6907,amd ryzen 5 3600x,CPU,6113e2758236d84cbf44a22a
+2.4 GHz (8 cores),6890,intel core i9-10885h,CPU,6113e2758236d84cbf44a22b
+3.2 GHz (8 cores),6885,intel xeon e5-2667 v4,CPU,6113e2758236d84cbf44a22c
+3.0 GHz (8 cores),6868,intel xeon e5-1680 v2,CPU,6113e2758236d84cbf44a22d
+3.7 GHz (8 cores),6863,amd ryzen 7 2700x,CPU,6113e2758236d84cbf44a22e
+2.2 GHz (8 cores),6757,intel core i7-10870h,CPU,6113e2758236d84cbf44a22f
+3.4 GHz (8 cores),6751,intel xeon e5-1680 v4,CPU,6113e2758236d84cbf44a230
+3.3 GHz (8 cores),6710,amd ryzen 9 4900h,CPU,6113e2758236d84cbf44a231
+3.8 GHz (8 cores),6694,amd ryzen threadripper 1900x,CPU,6113e2758236d84cbf44a232
+3.6 GHz (6 cores),6687,amd ryzen 5 3600,CPU,6113e2758236d84cbf44a233
+3.2 GHz (8 cores),6636,intel xeon processor e5-1680 v3,CPU,6113e2758236d84cbf44a234
+2.9 GHz (8 cores),6632,amd ryzen 7 4800hs,CPU,6113e2758236d84cbf44a235
+2.9 GHz (8 cores),6631,amd ryzen 7 4800h,CPU,6113e2758236d84cbf44a236
+3.7 GHz (6 cores),6570,intel core i7-8700k,CPU,6113e2758236d84cbf44a237
+3.1 GHz (10 cores),6518,intel xeon e5-2687w v3,CPU,6113e2758236d84cbf44a238
+3.0 GHz (8 cores),6482,intel core i7-9700f,CPU,6113e2758236d84cbf44a239
+2.4 GHz (8 cores),6480,intel core i9-9980hk,CPU,6113e2758236d84cbf44a23a
+3.0 GHz (10 cores),6448,intel xeon e5-2690 v2,CPU,6113e2758236d84cbf44a23b
+3.7 GHz (6 cores),6442,amd ryzen 5 pro 4650g,CPU,6113e2758236d84cbf44a23c
+3.0 GHz (8 cores),6393,intel core i7-9700,CPU,6113e2758236d84cbf44a23d
+3.6 GHz (8 cores),6343,amd ryzen 7 1800x,CPU,6113e2758236d84cbf44a23e
+3.7 GHz (6 cores),6304,intel xeon w-2135,CPU,6113e2758236d84cbf44a23f
+2.2 GHz (10 cores),6276,intel xeon e5-2630 v4,CPU,6113e2758236d84cbf44a240
+2.4 GHz (10 cores),6244,intel xeon e5-2640 v4,CPU,6113e2758236d84cbf44a241
+3.3 GHz (6 cores),6225,intel core i5-10600,CPU,6113e2758236d84cbf44a242
+3.5 GHz (6 cores),6222,intel core i7-7800x,CPU,6113e2758236d84cbf44a243
+3.4 GHz (8 cores),6160,intel xeon e5-2687w v2,CPU,6113e2758236d84cbf44a244
+2.8 GHz (10 cores),6144,intel xeon e5-2680 v2,CPU,6113e2758236d84cbf44a245
+"1575 MHz | 8 GB, GDDR6X, 256 bit-1188 MHz",6144,geforce rtx 3070 ti,GPU,6113e2758236d84cbf44a246
+"735 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",6144,rtx a4000,GPU,6113e2758236d84cbf44a247
+"900 MHz | 16 GB, HBM2e, 4096 bit-1200 MHz",6144,arctic sound 1t,GPU,6113e2758236d84cbf44a248
+2.4 GHz (12 cores),6128,intel xeon e5-2695 v2,CPU,6113e2758236d84cbf44a249
+2.3 GHz (8 cores),6125,intel core i9-9880h,CPU,6113e2758236d84cbf44a24a
+3.2 GHz (8 cores),6120,amd ryzen 7 2700,CPU,6113e2758236d84cbf44a24b
+3.4 GHz (8 cores),6089,amd ryzen 7 pro 1700x,CPU,6113e2758236d84cbf44a24c
+3.4 GHz (8 cores),5989,amd ryzen 7 1700x,CPU,6113e2758236d84cbf44a24d
+3.3 GHz (8 cores),5957,intel xeon e5-2667 v2,CPU,6113e2758236d84cbf44a24e
+2.0 GHz (24 cores),5955,amd epyc 7401p,CPU,6113e2758236d84cbf44a24f
+1.8 GHz (8 cores),5927,amd ryzen 7 4800u,CPU,6113e2758236d84cbf44a250
+3.1 GHz (6 cores),5904,intel core i5-10500,CPU,6113e2758236d84cbf44a251
+"1500 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",5888,geforce rtx 3070,GPU,6113e2758236d84cbf44a252
+3.5 GHz (6 cores),5858,intel xeon e-2146g,CPU,6113e2758236d84cbf44a253
+3.2 GHz (6 cores),5837,intel core i7-8700,CPU,6113e2758236d84cbf44a254
+3.6 GHz (6 cores),5819,intel xeon w-2133,CPU,6113e2758236d84cbf44a255
+3.6 GHz (6 cores),5786,intel core i7-6850k,CPU,6113e2758236d84cbf44a256
+2.9 GHz (6 cores),5766,intel core i5-10400f,CPU,6113e2758236d84cbf44a257
+3.3 GHz (6 cores),5739,intel xeon e-2136,CPU,6113e2758236d84cbf44a258
+2.4 GHz (12 cores),5721,intel xeon e5-4657l v2,CPU,6113e2758236d84cbf44a259
+2.3 GHz (10 cores),5677,intel xeon e5-2650 v3,CPU,6113e2758236d84cbf44a25a
+3.0 GHz (8 cores),5677,amd ryzen 7 1700,CPU,6113e2758236d84cbf44a25b
+3.6 GHz (6 cores),5668,amd ryzen 5 2600x,CPU,6113e2758236d84cbf44a25c
+3.5 GHz (6 cores),5635,intel core i7-5930k,CPU,6113e2758236d84cbf44a25d
+2.9 GHz (6 cores),5622,intel core i5-10400,CPU,6113e2758236d84cbf44a25e
+3.6 GHz (6 cores),5617,intel xeon e5-1650 v4,CPU,6113e2758236d84cbf44a25f
+3.7 GHz (6 cores),5609,intel core i5-9600kf,CPU,6113e2758236d84cbf44a260
+3.7 GHz (6 cores),5602,intel core i5-9600k,CPU,6113e2758236d84cbf44a261
+3.2 GHz (6 cores),5600,intel core i7-8700b,CPU,6113e2758236d84cbf44a262
+2.4 GHz (10 cores),5597,intel xeon e5-2470 v2,CPU,6113e2758236d84cbf44a263
+3.4 GHz (6 cores),5582,intel core i7-6800k,CPU,6113e2758236d84cbf44a264
+2.6 GHz (8 cores),5570,intel xeon e5-2640 v3,CPU,6113e2758236d84cbf44a265
+2.2 GHz (10 cores),5550,intel xeon silver 4114,CPU,6113e2758236d84cbf44a266
+3.6 GHz (6 cores),5535,intel core i5-8600k,CPU,6113e2758236d84cbf44a267
+2.5 GHz (10 cores),5466,intel xeon e5-2670 v2,CPU,6113e2758236d84cbf44a268
+2.6 GHz (6 cores),5463,intel core i7-10750h,CPU,6113e2758236d84cbf44a269
+3.3 GHz (6 cores),5427,intel core i7-5820k,CPU,6113e2758236d84cbf44a26a
+2.7 GHz (6 cores),5387,intel core i7-10850h,CPU,6113e2758236d84cbf44a26b
+1.7 GHz (8 cores),5374,amd ryzen 7 pro 4750u,CPU,6113e2758236d84cbf44a26c
+2.0 GHz (32 cores),5361,amd epyc 7551,CPU,6113e2758236d84cbf44a26d
+3.5 GHz (6 cores),5316,intel xeon e5-1650 v3,CPU,6113e2758236d84cbf44a26e
+2.9 GHz (8 cores),5288,intel xeon e5-2690,CPU,6113e2758236d84cbf44a26f
+3.4 GHz (6 cores),5265,amd ryzen 5 2600,CPU,6113e2758236d84cbf44a270
+3.0 GHz (8 cores),5259,amd ryzen 7 pro 1700,CPU,6113e2758236d84cbf44a271
+3.1 GHz (8 cores),5247,intel xeon e5-2687w,CPU,6113e2758236d84cbf44a272
+2.0 GHz (8 cores),5226,intel core i7-9700t,CPU,6113e2758236d84cbf44a273
+3.6 GHz (6 cores),5212,amd ryzen 5 3500x,CPU,6113e2758236d84cbf44a274
+2.1 GHz (8 cores),5198,intel xeon silver 4110,CPU,6113e2758236d84cbf44a275
+3.8 GHz (4 cores),5165,amd ryzen 3 3300x,CPU,6113e2758236d84cbf44a276
+3.6 GHz (6 cores),5130,amd ryzen 5 1600x,CPU,6113e2758236d84cbf44a277
+2.8 GHz (6 cores),5130,intel xeon e-2276m,CPU,6113e2758236d84cbf44a278
+2.2 GHz (10 cores),5124,intel xeon e5-2660 v2,CPU,6113e2758236d84cbf44a279
+"1260 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,tesla pg500-216,GPU,6113e2758236d84cbf44a27a
+"1312 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,tesla pg503-216,GPU,6113e2758236d84cbf44a27b
+"1245 MHz | 16 GB, HBM2, 4096 bit-1106 MHz",5120,tesla v100 sxm2 16 gb,GPU,6113e2758236d84cbf44a27c
+"1245 MHz | 32 GB, HBM2, 4096 bit-1106 MHz",5120,tesla v100s pcie 32 gb,GPU,6113e2758236d84cbf44a27d
+"1132 MHz | 32 GB, HBM2, 4096 bit-848 MHz",5120,quadro gv100,GPU,6113e2758236d84cbf44a27e
+"1200 MHz | 32 GB, HBM2, 4096 bit-848 MHz",5120,titan v ceo edition,GPU,6113e2758236d84cbf44a27f
+"1327 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 dgxs 16 gb,GPU,6113e2758236d84cbf44a280
+"1297 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 dgxs 32 gb,GPU,6113e2758236d84cbf44a281
+"937 MHz | 16 GB, HBM2, 4096 bit-810 MHz",5120,tesla v100 fhhl,GPU,6113e2758236d84cbf44a282
+"1230 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 pcie 32 gb,GPU,6113e2758236d84cbf44a283
+"1290 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 sxm2 32 gb,GPU,6113e2758236d84cbf44a284
+"1290 MHz | 32 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 sxm3 32 gb,GPU,6113e2758236d84cbf44a285
+"1200 MHz | 12 GB, HBM2, 3072 bit-848 MHz",5120,titan v,GPU,6113e2758236d84cbf44a286
+"1245 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 pcie 16 gb,GPU,6113e2758236d84cbf44a287
+"1312 MHz | 16 GB, HBM2, 4096 bit-876 MHz",5120,tesla v100 sxm2 16 gb,GPU,6113e2758236d84cbf44a288
+"2075 MHz | 32 GB, GDDR6, 256 bit-2000 MHz",5120,radeon pro w6900x,GPU,6113e2758236d84cbf44a289
+"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",5120,radeon rx 6900 xt,GPU,6113e2758236d84cbf44a28a
+"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",5120,radeon rx 6900 xtx,GPU,6113e2758236d84cbf44a28b
+2.6 GHz (8 cores),5116,intel xeon e5-2650 v2,CPU,6113e2758236d84cbf44a28c
+2.3 GHz (8 cores),5038,intel xeon e5-2686 v4,CPU,6113e2758236d84cbf44a28d
+3.1 GHz (6 cores),5035,intel core i5-9600,CPU,6113e2758236d84cbf44a28e
+3.6 GHz (6 cores),4990,intel core i7-4960x,CPU,6113e2758236d84cbf44a28f
+3.0 GHz (6 cores),4948,amd ryzen 5 4600hs,CPU,6113e2758236d84cbf44a290
+2.6 GHz (6 cores),4917,intel core i7-9850h,CPU,6113e2758236d84cbf44a291
+3.2 GHz (6 cores),4911,amd ryzen 5 1600,CPU,6113e2758236d84cbf44a292
+3.3 GHz (4 cores),4898,intel core i7-11370h,CPU,6113e2758236d84cbf44a293
+2.4 GHz (6 cores),4887,intel core i7-8700t,CPU,6113e2758236d84cbf44a294
+3.1 GHz (6 cores),4885,intel core i5-8600,CPU,6113e2758236d84cbf44a295
+2.1 GHz (6 cores),4885,amd ryzen 5 4600u,CPU,6113e2758236d84cbf44a296
+2.6 GHz (6 cores),4871,intel core i7-9750h,CPU,6113e2758236d84cbf44a297
+2.1 GHz (8 cores),4870,intel xeon e5-2620 v4,CPU,6113e2758236d84cbf44a298
+2.7 GHz (8 cores),4867,intel xeon e5-2680,CPU,6113e2758236d84cbf44a299
+3.0 GHz (6 cores),4865,amd ryzen 5 4600h,CPU,6113e2758236d84cbf44a29a
+"1410 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",4864,geforce rtx 3060 ti,GPU,6113e2758236d84cbf44a29b
+3.6 GHz (6 cores),4863,amd ryzen 5 3500,CPU,6113e2758236d84cbf44a29c
+3.0 GHz (4 cores),4862,intel core i7-1185g7,CPU,6113e2758236d84cbf44a29d
+3.5 GHz (6 cores),4842,intel core i7-3970x,CPU,6113e2758236d84cbf44a29e
+3.4 GHz (6 cores),4827,intel core i7-4930k,CPU,6113e2758236d84cbf44a29f
+3.5 GHz (6 cores),4812,intel xeon e5-1650 v2,CPU,6113e2758236d84cbf44a2a0
+2.9 GHz (6 cores),4792,intel core i9-8950hk,CPU,6113e2758236d84cbf44a2a1
+4.3 GHz (4 cores),4782,intel core i7-7740x,CPU,6113e2758236d84cbf44a2a2
+2.4 GHz (8 cores),4779,intel xeon e5-2630 v3,CPU,6113e2758236d84cbf44a2a3
+2.0 GHz (8 cores),4764,amd ryzen 7 4700u,CPU,6113e2758236d84cbf44a2a4
+3.8 GHz (4 cores),4728,intel core i3-10320,CPU,6113e2758236d84cbf44a2a5
+3.6 GHz (4 cores),4703,amd ryzen 3 3100,CPU,6113e2758236d84cbf44a2a6
+3.7 GHz (6 cores),4699,intel xeon e5-1660 v2,CPU,6113e2758236d84cbf44a2a7
+4.2 GHz (4 cores),4694,intel core i7-7700k,CPU,6113e2758236d84cbf44a2a8
+3.0 GHz (6 cores),4680,intel core i5-8500b,CPU,6113e2758236d84cbf44a2a9
+3.0 GHz (6 cores),4667,intel core i5-9500,CPU,6113e2758236d84cbf44a2aa
+2.6 GHz (8 cores),4645,intel xeon e5-2670,CPU,6113e2758236d84cbf44a2ab
+3.3 GHz (6 cores),4632,intel core i7-3960x,CPU,6113e2758236d84cbf44a2ac
+3.7 GHz (4 cores),4632,intel core i3-10300,CPU,6113e2758236d84cbf44a2ad
+3.1 GHz (4 cores),4612,intel core i5-11300h,CPU,6113e2758236d84cbf44a2ae
+"1065 MHz | 16 GB, GDDR6, 384 bit-1575 MHz",4608,grid rtx t10-16,GPU,6113e2758236d84cbf44a2af
+"1065 MHz | 4 GB, GDDR6, 384 bit-1750 MHz",4608,grid rtx t10-4,GPU,6113e2758236d84cbf44a2b0
+"1065 MHz | 8 GB, GDDR6, 384 bit-1750 MHz",4608,grid rtx t10-8,GPU,6113e2758236d84cbf44a2b1
+"1440 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,quadro rtx 6000,GPU,6113e2758236d84cbf44a2b2
+"1305 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,quadro rtx 6000 passive,GPU,6113e2758236d84cbf44a2b3
+"1395 MHz | 48 GB, GDDR6, 384 bit-1750 MHz",4608,quadro rtx 8000,GPU,6113e2758236d84cbf44a2b4
+"1230 MHz | 48 GB, GDDR6, 384 bit-1750 MHz",4608,quadro rtx 8000 passive,GPU,6113e2758236d84cbf44a2b5
+"1350 MHz | 24 GB, GDDR6, 384 bit-1750 MHz",4608,titan rtx,GPU,6113e2758236d84cbf44a2b6
+"1825 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",4608,radeon rx 6800 xt,GPU,6113e2758236d84cbf44a2b7
+2.8 GHz (4 cores),4599,intel core i7-1165g7,CPU,6113e2758236d84cbf44a2b8
+2.9 GHz (6 cores),4594,intel core i5-9400f,CPU,6113e2758236d84cbf44a2b9
+3.0 GHz (6 cores),4584,intel core i5-8500,CPU,6113e2758236d84cbf44a2ba
+3.3 GHz (6 cores),4575,intel xeon e5-1660,CPU,6113e2758236d84cbf44a2bb
+2.7 GHz (6 cores),4551,intel xeon e-2176m,CPU,6113e2758236d84cbf44a2bc
+2.9 GHz (6 cores),4551,intel core i5-9400,CPU,6113e2758236d84cbf44a2bd
+2.8 GHz (6 cores),4535,intel core i5-8400,CPU,6113e2758236d84cbf44a2be
+2.2 GHz (6 cores),4526,intel core i7-8750h,CPU,6113e2758236d84cbf44a2bf
+3.2 GHz (6 cores),4515,intel core i7-3930k,CPU,6113e2758236d84cbf44a2c0
+2.3 GHz (4 cores),4498,intel core i7-1068ng7,CPU,6113e2758236d84cbf44a2c1
+4.0 GHz (4 cores),4496,intel xeon w-2125,CPU,6113e2758236d84cbf44a2c2
+2.6 GHz (6 cores),4493,intel core i7-8850h,CPU,6113e2758236d84cbf44a2c3
+3.5 GHz (6 cores),4462,intel xeon e5-2643 v2,CPU,6113e2758236d84cbf44a2c4
+1.8 GHz (8 cores),4461,intel xeon e5-2630l v3,CPU,6113e2758236d84cbf44a2c5
+4.0 GHz (4 cores),4438,intel core i7-6700k,CPU,6113e2758236d84cbf44a2c6
+2.1 GHz (6 cores),4434,amd ryzen 5 pro 4650u,CPU,6113e2758236d84cbf44a2c7
+"1350 MHz | 10 GB, GDDR6, 320 bit-1750 MHz",4352,cmp 50hx,GPU,6113e2758236d84cbf44a2c8
+"1350 MHz | 11 GB, GDDR6, 352 bit-1750 MHz",4352,geforce rtx 2080 ti,GPU,6113e2758236d84cbf44a2c9
+3.2 GHz (6 cores),4304,intel xeon e5-1650,CPU,6113e2758236d84cbf44a2ca
+2.4 GHz (8 cores),4275,intel xeon e5-2665,CPU,6113e2758236d84cbf44a2cb
+2.4 GHz (4 cores),4273,intel core i5-1135g7,CPU,6113e2758236d84cbf44a2cc
+4.0 GHz (4 cores),4234,intel core i3-9350kf,CPU,6113e2758236d84cbf44a2cd
+2.0 GHz (4 cores),4216,intel core i5-1038ng7,CPU,6113e2758236d84cbf44a2ce
+1.8 GHz (8 cores),4185,intel xeon silver 4108,CPU,6113e2758236d84cbf44a2cf
+2.8 GHz (4 cores),4141,intel core i7-1185g7e,CPU,6113e2758236d84cbf44a2d0
+3.3 GHz (4 cores),4116,intel core i7-5775c,CPU,6113e2758236d84cbf44a2d1
+3.5 GHz (4 cores),4101,intel xeon e5-2637 v4,CPU,6113e2758236d84cbf44a2d2
+"1574 MHz | 32 GB, HBM2, 4096 bit-806 MHz",4096,radeon pro vega ii,GPU,6113e2758236d84cbf44a2d3
+"1400 MHz | 32 GB, HBM2, 4096 bit-1000 MHz",4096,radeon pro vega ii duo,GPU,6113e2758236d84cbf44a2d4
+"1200 MHz | 32 GB, HBM2, 4096 bit-1000 MHz",4096,radeon instinct mi60,GPU,6113e2758236d84cbf44a2d5
+"1247 MHz | 8 GB, HBM2, 2048 bit-800 MHz",4096,radeon rx vega nano,GPU,6113e2758236d84cbf44a2d6
+"1400 MHz | 16 GB, HBM2, 2048 bit-852 MHz",4096,radeon instinct mi25,GPU,6113e2758236d84cbf44a2d7
+"1440 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,radeon pro ssg,GPU,6113e2758236d84cbf44a2d8
+"852 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,radeon pro v320,GPU,6113e2758236d84cbf44a2d9
+"1200 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,radeon pro wx 9100,GPU,6113e2758236d84cbf44a2da
+"1247 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,radeon rx vega 64,GPU,6113e2758236d84cbf44a2db
+"1247 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,radeon rx vega 64 limited edition,GPU,6113e2758236d84cbf44a2dc
+"1406 MHz | 8 GB, HBM2, 2048 bit-945 MHz",4096,radeon rx vega 64 liquid cooling,GPU,6113e2758236d84cbf44a2dd
+"1382 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,radeon vega frontier edition,GPU,6113e2758236d84cbf44a2de
+"1382 MHz | 16 GB, HBM2, 2048 bit-945 MHz",4096,radeon vega frontier edition watercooled,GPU,6113e2758236d84cbf44a2df
+"975 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,firepro s9300 x2,GPU,6113e2758236d84cbf44a2e0
+"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,radeon instinct mi8,GPU,6113e2758236d84cbf44a2e1
+"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,radeon pro duo,GPU,6113e2758236d84cbf44a2e2
+"1050 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,radeon r9 fury x,GPU,6113e2758236d84cbf44a2e3
+"1050 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,radeon r9 fury x2,GPU,6113e2758236d84cbf44a2e4
+"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",4096,radeon r9 nano,GPU,6113e2758236d84cbf44a2e5
+3.7 GHz (4 cores),4086,intel xeon e3-1245 v6,CPU,6113e2758236d84cbf44a2e6
+2.8 GHz (4 cores),4057,intel core i7-8569u,CPU,6113e2758236d84cbf44a2e7
+3.6 GHz (4 cores),4052,intel core i3-10100f,CPU,6113e2758236d84cbf44a2e8
+3.6 GHz (4 cores),4048,intel core i3-10100,CPU,6113e2758236d84cbf44a2e9
+3.8 GHz (4 cores),4043,intel xeon e3-1270 v6,CPU,6113e2758236d84cbf44a2ea
+4.0 GHz (4 cores),4034,intel core i5-7640x,CPU,6113e2758236d84cbf44a2eb
+2.7 GHz (4 cores),4010,intel core i7-8559u,CPU,6113e2758236d84cbf44a2ec
+2.2 GHz (6 cores),3989,intel core i5-9500t,CPU,6113e2758236d84cbf44a2ed
+3.6 GHz (4 cores),3980,intel core i7-7700,CPU,6113e2758236d84cbf44a2ee
+2.0 GHz (8 cores),3968,intel xeon e5-2650,CPU,6113e2758236d84cbf44a2ef
+3.6 GHz (4 cores),3945,intel xeon w-2123,CPU,6113e2758236d84cbf44a2f0
+4.0 GHz (4 cores),3942,intel core i7-4790k,CPU,6113e2758236d84cbf44a2f1
+3.1 GHz (4 cores),3941,intel core i7-8809g,CPU,6113e2758236d84cbf44a2f2
+3.7 GHz (4 cores),3939,intel xeon e3-1240 v6,CPU,6113e2758236d84cbf44a2f3
+2.0 GHz (8 cores),3927,intel xeon e5-2640 v2,CPU,6113e2758236d84cbf44a2f4
+2.1 GHz (6 cores),3915,intel core i5-8500t,CPU,6113e2758236d84cbf44a2f5
+2.2 GHz (8 cores),3910,intel xeon e5-2660,CPU,6113e2758236d84cbf44a2f6
+3.9 GHz (4 cores),3905,intel xeon e3-1280 v6,CPU,6113e2758236d84cbf44a2f7
+2.9 GHz (6 cores),3900,intel xeon e5-2667,CPU,6113e2758236d84cbf44a2f8
+2.4 GHz (6 cores),3895,intel xeon e5-2620 v3,CPU,6113e2758236d84cbf44a2f9
+3.4 GHz (4 cores),3886,intel xeon e3-1285l v4,CPU,6113e2758236d84cbf44a2fa
+3.5 GHz (4 cores),3876,intel xeon e3-1240 v5,CPU,6113e2758236d84cbf44a2fb
+2.9 GHz (4 cores),3850,intel core i7-7820hk,CPU,6113e2758236d84cbf44a2fc
+"1405 MHz | 12 GB, GDDR5X, 384 bit-1426 MHz",3840,titan xp,GPU,6113e2758236d84cbf44a2fd
+"1506 MHz | 24 GB, GDDR5X, 384 bit-1127 MHz",3840,quadro p6000,GPU,6113e2758236d84cbf44a2fe
+"1025 MHz | 24 GB, GDDR5X, 384 bit-1808 MHz",3840,tesla p10,GPU,6113e2758236d84cbf44a2ff
+"1303 MHz | 24 GB, GDDR5X, 384 bit-1808 MHz",3840,tesla p40,GPU,6113e2758236d84cbf44a300
+"1400 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,radeon pro vii,GPU,6113e2758236d84cbf44a301
+"2075 MHz | 32 GB, GDDR6, 256 bit-2000 MHz",3840,radeon pro w6800,GPU,6113e2758236d84cbf44a302
+"1700 MHz | 16 GB, GDDR6, 256 bit-2000 MHz",3840,radeon rx 6800,GPU,6113e2758236d84cbf44a303
+"1400 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,radeon vii,GPU,6113e2758236d84cbf44a304
+"1200 MHz | 16 GB, HBM2, 4096 bit-1000 MHz",3840,radeon instinct mi50,GPU,6113e2758236d84cbf44a305
+2.4 GHz (4 cores),3838,intel core i5-8279u,CPU,6113e2758236d84cbf44a306
+2.3 GHz (4 cores),3822,intel core i5-8259u,CPU,6113e2758236d84cbf44a307
+3.1 GHz (4 cores),3809,intel xeon e3-1535m v6,CPU,6113e2758236d84cbf44a308
+3.6 GHz (4 cores),3796,intel xeon e3-1275 v5,CPU,6113e2758236d84cbf44a309
+3.6 GHz (4 cores),3793,intel xeon e3-1270 v5,CPU,6113e2758236d84cbf44a30a
+4.0 GHz (4 cores),3792,intel core i3-8350k,CPU,6113e2758236d84cbf44a30b
+3.3 GHz (4 cores),3772,intel core i7-5775r,CPU,6113e2758236d84cbf44a30c
+3.4 GHz (4 cores),3767,intel core i7-6700,CPU,6113e2758236d84cbf44a30d
+3.8 GHz (4 cores),3766,intel core i5-7600k,CPU,6113e2758236d84cbf44a30e
+2.5 GHz (4 cores),3753,intel core i5-10300h,CPU,6113e2758236d84cbf44a30f
+3.7 GHz (4 cores),3745,intel xeon e5-1630 v4,CPU,6113e2758236d84cbf44a310
+3.5 GHz (4 cores),3739,intel xeon e3-1230 v6,CPU,6113e2758236d84cbf44a311
+3.5 GHz (4 cores),3738,intel xeon e3-1245 v5,CPU,6113e2758236d84cbf44a312
+3.5 GHz (4 cores),3731,intel xeon e5-2637 v3,CPU,6113e2758236d84cbf44a313
+3.8 GHz (4 cores),3726,intel xeon e3-1275 v6,CPU,6113e2758236d84cbf44a314
+3.5 GHz (6 cores),3702,intel core i7-990x,CPU,6113e2758236d84cbf44a315
+1.4 GHz (4 cores),3702,intel core i5-8257u,CPU,6113e2758236d84cbf44a316
+2.6 GHz (6 cores),3701,intel xeon e5-2630 v2,CPU,6113e2758236d84cbf44a317
+3.5 GHz (4 cores),3691,intel core i7-4770k,CPU,6113e2758236d84cbf44a318
+3.1 GHz (4 cores),3675,intel core i5-5675c,CPU,6113e2758236d84cbf44a319
+3.7 GHz (4 cores),3665,intel xeon e5-1630 v3,CPU,6113e2758236d84cbf44a31a
+3.1 GHz (4 cores),3662,intel core i7-7920hq,CPU,6113e2758236d84cbf44a31b
+2.4 GHz (4 cores),3658,intel core i5-9300hf,CPU,6113e2758236d84cbf44a31c
+3.0 GHz (4 cores),3640,intel xeon e3-1585l v5,CPU,6113e2758236d84cbf44a31d
+3.6 GHz (4 cores),3637,amd ryzen 5 2500x,CPU,6113e2758236d84cbf44a31e
+3.4 GHz (4 cores),3633,intel xeon e3-1230 v5,CPU,6113e2758236d84cbf44a31f
+3.5 GHz (4 cores),3631,intel xeon e5-1620 v4,CPU,6113e2758236d84cbf44a320
+3.5 GHz (4 cores),3630,intel xeon e5-2637 v2,CPU,6113e2758236d84cbf44a321
+3.5 GHz (4 cores),3620,intel core i5-6600k,CPU,6113e2758236d84cbf44a322
+3.5 GHz (6 cores),3619,intel xeon w3690,CPU,6113e2758236d84cbf44a323
+3.6 GHz (4 cores),3619,intel xeon e3-1271 v3,CPU,6113e2758236d84cbf44a324
+3.5 GHz (6 cores),3608,intel xeon x5690,CPU,6113e2758236d84cbf44a325
+3.7 GHz (4 cores),3602,amd ryzen 5 3400g,CPU,6113e2758236d84cbf44a326
+3.5 GHz (4 cores),3594,intel xeon e3-1275 v3,CPU,6113e2758236d84cbf44a327
+2.7 GHz (4 cores),3585,intel core i7-6820hk,CPU,6113e2758236d84cbf44a328
+3.6 GHz (4 cores),3584,intel xeon e3-1280 v3,CPU,6113e2758236d84cbf44a329
+"930 MHz | 24 GB, HBM2, 3072 bit-1215 MHz",3584,a30 pcie,GPU,6113e2758236d84cbf44a32a
+"1320 MHz | 12 GB, GDDR6, 192 bit-1875 MHz",3584,geforce rtx 3060,GPU,6113e2758236d84cbf44a32b
+"930 MHz | 24 GB, HBM2, 3072 bit-1215 MHz",3584,pg506-232,GPU,6113e2758236d84cbf44a32c
+"1481 MHz | 11 GB, GDDR5X, 352 bit-1376 MHz",3584,geforce gtx 1080 ti,GPU,6113e2758236d84cbf44a32d
+"1304 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,quadro gp100,GPU,6113e2758236d84cbf44a32e
+"1417 MHz | 12 GB, GDDR5X, 384 bit-1251 MHz",3584,titan x pascal,GPU,6113e2758236d84cbf44a32f
+"1328 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,tesla p100 dgxs,GPU,6113e2758236d84cbf44a330
+"1190 MHz | 12 GB, HBM2, 3072 bit-715 MHz",3584,tesla p100 pcie 12 gb,GPU,6113e2758236d84cbf44a331
+"1190 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,tesla p100 pcie 16 gb,GPU,6113e2758236d84cbf44a332
+"1328 MHz | 16 GB, HBM2, 4096 bit-715 MHz",3584,tesla p100 sxm2,GPU,6113e2758236d84cbf44a333
+"852 MHz | 16 GB, HBM2, 2048 bit-945 MHz",3584,radeon pro v340,GPU,6113e2758236d84cbf44a334
+"1200 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",3584,radeon pro wx 8200,GPU,6113e2758236d84cbf44a335
+"1200 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",3584,radeon pro wx 8100,GPU,6113e2758236d84cbf44a336
+"1156 MHz | 8 GB, HBM2, 2048 bit-800 MHz",3584,radeon rx vega 56,GPU,6113e2758236d84cbf44a337
+"1000 MHz | 4 GB, HBM, 4096 bit-500 MHz",3584,radeon r9 fury,GPU,6113e2758236d84cbf44a338
+3.0 GHz (4 cores),3578,intel xeon e5-2623 v3,CPU,6113e2758236d84cbf44a339
+3.5 GHz (4 cores),3570,amd ryzen 5 pro 1500,CPU,6113e2758236d84cbf44a33a
+3.5 GHz (4 cores),3569,amd ryzen 5 1500x,CPU,6113e2758236d84cbf44a33b
+3.5 GHz (4 cores),3566,intel xeon e3-1246 v3,CPU,6113e2758236d84cbf44a33c
+2.9 GHz (4 cores),3559,intel core i7-7820hq,CPU,6113e2758236d84cbf44a33d
+1.7 GHz (6 cores),3540,intel core i5-8400t,CPU,6113e2758236d84cbf44a33e
+3.1 GHz (4 cores),3530,intel core i7-8705g,CPU,6113e2758236d84cbf44a33f
+2.9 GHz (4 cores),3527,intel core i7-7700t,CPU,6113e2758236d84cbf44a340
+3.5 GHz (4 cores),3523,intel xeon e5-1620 v3,CPU,6113e2758236d84cbf44a341
+3.7 GHz (4 cores),3496,intel xeon e3-1281 v3,CPU,6113e2758236d84cbf44a342
+3.6 GHz (4 cores),3477,intel core i7-4790,CPU,6113e2758236d84cbf44a343
+3.6 GHz (4 cores),3476,intel xeon e3-1276 v3,CPU,6113e2758236d84cbf44a344
+2.9 GHz (4 cores),3473,intel core i7-4910mq,CPU,6113e2758236d84cbf44a345
+3.5 GHz (4 cores),3461,intel xeon e3-1241 v3,CPU,6113e2758236d84cbf44a346
+2.9 GHz (4 cores),3456,intel core i7-6920hq,CPU,6113e2758236d84cbf44a347
+3.3 GHz (6 cores),3452,intel core i7-980x,CPU,6113e2758236d84cbf44a348
+2.9 GHz (4 cores),3438,intel xeon e3-1545m v5,CPU,6113e2758236d84cbf44a349
+3.5 GHz (4 cores),3436,intel core i7-4771,CPU,6113e2758236d84cbf44a34a
+3.4 GHz (4 cores),3397,intel xeon e3-1240 v3,CPU,6113e2758236d84cbf44a34b
+3.3 GHz (6 cores),3394,intel xeon w3680,CPU,6113e2758236d84cbf44a34c
+3.4 GHz (4 cores),3383,intel core i7-4770,CPU,6113e2758236d84cbf44a34d
+3.7 GHz (4 cores),3376,intel core i7-4820k,CPU,6113e2758236d84cbf44a34e
+3.2 GHz (4 cores),3371,intel core i7-4770r,CPU,6113e2758236d84cbf44a34f
+3.3 GHz (6 cores),3360,intel xeon x5680,CPU,6113e2758236d84cbf44a350
+3.1 GHz (4 cores),3356,intel core i7-4940mx,CPU,6113e2758236d84cbf44a351
+3.5 GHz (4 cores),3348,intel core i7-3770k,CPU,6113e2758236d84cbf44a352
+3.3 GHz (4 cores),3343,intel xeon e3-1230 v3,CPU,6113e2758236d84cbf44a353
+3.4 GHz (4 cores),3333,intel xeon e3-1245 v3,CPU,6113e2758236d84cbf44a354
+"1825 MHz | 10 GB, GDDR6, 320 bit-1750 MHz",3328,xbox series x gpu,GPU,6113e2758236d84cbf44a355
+3.5 GHz (4 cores),3327,intel xeon e3-1270 v3,CPU,6113e2758236d84cbf44a356
+2.4 GHz (4 cores),3325,intel core i7-6700te,CPU,6113e2758236d84cbf44a357
+2.5 GHz (6 cores),3323,intel xeon e5-2640,CPU,6113e2758236d84cbf44a358
+2.5 GHz (4 cores),3320,intel core i5-8400h,CPU,6113e2758236d84cbf44a359
+3.6 GHz (4 cores),3317,intel core i3-9100,CPU,6113e2758236d84cbf44a35a
+3.5 GHz (4 cores),3314,intel core i5-7600,CPU,6113e2758236d84cbf44a35b
+2.4 GHz (4 cores),3314,intel core i5-9300h,CPU,6113e2758236d84cbf44a35c
+3.4 GHz (4 cores),3309,intel xeon e3-1231 v3,CPU,6113e2758236d84cbf44a35d
+3.7 GHz (4 cores),3308,intel xeon e3-1290 v2,CPU,6113e2758236d84cbf44a35e
+3.2 GHz (4 cores),3299,intel core i7-4790s,CPU,6113e2758236d84cbf44a35f
+2.8 GHz (4 cores),3279,intel core i7-6700t,CPU,6113e2758236d84cbf44a360
+3.0 GHz (4 cores),3277,intel core i3-10100t,CPU,6113e2758236d84cbf44a361
+2.3 GHz (4 cores),3275,intel core i5-8300h,CPU,6113e2758236d84cbf44a362
+2.8 GHz (4 cores),3274,intel xeon e3-1505m v5,CPU,6113e2758236d84cbf44a363
+2.5 GHz (6 cores),3264,intel xeon e5-2430 v2,CPU,6113e2758236d84cbf44a364
+2.4 GHz (6 cores),3246,intel xeon e5-2630l v2,CPU,6113e2758236d84cbf44a365
+3.6 GHz (4 cores),3245,intel core i3-8100b,CPU,6113e2758236d84cbf44a366
+2.6 GHz (4 cores),3239,intel xeon silver 4112,CPU,6113e2758236d84cbf44a367
+3.2 GHz (6 cores),3237,intel core i7-970,CPU,6113e2758236d84cbf44a368
+3.5 GHz (4 cores),3235,intel core i5-4690k,CPU,6113e2758236d84cbf44a369
+2.2 GHz (6 cores),3226,intel xeon e5-2420 v2,CPU,6113e2758236d84cbf44a36a
+2.9 GHz (6 cores),3223,intel xeon x5670,CPU,6113e2758236d84cbf44a36b
+3.0 GHz (4 cores),3218,intel xeon e3-1575m v5,CPU,6113e2758236d84cbf44a36c
+2.8 GHz (4 cores),3215,intel core i7-7700hq,CPU,6113e2758236d84cbf44a36d
+2.9 GHz (4 cores),3208,intel xeon e3-1535m v5,CPU,6113e2758236d84cbf44a36e
+3.6 GHz (4 cores),3207,amd ryzen 5 2400g,CPU,6113e2758236d84cbf44a36f
+2.6 GHz (4 cores),3204,intel core i7-4960hq,CPU,6113e2758236d84cbf44a370
+"1557 MHz | 10 GB, GDDR5X, 320 bit-1376 MHz",3200,geforce gtx 1080 ti 10 gb,GPU,6113e2758236d84cbf44a371
+"1582 MHz | 5 GB, GDDR5X, 320 bit-1376 MHz",3200,p102-100,GPU,6113e2758236d84cbf44a372
+"1557 MHz | 10 GB, GDDR5, 320 bit-2002 MHz",3200,p102-101,GPU,6113e2758236d84cbf44a373
+3.7 GHz (4 cores),3194,intel xeon e5-1620 v2,CPU,6113e2758236d84cbf44a374
+3.1 GHz (6 cores),3189,intel xeon x5675,CPU,6113e2758236d84cbf44a375
+1.7 GHz (4 cores),3186,intel core i7-8557u,CPU,6113e2758236d84cbf44a376
+3.1 GHz (4 cores),3185,intel core i7-4770s,CPU,6113e2758236d84cbf44a377
+2.6 GHz (4 cores),3177,intel xeon e5-2623 v4,CPU,6113e2758236d84cbf44a378
+3.6 GHz (4 cores),3173,intel core i3-9100f,CPU,6113e2758236d84cbf44a379
+3.5 GHz (4 cores),3164,intel xeon e3-1270 v2,CPU,6113e2758236d84cbf44a37a
+3.2 GHz (6 cores),3156,intel xeon w3670,CPU,6113e2758236d84cbf44a37b
+3.6 GHz (4 cores),3152,intel xeon e3-1280 v2,CPU,6113e2758236d84cbf44a37c
+3.0 GHz (4 cores),3149,intel core i7-4930mx,CPU,6113e2758236d84cbf44a37d
+2.3 GHz (4 cores),3147,amd ryzen 7 3750h,CPU,6113e2758236d84cbf44a37e
+3.2 GHz (4 cores),3143,amd ryzen 5 1400,CPU,6113e2758236d84cbf44a37f
+2.7 GHz (4 cores),3140,intel core i7-6820hq,CPU,6113e2758236d84cbf44a380
+2.7 GHz (4 cores),3140,intel xeon e3-1275l v3,CPU,6113e2758236d84cbf44a381
+3.4 GHz (4 cores),3134,intel core i7-2600k,CPU,6113e2758236d84cbf44a382
+3.2 GHz (8 cores),3128,intel xeon e5-2667 v3,CPU,6113e2758236d84cbf44a383
+2.5 GHz (4 cores),3121,intel core i7-4870hq,CPU,6113e2758236d84cbf44a384
+2.3 GHz (4 cores),3119,intel core i7-4850hq,CPU,6113e2758236d84cbf44a385
+3.4 GHz (4 cores),3116,intel core i5-4670k,CPU,6113e2758236d84cbf44a386
+2.8 GHz (4 cores),3109,intel core i5-8305g,CPU,6113e2758236d84cbf44a387
+3.6 GHz (4 cores),3108,intel core i7-3820,CPU,6113e2758236d84cbf44a388
+4.7 GHz (8 cores),3103,amd fx-9590,CPU,6113e2758236d84cbf44a389
+1.8 GHz (4 cores),3101,intel core i7-10510u,CPU,6113e2758236d84cbf44a38a
+3.3 GHz (4 cores),3097,intel core i5-6600,CPU,6113e2758236d84cbf44a38b
+2.8 GHz (4 cores),3086,intel core i7-4980hq,CPU,6113e2758236d84cbf44a38c
+2.1 GHz (6 cores),3085,intel xeon e5-2620 v2,CPU,6113e2758236d84cbf44a38d
+3.4 GHz (4 cores),3083,intel core i7-3770,CPU,6113e2758236d84cbf44a38e
+3.6 GHz (4 cores),3078,intel xeon e5-1620,CPU,6113e2758236d84cbf44a38f
+"1650 MHz | 8 GB, GDDR6, 256 bit-1937 MHz",3072,geforce rtx 2080 super,GPU,6113e2758236d84cbf44a390
+"1620 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",3072,quadro rtx 5000,GPU,6113e2758236d84cbf44a391
+"988 MHz | 24 GB, GDDR5, 384 bit-1653 MHz",3072,quadro m6000 24 gb,GPU,6113e2758236d84cbf44a392
+"1000 MHz | 12 GB, GDDR5, 384 bit-1753 MHz",3072,geforce gtx titan x,GPU,6113e2758236d84cbf44a393
+"988 MHz | 12 GB, GDDR5, 384 bit-1653 MHz",3072,quadro m6000,GPU,6113e2758236d84cbf44a394
+"948 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",3072,tesla m40,GPU,6113e2758236d84cbf44a395
+2.7 GHz (6 cores),3071,intel xeon x5650,CPU,6113e2758236d84cbf44a396
+3.4 GHz (4 cores),3065,intel core i5-7500,CPU,6113e2758236d84cbf44a397
+2.4 GHz (6 cores),3061,intel xeon e5645,CPU,6113e2758236d84cbf44a398
+2.6 GHz (4 cores),3059,intel core i7-6700hq,CPU,6113e2758236d84cbf44a399
+3.5 GHz (4 cores),3052,amd ryzen 3 2300x,CPU,6113e2758236d84cbf44a39a
+3.5 GHz (4 cores),3044,intel core i7-2700k,CPU,6113e2758236d84cbf44a39b
+2.8 GHz (6 cores),3041,intel xeon x5660,CPU,6113e2758236d84cbf44a39c
+2.3 GHz (16 cores),3039,amd opteron 6376,CPU,6113e2758236d84cbf44a39d
+2.2 GHz (4 cores),3037,intel core i7-4770hq,CPU,6113e2758236d84cbf44a39e
+2.3 GHz (6 cores),3032,intel xeon e5-2630,CPU,6113e2758236d84cbf44a39f
+3.4 GHz (4 cores),3026,intel xeon e3-1245 v2,CPU,6113e2758236d84cbf44a3a0
+3.3 GHz (4 cores),3022,intel xeon e3-1225 v5,CPU,6113e2758236d84cbf44a3a1
+2.2 GHz (4 cores),3020,intel xeon,CPU,6113e2758236d84cbf44a3a2
+3.6 GHz (4 cores),3019,intel core i3-8100,CPU,6113e2758236d84cbf44a3a3
+2.8 GHz (4 cores),3015,intel core i7-4900mq,CPU,6113e2758236d84cbf44a3a4
+3.1 GHz (4 cores),2993,intel xeon e5-1607 v4,CPU,6113e2758236d84cbf44a3a5
+2.8 GHz (4 cores),2992,intel core i5-7600t,CPU,6113e2758236d84cbf44a3a6
+1.6 GHz (4 cores),2987,intel core i5-10210u,CPU,6113e2758236d84cbf44a3a7
+2.5 GHz (6 cores),2986,intel xeon e5649,CPU,6113e2758236d84cbf44a3a8
+2.8 GHz (4 cores),2977,intel core i7-4810mq,CPU,6113e2758236d84cbf44a3a9
+3.4 GHz (4 cores),2973,intel xeon e3-1240 v2,CPU,6113e2758236d84cbf44a3aa
+3.3 GHz (4 cores),2966,intel xeon e5-2643,CPU,6113e2758236d84cbf44a3ab
+3.3 GHz (4 cores),2960,intel xeon e3-1230v2,CPU,6113e2758236d84cbf44a3ac
+3.7 GHz (4 cores),2960,intel core i3-8300,CPU,6113e2758236d84cbf44a3ad
+3.0 GHz (4 cores),2959,intel xeon e3-1220 v6,CPU,6113e2758236d84cbf44a3ae
+3.5 GHz (4 cores),2954,intel core i5-4690,CPU,6113e2758236d84cbf44a3af
+2.6 GHz (4 cores),2951,intel core i7-6770hq,CPU,6113e2758236d84cbf44a3b0
+"1515 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2944,geforce rtx 2080,GPU,6113e2758236d84cbf44a3b1
+2.8 GHz (4 cores),2928,intel core i7-3840qm,CPU,6113e2758236d84cbf44a3b2
+2.0 GHz (6 cores),2927,intel xeon e5-2630l,CPU,6113e2758236d84cbf44a3b3
+2.7 GHz (4 cores),2926,intel core i7-4790t,CPU,6113e2758236d84cbf44a3b4
+2.4 GHz (4 cores),2921,intel core i7-4860hq,CPU,6113e2758236d84cbf44a3b5
+3.3 GHz (4 cores),2920,intel xeon e3-1225 v6,CPU,6113e2758236d84cbf44a3b6
+3.5 GHz (4 cores),2917,amd ryzen 3 1300x,CPU,6113e2758236d84cbf44a3b7
+3.0 GHz (4 cores),2914,intel core i7-3940xm,CPU,6113e2758236d84cbf44a3b8
+3.2 GHz (4 cores),2907,intel core i5-6500,CPU,6113e2758236d84cbf44a3b9
+2.5 GHz (4 cores),2904,intel core i7-4770t,CPU,6113e2758236d84cbf44a3ba
+2.7 GHz (4 cores),2896,intel core i7-5700hq,CPU,6113e2758236d84cbf44a3bb
+3.4 GHz (4 cores),2895,intel core i5-4670,CPU,6113e2758236d84cbf44a3bc
+3.1 GHz (4 cores),2885,intel core i7-3770s,CPU,6113e2758236d84cbf44a3bd
+1.7 GHz (8 cores),2885,intel xeon e5-2609 v4,CPU,6113e2758236d84cbf44a3be
+"889 MHz | 6 GB, GDDR5, 384 bit-1750 MHz",2880,geforce gtx titan black,GPU,6113e2758236d84cbf44a3bf
+"705 MHz | 6 GB, GDDR5, 384 bit-1750 MHz",2880,geforce gtx titan z,GPU,6113e2758236d84cbf44a3c0
+"875 MHz | 3 GB, GDDR5, 384 bit-1753 MHz",2880,geforce gtx 780 ti,GPU,6113e2758236d84cbf44a3c1
+"875 MHz | 6 GB, GDDR5, 384 bit-1753 MHz",2880,geforce gtx 780 ti 6 gb,GPU,6113e2758236d84cbf44a3c2
+"797 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,quadro k6000,GPU,6113e2758236d84cbf44a3c3
+"902 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,quadro k6000 sdi,GPU,6113e2758236d84cbf44a3c4
+"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40c,GPU,6113e2758236d84cbf44a3c5
+"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40d,GPU,6113e2758236d84cbf44a3c6
+"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40m,GPU,6113e2758236d84cbf44a3c7
+"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40s,GPU,6113e2758236d84cbf44a3c8
+"575 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40st,GPU,6113e2758236d84cbf44a3c9
+"745 MHz | 12 GB, GDDR5, 384 bit-1502 MHz",2880,tesla k40t,GPU,6113e2758236d84cbf44a3ca
+3.6 GHz (4 cores),2872,amd ryzen 3 3200g,CPU,6113e2758236d84cbf44a3cb
+2.3 GHz (4 cores),2859,intel core i7-4712mq,CPU,6113e2758236d84cbf44a3cc
+2.8 GHz (4 cores),2857,intel core i5-5575r,CPU,6113e2758236d84cbf44a3cd
+2.0 GHz (6 cores),2841,intel xeon e5-2620,CPU,6113e2758236d84cbf44a3ce
+3.4 GHz (4 cores),2837,intel xeon e3-1270,CPU,6113e2758236d84cbf44a3cf
+3.1 GHz (4 cores),2832,intel core i3-9100t,CPU,6113e2758236d84cbf44a3d0
+3.0 GHz (4 cores),2827,intel xeon e3-1220 v5,CPU,6113e2758236d84cbf44a3d1
+3.5 GHz (4 cores),2822,amd ryzen 3 pro 1300,CPU,6113e2758236d84cbf44a3d2
+4.4 GHz (8 cores),2820,amd fx-9370,CPU,6113e2758236d84cbf44a3d3
+2.7 GHz (4 cores),2820,amd ryzen 3 4300u,CPU,6113e2758236d84cbf44a3d4
+3.2 GHz (4 cores),2819,intel xeon e3-1225 v3,CPU,6113e2758236d84cbf44a3d5
+3.3 GHz (4 cores),2818,intel core i5-4590,CPU,6113e2758236d84cbf44a3d6
+"1000 MHz | 6 GB, GDDR5, 384 bit-1753 MHz",2816,geforce gtx 980 ti,GPU,6113e2758236d84cbf44a3d7
+"930 MHz | 32 GB, GDDR5, 512 bit-1250 MHz",2816,firepro s9170,GPU,6113e2758236d84cbf44a3d8
+"1050 MHz | 8 GB, GDDR5, 512 bit-1500 MHz",2816,radeon r9 390x,GPU,6113e2758236d84cbf44a3d9
+"900 MHz | 16 GB, GDDR5, 512 bit-1250 MHz",2816,firepro s9150,GPU,6113e2758236d84cbf44a3da
+"930 MHz | 16 GB, GDDR5, 512 bit-1250 MHz",2816,firepro w9100,GPU,6113e2758236d84cbf44a3db
+"1000 MHz | 4 GB, GDDR5, 512 bit-1350 MHz",2816,radeon r9 290x2,GPU,6113e2758236d84cbf44a3dc
+"1018 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2816,radeon r9 295x2,GPU,6113e2758236d84cbf44a3dd
+"1000 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2816,radeon r9 290x,GPU,6113e2758236d84cbf44a3de
+2.7 GHz (4 cores),2813,intel core i7-4800mq,CPU,6113e2758236d84cbf44a3df
+3.5 GHz (4 cores),2812,intel xeon x5677,CPU,6113e2758236d84cbf44a3e0
+2.7 GHz (4 cores),2811,intel core i5-6600t,CPU,6113e2758236d84cbf44a3e1
+3.0 GHz (4 cores),2808,intel core i5-7400,CPU,6113e2758236d84cbf44a3e2
+3.4 GHz (4 cores),2795,intel core i5-3570k,CPU,6113e2758236d84cbf44a3e3
+3.2 GHz (4 cores),2795,intel core i5-4690s,CPU,6113e2758236d84cbf44a3e4
+3.3 GHz (4 cores),2791,intel xeon e3-1226 v3,CPU,6113e2758236d84cbf44a3e5
+2.3 GHz (4 cores),2788,amd ryzen 7 3780u microsoft surface edition,CPU,6113e2758236d84cbf44a3e6
+2.1 GHz (4 cores),2783,amd ryzen 5 3550h,CPU,6113e2758236d84cbf44a3e7
+2.6 GHz (4 cores),2781,intel core i7-4720hq,CPU,6113e2758236d84cbf44a3e8
+3.1 GHz (4 cores),2779,intel core i5-4670s,CPU,6113e2758236d84cbf44a3e9
+3.4 GHz (4 cores),2769,intel core i5-2550k,CPU,6113e2758236d84cbf44a3ea
+4.0 GHz (8 cores),2760,amd fx-8350,CPU,6113e2758236d84cbf44a3eb
+2.5 GHz (4 cores),2759,intel xeon e3-1265l v3,CPU,6113e2758236d84cbf44a3ec
+3.0 GHz (4 cores),2756,intel core i5-4590s,CPU,6113e2758236d84cbf44a3ed
+2.7 GHz (4 cores),2755,intel core i7-3820qm,CPU,6113e2758236d84cbf44a3ee
+3.0 GHz (4 cores),2754,intel xeon e3-1505m v6,CPU,6113e2758236d84cbf44a3ef
+2.2 GHz (4 cores),2744,intel core i7-4785t,CPU,6113e2758236d84cbf44a3f0
+2.8 GHz (4 cores),2744,intel core i5-7440hq,CPU,6113e2758236d84cbf44a3f1
+2.0 GHz (4 cores),2743,intel core i7-4750hq,CPU,6113e2758236d84cbf44a3f2
+3.4 GHz (4 cores),2737,intel core i7-2600,CPU,6113e2758236d84cbf44a3f3
+2.6 GHz (4 cores),2733,intel core i7-3720qm,CPU,6113e2758236d84cbf44a3f4
+2.4 GHz (4 cores),2732,intel core i7-4700hq,CPU,6113e2758236d84cbf44a3f5
+3.1 GHz (4 cores),2732,intel core i3-8100t,CPU,6113e2758236d84cbf44a3f6
+1.1 GHz (4 cores),2732,intel core i5-1030ng7,CPU,6113e2758236d84cbf44a3f7
+1.9 GHz (4 cores),2731,intel core i7-8650u,CPU,6113e2758236d84cbf44a3f8
+3.2 GHz (4 cores),2724,intel core i5-4570,CPU,6113e2758236d84cbf44a3f9
+3.1 GHz (4 cores),2719,intel core i5-5675r,CPU,6113e2758236d84cbf44a3fa
+4.2 GHz (2 cores),2715,intel core i3-7350k,CPU,6113e2758236d84cbf44a3fb
+2.5 GHz (4 cores),2708,intel core i7-4710hq,CPU,6113e2758236d84cbf44a3fc
+2.5 GHz (4 cores),2703,intel core i7-4710mq,CPU,6113e2758236d84cbf44a3fd
+1.9 GHz (6 cores),2692,intel xeon e5-2420,CPU,6113e2758236d84cbf44a3fe
+3.5 GHz (4 cores),2692,amd ryzen 3 2200g,CPU,6113e2758236d84cbf44a3ff
+4.0 GHz (8 cores),2691,amd fx-8370,CPU,6113e2758236d84cbf44a400
+"836 MHz | 6 GB, GDDR5, 384 bit-1502 MHz",2688,geforce gtx titan,GPU,6113e2758236d84cbf44a401
+"732 MHz | 6 GB, GDDR5, 384 bit-1300 MHz",2688,tesla k20x,GPU,6113e2758236d84cbf44a402
+"732 MHz | 6 GB, GDDR5, 384 bit-1300 MHz",2688,tesla k20xm,GPU,6113e2758236d84cbf44a403
+3.1 GHz (4 cores),2687,intel xeon e3-1285l v3,CPU,6113e2758236d84cbf44a404
+3.1 GHz (4 cores),2686,intel xeon e3-1220 v3,CPU,6113e2758236d84cbf44a405
+3.5 GHz (4 cores),2685,intel xeon e3-1280,CPU,6113e2758236d84cbf44a406
+3.5 GHz (4 cores),2683,intel xeon e3-1275 v2,CPU,6113e2758236d84cbf44a407
+3.1 GHz (4 cores),2678,amd ryzen 3 1200,CPU,6113e2758236d84cbf44a408
+1.8 GHz (4 cores),2662,intel xeon e3-1230l v3,CPU,6113e2758236d84cbf44a409
+2.7 GHz (4 cores),2658,intel core i5-6400,CPU,6113e2758236d84cbf44a40a
+2.2 GHz (4 cores),2654,intel core i7-4702hq,CPU,6113e2758236d84cbf44a40b
+2.5 GHz (4 cores),2648,intel core i5-7300hq,CPU,6113e2758236d84cbf44a40c
+3.3 GHz (4 cores),2645,intel xeon e3-1245,CPU,6113e2758236d84cbf44a40d
+2.7 GHz (4 cores),2644,intel core i5-7500t,CPU,6113e2758236d84cbf44a40e
+2.6 GHz (4 cores),2638,intel core i5-6440hq,CPU,6113e2758236d84cbf44a40f
+2.5 GHz (4 cores),2635,intel core i7-3770t,CPU,6113e2758236d84cbf44a410
+2.4 GHz (4 cores),2632,intel core i7-4700mq,CPU,6113e2758236d84cbf44a411
+2.9 GHz (4 cores),2632,intel core i5-4570s,CPU,6113e2758236d84cbf44a412
+3.3 GHz (4 cores),2623,intel core i5-2500k,CPU,6113e2758236d84cbf44a413
+2.3 GHz (4 cores),2622,amd ryzen 7 3700u,CPU,6113e2758236d84cbf44a414
+2.2 GHz (4 cores),2621,amd ryzen 7 pro 2700u,CPU,6113e2758236d84cbf44a415
+1.2 GHz (4 cores),2603,intel core i7-1060ng7,CPU,6113e2758236d84cbf44a416
+2.9 GHz (4 cores),2589,intel xeon x5570,CPU,6113e2758236d84cbf44a417
+2.0 GHz (4 cores),2586,amd ryzen 5 pro 2500u,CPU,6113e2758236d84cbf44a418
+2.8 GHz (4 cores),2582,intel core i5-6402p,CPU,6113e2758236d84cbf44a419
+2.7 GHz (4 cores),2581,intel core i7-3740qm,CPU,6113e2758236d84cbf44a41a
+3.2 GHz (4 cores),2578,intel core i5-4460,CPU,6113e2758236d84cbf44a41b
+2.2 GHz (4 cores),2575,intel core i7-4702mq,CPU,6113e2758236d84cbf44a41c
+1.9 GHz (6 cores),2571,intel xeon e5-2609 v3,CPU,6113e2758236d84cbf44a41d
+"885 MHz | 16 GB, GDDR6, 128 bit-1812 MHz",2560,a16 pcie,GPU,6113e2758236d84cbf44a41e
+"1605 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,geforce rtx 2070 super,GPU,6113e2758236d84cbf44a41f
+"1506 MHz | 4 GB, GDDR5, 256 bit-2002 MHz",2560,p104-101,GPU,6113e2758236d84cbf44a420
+"585 MHz | 16 GB, GDDR6, 256 bit-1250 MHz",2560,tesla t4,GPU,6113e2758236d84cbf44a421
+"1607 MHz | 8 GB, GDDR5X, 256 bit-1376 MHz",2560,geforce gtx 1080 11gbps,GPU,6113e2758236d84cbf44a422
+"1607 MHz | 8 GB, GDDR5X, 256 bit-1251 MHz",2560,geforce gtx 1080,GPU,6113e2758236d84cbf44a423
+"1607 MHz | 16 GB, GDDR5X, 256 bit-1127 MHz",2560,quadro p5000,GPU,6113e2758236d84cbf44a424
+"886 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",2560,tesla p4,GPU,6113e2758236d84cbf44a425
+"2321 MHz | 12 GB, GDDR6, 192 bit-2000 MHz",2560,radeon rx 6700 xt,GPU,6113e2758236d84cbf44a426
+"1243 MHz | 16 GB, GDDR6, 256 bit-1500 MHz",2560,radeon pro 5700 xt,GPU,6113e2758236d84cbf44a427
+"1243 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",2560,radeon pro w5700x,GPU,6113e2758236d84cbf44a428
+"1605 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,radeon rx 5700 xt,GPU,6113e2758236d84cbf44a429
+"1680 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2560,radeon rx 5700 xt 50th anniversary,GPU,6113e2758236d84cbf44a42a
+"1172 MHz | 12 GB, GDDR5, 384 bit-1700 MHz",2560,xbox one x gpu,GPU,6113e2758236d84cbf44a42b
+"1000 MHz | 8 GB, GDDR5, 512 bit-1500 MHz",2560,radeon r9 390,GPU,6113e2758236d84cbf44a42c
+"1000 MHz | 8 GB, GDDR5, 512 bit-1350 MHz",2560,radeon r9 390 x2,GPU,6113e2758236d84cbf44a42d
+"824 MHz | 12 GB, GDDR5, 512 bit-1250 MHz",2560,firepro s9100,GPU,6113e2758236d84cbf44a42e
+"824 MHz | 8 GB, GDDR5, 512 bit-1250 MHz",2560,firepro w8100,GPU,6113e2758236d84cbf44a42f
+"947 MHz | 4 GB, GDDR5, 512 bit-1250 MHz",2560,radeon r9 290,GPU,6113e2758236d84cbf44a430
+2.3 GHz (4 cores),2545,amd ryzen 7 pro 3700u,CPU,6113e2758236d84cbf44a431
+2.1 GHz (4 cores),2538,amd ryzen 5 3580u microsoft surface edition,CPU,6113e2758236d84cbf44a432
+3.3 GHz (4 cores),2536,intel xeon e3-1240,CPU,6113e2758236d84cbf44a433
+2.5 GHz (4 cores),2532,intel core i4-4690t,CPU,6113e2758236d84cbf44a434
+3.4 GHz (4 cores),2531,intel core i5-3570,CPU,6113e2758236d84cbf44a435
+2.0 GHz (4 cores),2522,intel core i7-4765t,CPU,6113e2758236d84cbf44a436
+2.1 GHz (4 cores),2513,amd ryzen 5 3500u,CPU,6113e2758236d84cbf44a437
+3.2 GHz (4 cores),2512,intel xeon e3-1230,CPU,6113e2758236d84cbf44a438
+3.3 GHz (4 cores),2506,intel core i5-3550,CPU,6113e2758236d84cbf44a439
+3.0 GHz (2 cores),2497,intel core i3-1115g4,CPU,6113e2758236d84cbf44a43a
+"562 MHz | 12 GB, GDDR5, 384 bit-1253 MHz",2496,tesla k80,GPU,6113e2758236d84cbf44a43b
+"706 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,tesla k20m,GPU,6113e2758236d84cbf44a43c
+"575 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,tesla k20s,GPU,6113e2758236d84cbf44a43d
+"706 MHz | 5 GB, GDDR5, 320 bit-1300 MHz",2496,tesla k20c,GPU,6113e2758236d84cbf44a43e
+2.1 GHz (4 cores),2493,amd ryzen 5 pro 3500u,CPU,6113e2758236d84cbf44a43f
+2.4 GHz (4 cores),2492,intel core i7-3630qm,CPU,6113e2758236d84cbf44a440
+3.5 GHz (8 cores),2487,amd fx-8320,CPU,6113e2758236d84cbf44a441
+2.3 GHz (4 cores),2483,intel core i7-3615qm,CPU,6113e2758236d84cbf44a442
+3.2 GHz (4 cores),2472,intel xeon e3-1225 v2,CPU,6113e2758236d84cbf44a443
+2.7 GHz (4 cores),2468,intel xeon x5550,CPU,6113e2758236d84cbf44a444
+2.3 GHz (4 cores),2468,intel core i7-4712hq,CPU,6113e2758236d84cbf44a445
+2.5 GHz (4 cores),2466,intel core i5-6500t,CPU,6113e2758236d84cbf44a446
+2.4 GHz (4 cores),2460,intel core i7-3635qm,CPU,6113e2758236d84cbf44a447
+2.3 GHz (4 cores),2457,intel core i5-6500te,CPU,6113e2758236d84cbf44a448
+3.3 GHz (4 cores),2449,intel core i7-975,CPU,6113e2758236d84cbf44a449
+3.3 GHz (4 cores),2448,intel xeon w3580,CPU,6113e2758236d84cbf44a44a
+2.3 GHz (4 cores),2447,intel core i7-3610qm,CPU,6113e2758236d84cbf44a44b
+3.0 GHz (4 cores),2445,intel core i5-4430,CPU,6113e2758236d84cbf44a44c
+3.1 GHz (4 cores),2444,intel core i5-4440,CPU,6113e2758236d84cbf44a44d
+2.4 GHz (4 cores),2440,intel core i5-7400t,CPU,6113e2758236d84cbf44a44e
+2.2 GHz (4 cores),2436,amd ryzen 7 2700u,CPU,6113e2758236d84cbf44a44f
+"1607 MHz | 8 GB, GDDR5, 256 bit-2002 MHz",2432,geforce gtx 1070 ti,GPU,6113e2758236d84cbf44a450
+1.9 GHz (4 cores),2425,intel core i7-8665u,CPU,6113e2758236d84cbf44a451
+1.6 GHz (4 cores),2419,intel core i5-8365u,CPU,6113e2758236d84cbf44a452
+3.2 GHz (4 cores),2412,intel core i7-965,CPU,6113e2758236d84cbf44a453
+3.2 GHz (4 cores),2412,intel core i5-3470,CPU,6113e2758236d84cbf44a454
+3.3 GHz (8 cores),2407,amd fx-8300,CPU,6113e2758236d84cbf44a455
+2.3 GHz (6 cores),2401,intel xeon l5640,CPU,6113e2758236d84cbf44a456
+2.7 GHz (4 cores),2397,intel core i5-4570r,CPU,6113e2758236d84cbf44a457
+3.1 GHz (4 cores),2384,intel core i5-3570s,CPU,6113e2758236d84cbf44a458
+2.0 GHz (4 cores),2382,amd ryzen 5 2500u,CPU,6113e2758236d84cbf44a459
+2.9 GHz (4 cores),2381,intel core i5-4460s,CPU,6113e2758236d84cbf44a45a
+3.1 GHz (4 cores),2375,intel core i5-3450,CPU,6113e2758236d84cbf44a45b
+3.1 GHz (4 cores),2374,intel xeon e3-1220 v2,CPU,6113e2758236d84cbf44a45c
+2.3 GHz (4 cores),2370,intel core i5-6300hq,CPU,6113e2758236d84cbf44a45d
+3.6 GHz (8 cores),2358,amd fx-8150,CPU,6113e2758236d84cbf44a45e
+2.4 GHz (4 cores),2356,intel core i7-4700eq,CPU,6113e2758236d84cbf44a45f
+3.0 GHz (4 cores),2330,intel xeon e5-1607 v2,CPU,6113e2758236d84cbf44a460
+1.8 GHz (4 cores),2327,intel core i7-8565u,CPU,6113e2758236d84cbf44a461
+2.2 GHz (4 cores),2326,intel core i7-3632qm,CPU,6113e2758236d84cbf44a462
+2.3 GHz (4 cores),2324,intel core i5-4670t,CPU,6113e2758236d84cbf44a463
+3.1 GHz (8 cores),2322,amd opteron 4386,CPU,6113e2758236d84cbf44a464
+3.2 GHz (8 cores),2307,amd fx-8320e,CPU,6113e2758236d84cbf44a465
+3.4 GHz (4 cores),2306,amd fx-8310,CPU,6113e2758236d84cbf44a466
+"1470 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,cmp 40hx,GPU,6113e2758236d84cbf44a467
+"1545 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",2304,geforce rtx 3050,GPU,6113e2758236d84cbf44a468
+"1410 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,geforce rtx 2070,GPU,6113e2758236d84cbf44a469
+"1005 MHz | 8 GB, GDDR6, 256 bit-1625 MHz",2304,quadro rtx 4000,GPU,6113e2758236d84cbf44a46a
+"667 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",2304,quadro k5200,GPU,6113e2758236d84cbf44a46b
+"863 MHz | 3 GB, GDDR5, 384 bit-1502 MHz",2304,geforce gtx 780,GPU,6113e2758236d84cbf44a46c
+"863 MHz | 6 GB, GDDR5, 384 bit-1502 MHz",2304,geforce gtx 780 6 gb,GPU,6113e2758236d84cbf44a46d
+"863 MHz | 3 GB, GDDR5, 384 bit-1502 MHz",2304,geforce gtx 780 rev. 2,GPU,6113e2758236d84cbf44a46e
+"2200 MHz | 6 GB, GDDR6, 192 bit-2000 MHz",2304,radeon rx 6700,GPU,6113e2758236d84cbf44a46f
+"2233 MHz | 16 GB, GDDR6, 256 bit-1750 MHz",2304,playstation 5 gpu,GPU,6113e2758236d84cbf44a470
+"1243 MHz | 8 GB, GDDR6, 256 bit-1500 MHz",2304,radeon pro 5700,GPU,6113e2758236d84cbf44a471
+"1000 MHz | 8 GB, HBM2, 2048 bit-1000 MHz",2304,radeon pro v520,GPU,6113e2758236d84cbf44a472
+"1130 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",2304,radeon rx 5600 xt,GPU,6113e2758236d84cbf44a473
+"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 590 gme,GPU,6113e2758236d84cbf44a474
+"1400 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,radeon pro w5700,GPU,6113e2758236d84cbf44a475
+"1465 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2304,radeon rx 5700,GPU,6113e2758236d84cbf44a476
+"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 580g,GPU,6113e2758236d84cbf44a477
+"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 580x,GPU,6113e2758236d84cbf44a478
+"1469 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 590,GPU,6113e2758236d84cbf44a479
+"1243 MHz | 16 GB, GDDR5, 256 bit-1750 MHz",2304,radeon pro duo polaris,GPU,6113e2758236d84cbf44a47a
+"1257 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 580,GPU,6113e2758236d84cbf44a47b
+"911 MHz | 8 GB, GDDR5, 256 bit-1700 MHz",2304,playstation 4 pro gpu,GPU,6113e2758236d84cbf44a47c
+"1120 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,radeon instinct mi6,GPU,6113e2758236d84cbf44a47d
+"1188 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,radeon pro v7300x,GPU,6113e2758236d84cbf44a47e
+"1188 MHz | 16 GB, GDDR5, 256 bit-1750 MHz",2304,radeon pro v7350x2,GPU,6113e2758236d84cbf44a47f
+"1188 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2304,radeon pro wx 7100,GPU,6113e2758236d84cbf44a480
+"1120 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 480,GPU,6113e2758236d84cbf44a481
+"1120 MHz | 8 GB, GDDR5, 256 bit-2000 MHz",2304,radeon rx 580 oem,GPU,6113e2758236d84cbf44a482
+2.8 GHz (4 cores),2301,intel core i7-2600s,CPU,6113e2758236d84cbf44a483
+2.1 GHz (4 cores),2299,intel core i7-3612qm,CPU,6113e2758236d84cbf44a484
+3.2 GHz (4 cores),2294,intel xeon w5580,CPU,6113e2758236d84cbf44a485
+2.7 GHz (4 cores),2285,intel core i7-2960xm,CPU,6113e2758236d84cbf44a486
+3.1 GHz (4 cores),2282,intel core i5-3340,CPU,6113e2758236d84cbf44a487
+2.9 GHz (4 cores),2276,intel core i5-3470s,CPU,6113e2758236d84cbf44a488
+2.9 GHz (4 cores),2269,intel core i7-875k,CPU,6113e2758236d84cbf44a489
+2.4 GHz (2 cores),2265,intel xeon e5-2676 v3,CPU,6113e2758236d84cbf44a48a
+4.0 GHz (2 cores),2264,intel core i3-7300,CPU,6113e2758236d84cbf44a48b
+2.5 GHz (4 cores),2253,intel core i7-2860qm,CPU,6113e2758236d84cbf44a48c
+2.9 GHz (4 cores),2253,intel core i5-3475s,CPU,6113e2758236d84cbf44a48d
+3.9 GHz (2 cores),2251,intel core i3-6320,CPU,6113e2758236d84cbf44a48e
+3.0 GHz (4 cores),2234,intel core i5-3550s,CPU,6113e2758236d84cbf44a48f
+3.1 GHz (4 cores),2229,intel core i5-3350p,CPU,6113e2758236d84cbf44a490
+3.3 GHz (4 cores),2224,intel core i5-2500,CPU,6113e2758236d84cbf44a491
+2.3 GHz (4 cores),2217,intel core i7-2820qm,CPU,6113e2758236d84cbf44a492
+2.3 GHz (4 cores),2199,intel core i5-3570t,CPU,6113e2758236d84cbf44a493
+2.0 GHz (4 cores),2185,intel core i5-4590t,CPU,6113e2758236d84cbf44a494
+2.7 GHz (4 cores),2184,intel core i5-4430s,CPU,6113e2758236d84cbf44a495
+3.5 GHz (2 cores),2178,intel core i7-7567u,CPU,6113e2758236d84cbf44a496
+"1470 MHz | 8 GB, GDDR6, 256 bit-1750 MHz",2176,geforce rtx 2060 super,GPU,6113e2758236d84cbf44a497
+2.2 GHz (4 cores),2167,intel core i5-6400t,CPU,6113e2758236d84cbf44a498
+2.7 GHz (4 cores),2167,intel core i5-3335s,CPU,6113e2758236d84cbf44a499
+2.8 GHz (4 cores),2142,intel core i5-3450s,CPU,6113e2758236d84cbf44a49a
+3.1 GHz (4 cores),2138,intel xeon e3-1220,CPU,6113e2758236d84cbf44a49b
+3.2 GHz (4 cores),2134,intel core i7-960,CPU,6113e2758236d84cbf44a49c
+3.0 GHz (4 cores),2133,intel core i5-3330,CPU,6113e2758236d84cbf44a49d
+2.5 GHz (4 cores),2131,intel core i7-2920xm,CPU,6113e2758236d84cbf44a49e
+3.1 GHz (4 cores),2129,intel core i5-2400,CPU,6113e2758236d84cbf44a49f
+2.4 GHz (4 cores),2127,intel core i7-2760qm,CPU,6113e2758236d84cbf44a4a0
+2.4 GHz (4 cores),2123,intel xeon e5620,CPU,6113e2758236d84cbf44a4a1
+3.0 GHz (4 cores),2117,intel xeon e5-1607,CPU,6113e2758236d84cbf44a4a2
+3.1 GHz (4 cores),2109,intel xeon e3-1225,CPU,6113e2758236d84cbf44a4a3
+3.2 GHz (4 cores),2106,intel xeon w3565,CPU,6113e2758236d84cbf44a4a4
+3.1 GHz (4 cores),2099,intel core i7-950,CPU,6113e2758236d84cbf44a4a5
+2.7 GHz (4 cores),2099,intel xeon e5640,CPU,6113e2758236d84cbf44a4a6
+3.1 GHz (8 cores),2088,amd fx-8120,CPU,6113e2758236d84cbf44a4a7
+2.5 GHz (4 cores),2084,intel xeon e3-1265l v2,CPU,6113e2758236d84cbf44a4a8
+3.0 GHz (2 cores),2077,intel core i3-8109u,CPU,6113e2758236d84cbf44a4a9
+2.9 GHz (4 cores),2072,intel core i7-940,CPU,6113e2758236d84cbf44a4aa
+2.9 GHz (4 cores),2066,intel core i7-870,CPU,6113e2758236d84cbf44a4ab
+3.8 GHz (2 cores),2065,intel core i3-6300,CPU,6113e2758236d84cbf44a4ac
+3.9 GHz (6 cores),2063,amd fx-6350,CPU,6113e2758236d84cbf44a4ad
+2.9 GHz (4 cores),2056,intel xeon w3540,CPU,6113e2758236d84cbf44a4ae
+3.9 GHz (2 cores),2056,intel core i3-7100,CPU,6113e2758236d84cbf44a4af
+"1012 MHz | 16 GB, GDDR5, 256 bit-1502 MHz",2048,tesla p6,GPU,6113e2758236d84cbf44a4b0
+"557 MHz | 1024 MB, GDDR5, 256 bit-1253 MHz",2048,grid m60-1q,GPU,6113e2758236d84cbf44a4b1
+"557 MHz | 2 GB, GDDR5, 256 bit-1253 MHz",2048,grid m60-2q,GPU,6113e2758236d84cbf44a4b2
+"557 MHz | 4 GB, GDDR5, 256 bit-1253 MHz",2048,grid m60-4a,GPU,6113e2758236d84cbf44a4b3
+"557 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",2048,grid m60-8q,GPU,6113e2758236d84cbf44a4b4
+"861 MHz | 8 GB, GDDR5, 256 bit-1653 MHz",2048,quadro m5000,GPU,6113e2758236d84cbf44a4b5
+"557 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",2048,tesla m60,GPU,6113e2758236d84cbf44a4b6
+"1127 MHz | 4 GB, GDDR5, 256 bit-1753 MHz",2048,geforce gtx 980,GPU,6113e2758236d84cbf44a4b7
+"2200 MHz | 8 GB, GDDR6, 128 bit-2000 MHz",2048,radeon rx 6600 xt,GPU,6113e2758236d84cbf44a4b8
+"1130 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",2048,radeon rx 5600 oem,GPU,6113e2758236d84cbf44a4b9
+"1168 MHz | 8 GB, GDDR5, 256 bit-1750 MHz",2048,radeon rx 570x,GPU,6113e2758236d84cbf44a4ba
+"1168 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",2048,radeon rx 580 2048sp,GPU,6113e2758236d84cbf44a4bb
+"1168 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",2048,radeon rx 570,GPU,6113e2758236d84cbf44a4bc
+"920 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",2048,firepro s7150,GPU,6113e2758236d84cbf44a4bd
+"926 MHz | 4 GB, GDDR5, 256 bit-1650 MHz",2048,radeon rx 470,GPU,6113e2758236d84cbf44a4be
+"970 MHz | 4 GB, GDDR5, 256 bit-1425 MHz",2048,radeon r9 380x,GPU,6113e2758236d84cbf44a4bf
+"850 MHz | 6 GB, GDDR5, 384 bit-1370 MHz",2048,firepro d700,GPU,6113e2758236d84cbf44a4c0
+"1002 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,radeon r9 285x,GPU,6113e2758236d84cbf44a4c1
+"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,radeon hd 7990,GPU,6113e2758236d84cbf44a4c2
+"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,radeon hd 8970 oem,GPU,6113e2758236d84cbf44a4c3
+"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,radeon hd 8990 oem,GPU,6113e2758236d84cbf44a4c4
+"850 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,radeon r9 280x,GPU,6113e2758236d84cbf44a4c5
+"950 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,radeon r9 280x2,GPU,6113e2758236d84cbf44a4c6
+"975 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",2048,firepro w9000,GPU,6113e2758236d84cbf44a4c7
+"1000 MHz | 3 GB, GDDR5, 384 bit-1500 MHz",2048,radeon hd 7970 ghz edition,GPU,6113e2758236d84cbf44a4c8
+"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,radeon hd 7970 x2,GPU,6113e2758236d84cbf44a4c9
+"925 MHz | 3 GB, GDDR5, 384 bit-1375 MHz",2048,radeon hd 7970,GPU,6113e2758236d84cbf44a4ca
+2.5 GHz (4 cores),2046,intel xeon e5630,CPU,6113e2758236d84cbf44a4cb
+3.0 GHz (4 cores),2041,intel core i5-2320,CPU,6113e2758236d84cbf44a4cc
+3.7 GHz (2 cores),2040,intel pentium gold g5400,CPU,6113e2758236d84cbf44a4cd
+2.7 GHz (4 cores),2031,intel core i5-3330s,CPU,6113e2758236d84cbf44a4ce
+2.8 GHz (4 cores),2028,intel core i5-3340s,CPU,6113e2758236d84cbf44a4cf
+1.2 GHz (2 cores),2021,intel core i3-1005g1,CPU,6113e2758236d84cbf44a4d0
+2.8 GHz (4 cores),2020,intel xeon w3530,CPU,6113e2758236d84cbf44a4d1
+2.8 GHz (4 cores),2014,intel xeon e5-1603,CPU,6113e2758236d84cbf44a4d2
+2.4 GHz (8 cores),2013,intel xeon e5530,CPU,6113e2758236d84cbf44a4d3
+3.1 GHz (4 cores),2009,intel xeon w3550,CPU,6113e2758236d84cbf44a4d4
+3.1 GHz (2 cores),2008,intel core i5-7267u,CPU,6113e2758236d84cbf44a4d5
+2.3 GHz (2 cores),2007,intel core i5-7360u,CPU,6113e2758236d84cbf44a4d6
+2.0 GHz (4 cores),2007,amd ryzen 3 2300u,CPU,6113e2758236d84cbf44a4d7
+3.2 GHz (6 cores),2004,amd phenom ii x6 1090t black edition,CPU,6113e2758236d84cbf44a4d8
+2.5 GHz (2 cores),2002,intel core i7-7660u,CPU,6113e2758236d84cbf44a4d9
+2.2 GHz (4 cores),1990,intel core i7-2720qm,CPU,6113e2758236d84cbf44a4da
+2.8 GHz (4 cores),1963,intel xeon x3460,CPU,6113e2758236d84cbf44a4db
+2.8 GHz (4 cores),1962,intel core i5-2300,CPU,6113e2758236d84cbf44a4dc
+3.7 GHz (2 cores),1960,intel core i3-6100,CPU,6113e2758236d84cbf44a4dd
+2.9 GHz (4 cores),1959,intel core i5-2310,CPU,6113e2758236d84cbf44a4de
+3.7 GHz (2 cores),1954,intel pentium g4620,CPU,6113e2758236d84cbf44a4df
+2.4 GHz (4 cores),1953,intel xeon e3-1260l,CPU,6113e2758236d84cbf44a4e0
+2.2 GHz (2 cores),1935,intel core i5-7260u,CPU,6113e2758236d84cbf44a4e1
+2.2 GHz (4 cores),1934,intel core i7-2670qm,CPU,6113e2758236d84cbf44a4e2
+2.8 GHz (4 cores),1933,intel core i7-930,CPU,6113e2758236d84cbf44a4e3
+1.9 GHz (4 cores),1924,intel core i5-4460t,CPU,6113e2758236d84cbf44a4e4
+"1365 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1920,geforce rtx 2060 tu104,GPU,6113e2758236d84cbf44a4e5
+"1365 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1920,geforce rtx 2060,GPU,6113e2758236d84cbf44a4e6
+"1506 MHz | 8 GB, GDDR5X, 256 bit-1001 MHz",1920,geforce gtx 1070 gddr5x,GPU,6113e2758236d84cbf44a4e7
+"1607 MHz | 4 GB, GDDR5X, 256 bit-1251 MHz",1920,p104-100,GPU,6113e2758236d84cbf44a4e8
+"1506 MHz | 8 GB, GDDR5, 256 bit-2002 MHz",1920,geforce gtx 1070,GPU,6113e2758236d84cbf44a4e9
+3.8 GHz (2 cores),1917,intel pentium gold g5500,CPU,6113e2758236d84cbf44a4ea
+2.8 GHz (4 cores),1911,intel core i7-860,CPU,6113e2758236d84cbf44a4eb
+2.1 GHz (2 cores),1910,intel core i3-10110u,CPU,6113e2758236d84cbf44a4ec
+3.5 GHz (6 cores),1905,amd fx-6300,CPU,6113e2758236d84cbf44a4ed
+3.7 GHz (2 cores),1904,intel core i3-4360,CPU,6113e2758236d84cbf44a4ee
+2.7 GHz (4 cores),1903,intel core i7-920,CPU,6113e2758236d84cbf44a4ef
+2.7 GHz (4 cores),1902,intel xeon w3520,CPU,6113e2758236d84cbf44a4f0
+3.4 GHz (2 cores),1901,intel core i3-7100t,CPU,6113e2758236d84cbf44a4f1
+3.5 GHz (3 cores),1899,amd fx-6120,CPU,6113e2758236d84cbf44a4f2
+3.6 GHz (2 cores),1895,intel pentium g4600,CPU,6113e2758236d84cbf44a4f3
+3.5 GHz (2 cores),1892,amd athlon 3000g,CPU,6113e2758236d84cbf44a4f4
+2.8 GHz (4 cores),1889,intel xeon x5560,CPU,6113e2758236d84cbf44a4f5
+2.0 GHz (4 cores),1888,intel core i7-2630qm,CPU,6113e2758236d84cbf44a4f6
+3.3 GHz (2 cores),1887,intel core i7-6567u,CPU,6113e2758236d84cbf44a4f7
+3.6 GHz (2 cores),1886,intel core i3-6098p,CPU,6113e2758236d84cbf44a4f8
+2.0 GHz (4 cores),1882,intel core i7-2635qm,CPU,6113e2758236d84cbf44a4f9
+3.8 GHz (3 cores),1878,amd fx-6200,CPU,6113e2758236d84cbf44a4fa
+2.2 GHz (2 cores),1873,intel core i3-8121u,CPU,6113e2758236d84cbf44a4fb
+1.6 GHz (4 cores),1870,intel core i5-8250u,CPU,6113e2758236d84cbf44a4fc
+2.7 GHz (4 cores),1867,intel core i5-2500s,CPU,6113e2758236d84cbf44a4fd
+3.5 GHz (2 cores),1848,intel pentium g4560,CPU,6113e2758236d84cbf44a4fe
+2.3 GHz (4 cores),1847,intel xeon l5520,CPU,6113e2758236d84cbf44a4ff
+3.8 GHz (2 cores),1837,intel core i3-4370,CPU,6113e2758236d84cbf44a500
+3.6 GHz (2 cores),1837,intel core i3-4350,CPU,6113e2758236d84cbf44a501
+2.5 GHz (4 cores),1834,intel core i5-2405s,CPU,6113e2758236d84cbf44a502
+2.7 GHz (4 cores),1830,intel xeon x3450,CPU,6113e2758236d84cbf44a503
+2.4 GHz (2 cores),1820,intel core i7-7560u,CPU,6113e2758236d84cbf44a504
+3.5 GHz (2 cores),1810,intel core i3-4330,CPU,6113e2758236d84cbf44a505
+3.2 GHz (4 cores),1808,intel core 2 extreme x9770,CPU,6113e2758236d84cbf44a506
+2.5 GHz (4 cores),1808,intel xeon x3440,CPU,6113e2758236d84cbf44a507
+3.1 GHz (2 cores),1795,intel core i5-6287u,CPU,6113e2758236d84cbf44a508
+2.2 GHz (2 cores),1792,intel core i7-6650u,CPU,6113e2758236d84cbf44a509
+"1202 MHz | 8 GB, GDDR5, 256 bit-1901 MHz",1792,quadro p4000,GPU,6113e2758236d84cbf44a50a
+"2200 MHz | 8 GB, GDDR6, 128 bit-2000 MHz",1792,radeon rx 6600,GPU,6113e2758236d84cbf44a50b
+"1074 MHz | 4 GB, GDDR5, 256 bit-1750 MHz",1792,radeon rx 560 xt,GPU,6113e2758236d84cbf44a50c
+"1050 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,firepro s7150 x2,GPU,6113e2758236d84cbf44a50d
+"713 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,radeon pro wx 5100,GPU,6113e2758236d84cbf44a50e
+"926 MHz | 4 GB, GDDR5, 256 bit-1650 MHz",1792,radeon rx 470d,GPU,6113e2758236d84cbf44a50f
+"970 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1792,radeon r9 380,GPU,6113e2758236d84cbf44a510
+"918 MHz | 4 GB, GDDR5, 256 bit-1375 MHz",1792,radeon r9 380 oem,GPU,6113e2758236d84cbf44a511
+"825 MHz | 6 GB, GDDR5, 384 bit-1250 MHz",1792,firepro s10000 passive 12gb,GPU,6113e2758236d84cbf44a512
+"900 MHz | 12 GB, GDDR5, 384 bit-1375 MHz",1792,firepro s9050,GPU,6113e2758236d84cbf44a513
+"920 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1792,firepro w7100,GPU,6113e2758236d84cbf44a514
+"827 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon r9 280,GPU,6113e2758236d84cbf44a515
+"918 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1792,radeon r9 285,GPU,6113e2758236d84cbf44a516
+"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon hd 7950 mac edition,GPU,6113e2758236d84cbf44a517
+"850 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon hd 8950 oem,GPU,6113e2758236d84cbf44a518
+"900 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",1792,radeon sky 700,GPU,6113e2758236d84cbf44a519
+"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon sky 900,GPU,6113e2758236d84cbf44a51a
+"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,firepro s10000,GPU,6113e2758236d84cbf44a51b
+"825 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,firepro s10000 passive,GPU,6113e2758236d84cbf44a51c
+"900 MHz | 6 GB, GDDR5, 384 bit-1375 MHz",1792,firepro s9000,GPU,6113e2758236d84cbf44a51d
+"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,firepro s9010,GPU,6113e2758236d84cbf44a51e
+"900 MHz | 4 GB, GDDR5, 256 bit-1375 MHz",1792,firepro w8000,GPU,6113e2758236d84cbf44a51f
+"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon hd 7950,GPU,6113e2758236d84cbf44a520
+"850 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1792,radeon hd 7950 boost,GPU,6113e2758236d84cbf44a521
+2.5 GHz (4 cores),1788,intel core i5-2400s,CPU,6113e2758236d84cbf44a522
+4.2 GHz (2 cores),1783,amd athlon x4 880k,CPU,6113e2758236d84cbf44a523
+3.7 GHz (4 cores),1767,amd phenom ii x4 980,CPU,6113e2758236d84cbf44a524
+2.4 GHz (2 cores),1748,intel core i7-6660u,CPU,6113e2758236d84cbf44a525
+3.1 GHz (2 cores),1746,intel core i7-5557u,CPU,6113e2758236d84cbf44a526
+3.2 GHz (2 cores),1745,intel core i3-6100t,CPU,6113e2758236d84cbf44a527
+2.4 GHz (4 cores),1731,intel xeon e5-2609,CPU,6113e2758236d84cbf44a528
+3.3 GHz (6 cores),1720,amd fx-6100,CPU,6113e2758236d84cbf44a529
+2.9 GHz (2 cores),1712,intel core i5-5287u,CPU,6113e2758236d84cbf44a52a
+3.7 GHz (2 cores),1712,intel core i3-4170,CPU,6113e2758236d84cbf44a52b
+3.6 GHz (2 cores),1711,intel core i3-4160,CPU,6113e2758236d84cbf44a52c
+3.2 GHz (2 cores),1710,amd athlon 200ge,CPU,6113e2758236d84cbf44a52d
+2.2 GHz (4 cores),1697,intel core i7-2675qm,CPU,6113e2758236d84cbf44a52e
+3.6 GHz (2 cores),1684,intel core i3-4340,CPU,6113e2758236d84cbf44a52f
+2.2 GHz (2 cores),1680,intel core i7-6560u,CPU,6113e2758236d84cbf44a530
+"773 MHz | 8 GB, GDDR5, 256 bit-1502 MHz",1664,quadro m4000,GPU,6113e2758236d84cbf44a531
+"1050 MHz | 4 GB, GDDR5, 256 bit-1753 MHz",1664,geforce gtx 970,GPU,6113e2758236d84cbf44a532
+2.9 GHz (2 cores),1661,intel core i5-6267u,CPU,6113e2758236d84cbf44a533
+2.8 GHz (2 cores),1656,intel core i5-4308u,CPU,6113e2758236d84cbf44a534
+3.5 GHz (2 cores),1649,intel core i3-4150,CPU,6113e2758236d84cbf44a535
+2.8 GHz (2 cores),1648,intel core i7-4558u,CPU,6113e2758236d84cbf44a536
+2.5 GHz (4 cores),1647,intel xeon e5-2609 v2,CPU,6113e2758236d84cbf44a537
+2.9 GHz (2 cores),1646,intel core i5-4570t,CPU,6113e2758236d84cbf44a538
+3.0 GHz (2 cores),1631,intel core i7-4610m,CPU,6113e2758236d84cbf44a539
+2.3 GHz (4 cores),1629,intel xeon e5520,CPU,6113e2758236d84cbf44a53a
+1.4 GHz (5 cores),1627,intel core i5-l16g7,CPU,6113e2758236d84cbf44a53b
+1.1 GHz (2 cores),1615,intel core i3-1000ng4,CPU,6113e2758236d84cbf44a53c
+4.0 GHz (2 cores),1614,amd fx-4330,CPU,6113e2758236d84cbf44a53d
+2.8 GHz (4 cores),1612,intel core i5-760,CPU,6113e2758236d84cbf44a53e
+2.0 GHz (2 cores),1607,intel core i5-6360u,CPU,6113e2758236d84cbf44a53f
+3.4 GHz (2 cores),1606,intel core i3-4130,CPU,6113e2758236d84cbf44a540
+3.5 GHz (2 cores),1603,intel pentium g4500,CPU,6113e2758236d84cbf44a541
+2.9 GHz (2 cores),1602,intel core i7-4600m,CPU,6113e2758236d84cbf44a542
+3.6 GHz (4 cores),1600,amd phenom ii x4 975 black edition,CPU,6113e2758236d84cbf44a543
+"850 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1600,radeon hd 6870 1600sp edition,GPU,6113e2758236d84cbf44a544
+"825 MHz | 4 GB, GDDR5, 256 bit-1150 MHz",1600,firestream 9370,GPU,6113e2758236d84cbf44a545
+3.9 GHz (2 cores),1597,amd a10-7870k,CPU,6113e2758236d84cbf44a546
+2.9 GHz (2 cores),1592,intel core i5-4340m,CPU,6113e2758236d84cbf44a547
+3.9 GHz (2 cores),1583,amd athlon x4 870k,CPU,6113e2758236d84cbf44a548
+3.7 GHz (4 cores),1576,amd athlon x4 860k,CPU,6113e2758236d84cbf44a549
+3.7 GHz (4 cores),1575,amd a10-7850k,CPU,6113e2758236d84cbf44a54a
+2.2 GHz (2 cores),1573,intel core i3-8130u,CPU,6113e2758236d84cbf44a54b
+2.7 GHz (4 cores),1566,intel core i5-750,CPU,6113e2758236d84cbf44a54c
+2.8 GHz (2 cores),1560,intel core i5-4200h,CPU,6113e2758236d84cbf44a54d
+3.2 GHz (2 cores),1560,intel core i3-4170t,CPU,6113e2758236d84cbf44a54e
+3.5 GHz (2 cores),1559,amd athlon x4 845,CPU,6113e2758236d84cbf44a54f
+1.8 GHz (2 cores),1558,intel core i5-6260u,CPU,6113e2758236d84cbf44a550
+2.1 GHz (4 cores),1556,intel core i7-940xm,CPU,6113e2758236d84cbf44a551
+3.6 GHz (4 cores),1542,amd a10-7860k,CPU,6113e2758236d84cbf44a552
+2.6 GHz (2 cores),1538,intel core i5-4278u,CPU,6113e2758236d84cbf44a553
+4.1 GHz (4 cores),1536,amd a10-6800k,CPU,6113e2758236d84cbf44a554
+"1500 MHz | 6 GB, GDDR6, 192 bit-1500 MHz",1536,geforce gtx 1660 ti,GPU,6113e2758236d84cbf44a555
+"722 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",1536,grid m6-8q,GPU,6113e2758236d84cbf44a556
+"930 MHz | 8 GB, GDDR5, 256 bit-1253 MHz",1536,tesla m6,GPU,6113e2758236d84cbf44a557
+"745 MHz | 512 MB, GDDR5, 256 bit-1250 MHz",1536,grid k220q,GPU,6113e2758236d84cbf44a558
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k500,GPU,6113e2758236d84cbf44a559
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k520q,GPU,6113e2758236d84cbf44a55a
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k540q,GPU,6113e2758236d84cbf44a55b
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k560q,GPU,6113e2758236d84cbf44a55c
+"693 MHz | 8 GB, GDDR5, 256 bit-1250 MHz",1536,tesla k8,GPU,6113e2758236d84cbf44a55d
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k2,GPU,6113e2758236d84cbf44a55e
+"745 MHz | 256 MB, GDDR5, 256 bit-1250 MHz",1536,grid k200,GPU,6113e2758236d84cbf44a55f
+"745 MHz | 1024 MB, GDDR5, 256 bit-1250 MHz",1536,grid k240q,GPU,6113e2758236d84cbf44a560
+"745 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1536,grid k260q,GPU,6113e2758236d84cbf44a561
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k280q,GPU,6113e2758236d84cbf44a562
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,grid k520,GPU,6113e2758236d84cbf44a563
+"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,geforce gtx 680 mac edition,GPU,6113e2758236d84cbf44a564
+"1046 MHz | 2 GB, GDDR5, 256 bit-1753 MHz",1536,geforce gtx 770,GPU,6113e2758236d84cbf44a565
+"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,quadro k5000 sync,GPU,6113e2758236d84cbf44a566
+"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,geforce gtx 680,GPU,6113e2758236d84cbf44a567
+"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1536,geforce gtx 690,GPU,6113e2758236d84cbf44a568
+"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,quadro k5000,GPU,6113e2758236d84cbf44a569
+"706 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1536,quadro k5000 mac edition,GPU,6113e2758236d84cbf44a56a
+"745 MHz | 4 GB, GDDR5, 256 bit-1250 MHz",1536,tesla k10,GPU,6113e2758236d84cbf44a56b
+"1187 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1536,radeon pro 5500 xt,GPU,6113e2758236d84cbf44a56c
+"1300 MHz | 8 GB, GDDR5, 256 bit-1200 MHz",1536,zhongshan subor z+ gpu,GPU,6113e2758236d84cbf44a56d
+"725 MHz | 3 GB, GDDR5, 384 bit-1270 MHz",1536,firepro d500,GPU,6113e2758236d84cbf44a56e
+"925 MHz | 2 GB, GDDR5, 256 bit-1500 MHz",1536,radeon hd 7870 xt,GPU,6113e2758236d84cbf44a56f
+"925 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",1536,radeon hd 7950 monica bios 1,GPU,6113e2758236d84cbf44a570
+"880 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1536,radeon hd 6970 x2,GPU,6113e2758236d84cbf44a571
+"830 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1536,radeon hd 6990,GPU,6113e2758236d84cbf44a572
+"880 MHz | 2 GB, GDDR5, 256 bit-1375 MHz",1536,radeon hd 6970,GPU,6113e2758236d84cbf44a573
+4.2 GHz (4 cores),1530,amd fx-4350,CPU,6113e2758236d84cbf44a574
+2.7 GHz (2 cores),1527,intel core i5-4310m,CPU,6113e2758236d84cbf44a575
+3.0 GHz (2 cores),1525,intel core i7-4578u,CPU,6113e2758236d84cbf44a576
+2.2 GHz (2 cores),1519,intel core i7-5650u,CPU,6113e2758236d84cbf44a577
+2.6 GHz (2 cores),1513,intel core i5-4300m,CPU,6113e2758236d84cbf44a578
+3.2 GHz (2 cores),1512,intel pentium g3258,CPU,6113e2758236d84cbf44a579
+3.0 GHz (2 cores),1512,intel core i3-4150t,CPU,6113e2758236d84cbf44a57a
+2.9 GHz (2 cores),1510,intel core i5-4210h,CPU,6113e2758236d84cbf44a57b
+3.1 GHz (2 cores),1509,intel core i3-4160t,CPU,6113e2758236d84cbf44a57c
+4.0 GHz (2 cores),1507,amd fx - 4320,CPU,6113e2758236d84cbf44a57d
+2.7 GHz (2 cores),1501,intel core i5-5257u,CPU,6113e2758236d84cbf44a57e
+2.2 GHz (4 cores),1497,intel xeon e5-2407,CPU,6113e2758236d84cbf44a57f
+3.5 GHz (4 cores),1496,amd a10-9700,CPU,6113e2758236d84cbf44a580
+3.8 GHz (4 cores),1492,amd a12-9800,CPU,6113e2758236d84cbf44a581
+2.6 GHz (2 cores),1491,intel core i5-4210m,CPU,6113e2758236d84cbf44a582
+3.4 GHz (4 cores),1489,amd phenom ii x4 965 black edition,CPU,6113e2758236d84cbf44a583
+2.6 GHz (2 cores),1488,intel core i7-5600u,CPU,6113e2758236d84cbf44a584
+3.5 GHz (4 cores),1476,amd phenom ii x4 970 black edition,CPU,6113e2758236d84cbf44a585
+3.5 GHz (4 cores),1474,amd athlon x4 950,CPU,6113e2758236d84cbf44a586
+2.9 GHz (2 cores),1473,intel core i3-4130t,CPU,6113e2758236d84cbf44a587
+4.2 GHz (2 cores),1472,amd fx-4170,CPU,6113e2758236d84cbf44a588
+2.6 GHz (2 cores),1469,intel core i5-4288u,CPU,6113e2758236d84cbf44a589
+3.3 GHz (4 cores),1457,amd a8-7650k,CPU,6113e2758236d84cbf44a58a
+1.5 GHz (4 cores),1457,intel pentium silver j5005,CPU,6113e2758236d84cbf44a58b
+2.6 GHz (2 cores),1457,amd ryzen 3 3250u,CPU,6113e2758236d84cbf44a58c
+1.6 GHz (2 cores),1455,intel core i5-8210y,CPU,6113e2758236d84cbf44a58d
+1.8 GHz (2 cores),1454,intel core i5-5350u,CPU,6113e2758236d84cbf44a58e
+3.8 GHz (2 cores),1450,amd a10-5800k,CPU,6113e2758236d84cbf44a58f
+3.5 GHz (2 cores),1447,amd fx - 770k,CPU,6113e2758236d84cbf44a590
+3.7 GHz (4 cores),1445,amd a10-6700,CPU,6113e2758236d84cbf44a591
+3.5 GHz (4 cores),1444,amd a10-7800,CPU,6113e2758236d84cbf44a592
+"725 MHz | 1024 MB, GDDR5, 256 bit-1000 MHz",1440,radeon hd 6850 1440sp edition,GPU,6113e2758236d84cbf44a593
+"700 MHz | 2 GB, GDDR5, 256 bit-1000 MHz",1440,firestream 9350,GPU,6113e2758236d84cbf44a594
+3.1 GHz (4 cores),1436,amd a8 pro-7600b,CPU,6113e2758236d84cbf44a595
+2.7 GHz (2 cores),1435,intel core i3-7130u,CPU,6113e2758236d84cbf44a596
+3.0 GHz (2 cores),1431,intel core i7-3540m,CPU,6113e2758236d84cbf44a597
+2.0 GHz (4 cores),1430,intel celeron j4125,CPU,6113e2758236d84cbf44a598
+3.2 GHz (4 cores),1429,amd a8-8650,CPU,6113e2758236d84cbf44a599
+3.0 GHz (4 cores),1429,intel xeon x3370,CPU,6113e2758236d84cbf44a59a
+2.9 GHz (2 cores),1427,intel core i5-3380m,CPU,6113e2758236d84cbf44a59b
+3.0 GHz (4 cores),1424,intel xeon e5472,CPU,6113e2758236d84cbf44a59c
+3.3 GHz (2 cores),1424,intel pentium g4400,CPU,6113e2758236d84cbf44a59d
+2.4 GHz (2 cores),1424,intel core i3-6157u,CPU,6113e2758236d84cbf44a59e
+2.9 GHz (2 cores),1416,intel core i7-3520m,CPU,6113e2758236d84cbf44a59f
+3.1 GHz (4 cores),1414,amd athlon x4 840,CPU,6113e2758236d84cbf44a5a0
+3.4 GHz (2 cores),1410,intel core i3-3245,CPU,6113e2758236d84cbf44a5a1
+3.9 GHz (4 cores),1410,amd a8-6600k,CPU,6113e2758236d84cbf44a5a2
+"1530 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1408,cmp 30hx,GPU,6113e2758236d84cbf44a5a3
+"1530 MHz | 6 GB, GDDR5, 192 bit-2001 MHz",1408,geforce gtx 1660,GPU,6113e2758236d84cbf44a5a4
+"1530 MHz | 6 GB, GDDR6, 192 bit-1750 MHz",1408,geforce gtx 1660 super,GPU,6113e2758236d84cbf44a5a5
+"1744 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1408,radeon pro w5500,GPU,6113e2758236d84cbf44a5a6
+"1327 MHz | 3 GB, GDDR6, 96 bit-1750 MHz",1408,radeon rx 5300,GPU,6113e2758236d84cbf44a5a7
+"1670 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1408,radeon rx 5300 xt,GPU,6113e2758236d84cbf44a5a8
+"1500 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1408,radeon rx 5500 oem,GPU,6113e2758236d84cbf44a5a9
+"1607 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1408,radeon rx 5500 xt,GPU,6113e2758236d84cbf44a5aa
+"800 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1408,radeon hd 6950,GPU,6113e2758236d84cbf44a5ab
+2.4 GHz (2 cores),1406,intel core i5-4258u,CPU,6113e2758236d84cbf44a5ac
+3.8 GHz (4 cores),1406,amd fx-4300,CPU,6113e2758236d84cbf44a5ad
+2.5 GHz (2 cores),1402,intel core i5-4200m,CPU,6113e2758236d84cbf44a5ae
+2.4 GHz (4 cores),1392,intel xeon x3430,CPU,6113e2758236d84cbf44a5af
+3.2 GHz (4 cores),1391,amd phenom ii x4 955 black edition,CPU,6113e2758236d84cbf44a5b0
+3.3 GHz (2 cores),1388,intel core i3-3225,CPU,6113e2758236d84cbf44a5b1
+2.4 GHz (2 cores),1386,intel core i7-5500u,CPU,6113e2758236d84cbf44a5b2
+2.6 GHz (2 cores),1386,amd ryzen 3 3200u,CPU,6113e2758236d84cbf44a5b3
+2.5 GHz (2 cores),1385,amd ryzen 3 2200u,CPU,6113e2758236d84cbf44a5b4
+3.1 GHz (4 cores),1385,amd a8-9600,CPU,6113e2758236d84cbf44a5b5
+2.9 GHz (2 cores),1384,intel core i5-3470t,CPU,6113e2758236d84cbf44a5b6
+3.5 GHz (4 cores),1384,amd a10 pro-7800b,CPU,6113e2758236d84cbf44a5b7
+3.5 GHz (2 cores),1383,intel pentium g3460,CPU,6113e2758236d84cbf44a5b8
+3.5 GHz (2 cores),1380,intel core i3-3250,CPU,6113e2758236d84cbf44a5b9
+3.3 GHz (2 cores),1376,intel core i3-2125,CPU,6113e2758236d84cbf44a5ba
+3.0 GHz (4 cores),1376,intel xeon e5450,CPU,6113e2758236d84cbf44a5bb
+3.4 GHz (2 cores),1373,intel core i3-3240,CPU,6113e2758236d84cbf44a5bc
+3.4 GHz (4 cores),1372,amd athlon x4 750k,CPU,6113e2758236d84cbf44a5bd
+3.0 GHz (4 cores),1372,amd fx-9830p,CPU,6113e2758236d84cbf44a5be
+3.2 GHz (4 cores),1372,amd phenom ii x4 b97,CPU,6113e2758236d84cbf44a5bf
+2.8 GHz (2 cores),1371,intel core i5-3360m,CPU,6113e2758236d84cbf44a5c0
+3.0 GHz (4 cores),1371,amd athlon ii x4 651,CPU,6113e2758236d84cbf44a5c1
+2.8 GHz (4 cores),1367,amd pro a10-8770e,CPU,6113e2758236d84cbf44a5c2
+3.2 GHz (4 cores),1362,intel xeon x5460,CPU,6113e2758236d84cbf44a5c3
+4.0 GHz (4 cores),1362,amd a10-6790k,CPU,6113e2758236d84cbf44a5c4
+3.7 GHz (4 cores),1359,amd a10 pro-7850b,CPU,6113e2758236d84cbf44a5c5
+2.0 GHz (4 cores),1358,intel core i7-920xm,CPU,6113e2758236d84cbf44a5c6
+3.1 GHz (4 cores),1358,amd a8-7600,CPU,6113e2758236d84cbf44a5c7
+3.0 GHz (4 cores),1355,intel core 2 extreme x9650,CPU,6113e2758236d84cbf44a5c8
+3.2 GHz (4 cores),1355,intel xeon x5482,CPU,6113e2758236d84cbf44a5c9
+3.5 GHz (4 cores),1355,amd a8-6500,CPU,6113e2758236d84cbf44a5ca
+2.8 GHz (4 cores),1354,intel xeon e5440,CPU,6113e2758236d84cbf44a5cb
+3.3 GHz (4 cores),1345,amd phenom ii x4 850,CPU,6113e2758236d84cbf44a5cc
+3.0 GHz (4 cores),1344,intel core 2 quad q9650,CPU,6113e2758236d84cbf44a5cd
+"993 MHz | 2 GB, GDDR5, 256 bit-1650 MHz",1344,geforce gtx 760 oem,GPU,6113e2758236d84cbf44a5ce
+"771 MHz | 4 GB, GDDR5, 256 bit-1350 MHz",1344,quadro k4200,GPU,6113e2758236d84cbf44a5cf
+"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,geforce gtx 760 ti oem,GPU,6113e2758236d84cbf44a5d0
+"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,geforce gtx 760 ti oem rebrand,GPU,6113e2758236d84cbf44a5d1
+"797 MHz | 2 GB, DDR3, 256 bit-891 MHz",1344,quadro 4100,GPU,6113e2758236d84cbf44a5d2
+"915 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",1344,geforce gtx 660 ti,GPU,6113e2758236d84cbf44a5d3
+"915 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1344,geforce gtx 670,GPU,6113e2758236d84cbf44a5d4
+3.0 GHz (4 cores),1341,amd pro a10-9700e,CPU,6113e2758236d84cbf44a5d5
+3.8 GHz (4 cores),1339,amd athlon x4 760k,CPU,6113e2758236d84cbf44a5d6
+3.6 GHz (4 cores),1338,amd a10-8750,CPU,6113e2758236d84cbf44a5d7
+3.6 GHz (4 cores),1337,amd a8-5600k,CPU,6113e2758236d84cbf44a5d8
+3.3 GHz (2 cores),1331,intel core i3-3220,CPU,6113e2758236d84cbf44a5d9
+2.0 GHz (2 cores),1331,intel core i7-4510u,CPU,6113e2758236d84cbf44a5da
+2.8 GHz (4 cores),1327,intel xeon x3360,CPU,6113e2758236d84cbf44a5db
+3.0 GHz (4 cores),1326,amd phenom ii x4 945,CPU,6113e2758236d84cbf44a5dc
+2.3 GHz (2 cores),1325,intel core i5-5300u,CPU,6113e2758236d84cbf44a5dd
+3.4 GHz (2 cores),1324,intel core i3-2130,CPU,6113e2758236d84cbf44a5de
+2.3 GHz (2 cores),1322,intel core i5-6200u,CPU,6113e2758236d84cbf44a5df
+3.6 GHz (4 cores),1319,amd fx-4100,CPU,6113e2758236d84cbf44a5e0
+2.4 GHz (2 cores),1319,intel core i5-6300u,CPU,6113e2758236d84cbf44a5e1
+3.5 GHz (4 cores),1318,amd a8-6500b,CPU,6113e2758236d84cbf44a5e2
+2.1 GHz (2 cores),1317,intel core i7-4600u,CPU,6113e2758236d84cbf44a5e3
+2.8 GHz (4 cores),1316,intel core 2 quad q9550,CPU,6113e2758236d84cbf44a5e4
+3.2 GHz (4 cores),1315,amd pro a8-8650b,CPU,6113e2758236d84cbf44a5e5
+3.0 GHz (4 cores),1313,intel xeon x5450,CPU,6113e2758236d84cbf44a5e6
+2.7 GHz (4 cores),1312,amd r-series rx-427bb,CPU,6113e2758236d84cbf44a5e7
+3.0 GHz (4 cores),1309,amd a8-3870,CPU,6113e2758236d84cbf44a5e8
+2.7 GHz (2 cores),1306,intel core i5-3340m,CPU,6113e2758236d84cbf44a5e9
+2.6 GHz (2 cores),1302,intel core i5-3320m,CPU,6113e2758236d84cbf44a5ea
+2.4 GHz (2 cores),1302,intel core i3-7100u,CPU,6113e2758236d84cbf44a5eb
+3.1 GHz (2 cores),1299,intel celeron g4900,CPU,6113e2758236d84cbf44a5ec
+3.8 GHz (4 cores),1298,amd fx-4130,CPU,6113e2758236d84cbf44a5ed
+3.2 GHz (2 cores),1298,intel core i3-3210,CPU,6113e2758236d84cbf44a5ee
+3.4 GHz (4 cores),1297,amd a10-5700,CPU,6113e2758236d84cbf44a5ef
+2.6 GHz (4 cores),1295,amd a10-9630p,CPU,6113e2758236d84cbf44a5f0
+2.8 GHz (2 cores),1291,intel core i7-2640m,CPU,6113e2758236d84cbf44a5f1
+2.3 GHz (2 cores),1285,intel core i3-6100u,CPU,6113e2758236d84cbf44a5f2
+3.0 GHz (4 cores),1284,amd phenom ii x4 b40,CPU,6113e2758236d84cbf44a5f3
+3.0 GHz (4 cores),1281,amd phenom ii x4 b95,CPU,6113e2758236d84cbf44a5f4
+"1530 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",1280,geforce gtx 1650 super,GPU,6113e2758236d84cbf44a5f5
+"1000 MHz | 5 GB, GDDR5X, 160 bit-1251 MHz",1280,quadro p2200,GPU,6113e2758236d84cbf44a5f6
+"1506 MHz | 6 GB, GDDR5X, 192 bit-1001 MHz",1280,geforce gtx 1060 6 gb gddr5x,GPU,6113e2758236d84cbf44a5f7
+"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,geforce gtx 1060 6 gb gp104,GPU,6113e2758236d84cbf44a5f8
+"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,geforce gtx 1060 6 gb rev. 2,GPU,6113e2758236d84cbf44a5f9
+"1506 MHz | 8 GB, GDDR5X, 256 bit-1001 MHz",1280,geforce gtx 1060 8 gb gddr5x,GPU,6113e2758236d84cbf44a5fa
+"1506 MHz | 5 GB, GDDR5, 160 bit-2002 MHz",1280,geforce gtx 1060 5 gb,GPU,6113e2758236d84cbf44a5fb
+"1506 MHz | 6 GB, GDDR5, 192 bit-2257 MHz",1280,geforce gtx 1060 6 gb 9gbps,GPU,6113e2758236d84cbf44a5fc
+"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,p106-100,GPU,6113e2758236d84cbf44a5fd
+"1506 MHz | 6 GB, GDDR5, 192 bit-2002 MHz",1280,geforce gtx 1060 6 gb,GPU,6113e2758236d84cbf44a5fe
+"924 MHz | 3 GB, GDDR5, 192 bit-1253 MHz",1280,geforce gtx 960 oem,GPU,6113e2758236d84cbf44a5ff
+"1000 MHz | 4 GB, GDDR6, 128 bit-1750 MHz",1280,radeon pro 5300,GPU,6113e2758236d84cbf44a600
+"1565 MHz | 8 GB, GDDR6, 128 bit-1750 MHz",1280,xbox series s gpu,GPU,6113e2758236d84cbf44a601
+"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon r9 370,GPU,6113e2758236d84cbf44a602
+"980 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon r9 370x,GPU,6113e2758236d84cbf44a603
+"850 MHz | 2 GB, GDDR5, 256 bit-1270 MHz",1280,firepro d300,GPU,6113e2758236d84cbf44a604
+"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon r7 265x oem,GPU,6113e2758236d84cbf44a605
+"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon hd 8860 oem,GPU,6113e2758236d84cbf44a606
+"1000 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1280,radeon hd 8870 oem,GPU,6113e2758236d84cbf44a607
+"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon r9 270,GPU,6113e2758236d84cbf44a608
+"1000 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1280,radeon r9 270x,GPU,6113e2758236d84cbf44a609
+"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,radeon sky 500,GPU,6113e2758236d84cbf44a60a
+"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,firepro s7000,GPU,6113e2758236d84cbf44a60b
+"950 MHz | 4 GB, GDDR5, 256 bit-1200 MHz",1280,firepro w7000,GPU,6113e2758236d84cbf44a60c
+"1000 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1280,radeon hd 7870 ghz edition,GPU,6113e2758236d84cbf44a60d
+"725 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1280,firepro v7900,GPU,6113e2758236d84cbf44a60e
+"725 MHz | 2 GB, GDDR5, 256 bit-1250 MHz",1280,firepro v7900 sdi,GPU,6113e2758236d84cbf44a60f
+"750 MHz | 1024 MB, GDDR5, 256 bit-1200 MHz",1280,radeon hd 6930,GPU,6113e2758236d84cbf44a610
+2.8 GHz (4 cores),1279,amd phenom ii x4 820,CPU,6113e2758236d84cbf44a611
+2.8 GHz (4 cores),1276,amd phenom ii x4 925,CPU,6113e2758236d84cbf44a612
+2.8 GHz (4 cores),1276,amd athlon ii x4 641,CPU,6113e2758236d84cbf44a613
+3.2 GHz (2 cores),1275,intel pentium g3420,CPU,6113e2758236d84cbf44a614
+2.0 GHz (2 cores),1272,intel core i5-4310u,CPU,6113e2758236d84cbf44a615
+3.2 GHz (4 cores),1272,amd a8-5500b,CPU,6113e2758236d84cbf44a616
+2.8 GHz (2 cores),1269,intel celeron g3900,CPU,6113e2758236d84cbf44a617
+1.7 GHz (4 cores),1267,intel core i7-740qm,CPU,6113e2758236d84cbf44a618
+1.7 GHz (2 cores),1265,intel core i7-4650u,CPU,6113e2758236d84cbf44a619
+1.8 GHz (2 cores),1264,intel core i7-4500u,CPU,6113e2758236d84cbf44a61a
+2.7 GHz (2 cores),1264,intel core i5-2390t,CPU,6113e2758236d84cbf44a61b
+3.0 GHz (4 cores),1264,intel core 2 extreme q6850,CPU,6113e2758236d84cbf44a61c
+3.0 GHz (4 cores),1263,amd phenom ii x4 940 black edition,CPU,6113e2758236d84cbf44a61d
+2.8 GHz (4 cores),1261,intel core 2 quad q9505,CPU,6113e2758236d84cbf44a61e
+2.9 GHz (2 cores),1261,intel celeron g3930,CPU,6113e2758236d84cbf44a61f
+2.8 GHz (4 cores),1259,amd phenom ii x4 830,CPU,6113e2758236d84cbf44a620
+1.9 GHz (4 cores),1258,intel core i7-840qm,CPU,6113e2758236d84cbf44a621
+2.7 GHz (4 cores),1257,intel core 2 quad q9450,CPU,6113e2758236d84cbf44a622
+3.3 GHz (2 cores),1255,intel core i3-2120,CPU,6113e2758236d84cbf44a623
+2.7 GHz (2 cores),1255,intel core i7-2620m,CPU,6113e2758236d84cbf44a624
+1.6 GHz (2 cores),1255,intel core i5-5250u,CPU,6113e2758236d84cbf44a625
+3.6 GHz (4 cores),1251,amd pro a10-8750b,CPU,6113e2758236d84cbf44a626
+3.2 GHz (4 cores),1249,amd phenom ii x4 840,CPU,6113e2758236d84cbf44a627
+2.6 GHz (2 cores),1249,intel core i5-3230m,CPU,6113e2758236d84cbf44a628
+1.5 GHz (4 cores),1248,intel celeron j4105,CPU,6113e2758236d84cbf44a629
+3.0 GHz (4 cores),1243,amd athlon ii x4 640,CPU,6113e2758236d84cbf44a62a
+2.9 GHz (2 cores),1241,intel pentium g4400t,CPU,6113e2758236d84cbf44a62b
+2.9 GHz (4 cores),1239,amd a8-3850,CPU,6113e2758236d84cbf44a62c
+2.5 GHz (4 cores),1238,intel core 2 extreme q9300,CPU,6113e2758236d84cbf44a62d
+3.2 GHz (2 cores),1238,intel core i5-655k,CPU,6113e2758236d84cbf44a62e
+1.9 GHz (2 cores),1238,intel core i5-4300u,CPU,6113e2758236d84cbf44a62f
+3.6 GHz (2 cores),1237,intel core i5-680,CPU,6113e2758236d84cbf44a630
+2.5 GHz (4 cores),1237,intel xeon e5420,CPU,6113e2758236d84cbf44a631
+2.6 GHz (4 cores),1236,amd phenom ii x4 910,CPU,6113e2758236d84cbf44a632
+2.5 GHz (2 cores),1235,intel core i5-3210m,CPU,6113e2758236d84cbf44a633
+2.8 GHz (4 cores),1234,intel core 2 quad q9500,CPU,6113e2758236d84cbf44a634
+3.1 GHz (4 cores),1233,amd athlon ii x4 645,CPU,6113e2758236d84cbf44a635
+2.5 GHz (2 cores),1232,intel core i3-4100m,CPU,6113e2758236d84cbf44a636
+2.0 GHz (2 cores),1230,intel core i7-3667u,CPU,6113e2758236d84cbf44a637
+2.3 GHz (2 cores),1227,intel core i3-7020u,CPU,6113e2758236d84cbf44a638
+2.0 GHz (2 cores),1225,intel core i7-3537u,CPU,6113e2758236d84cbf44a639
+3.3 GHz (2 cores),1223,intel pentium g3260,CPU,6113e2758236d84cbf44a63a
+2.2 GHz (2 cores),1222,intel core i5-5200u,CPU,6113e2758236d84cbf44a63b
+3.2 GHz (4 cores),1215,amd a8-5500,CPU,6113e2758236d84cbf44a63c
+3.2 GHz (2 cores),1210,intel pentium g3250,CPU,6113e2758236d84cbf44a63d
+2.6 GHz (2 cores),1208,intel core i5-2540m,CPU,6113e2758236d84cbf44a63e
+3.1 GHz (2 cores),1205,intel core i3-2105,CPU,6113e2758236d84cbf44a63f
+2.9 GHz (2 cores),1204,intel core i3-3240t,CPU,6113e2758236d84cbf44a640
+1.1 GHz (4 cores),1203,intel pentium silver n5000,CPU,6113e2758236d84cbf44a641
+2.6 GHz (4 cores),1202,amd phenom ii x4 810,CPU,6113e2758236d84cbf44a642
+1.4 GHz (2 cores),1196,intel core i5-4260u,CPU,6113e2758236d84cbf44a643
+3.1 GHz (2 cores),1195,intel core i3-2100,CPU,6113e2758236d84cbf44a644
+2.8 GHz (4 cores),1194,intel xeon e5462,CPU,6113e2758236d84cbf44a645
+2.5 GHz (4 cores),1194,amd a8-3820,CPU,6113e2758236d84cbf44a646
+2.6 GHz (4 cores),1193,amd a6-3650,CPU,6113e2758236d84cbf44a647
+2.7 GHz (4 cores),1192,amd a6-3670,CPU,6113e2758236d84cbf44a648
+2.8 GHz (4 cores),1191,amd a12-9730p,CPU,6113e2758236d84cbf44a649
+2.7 GHz (4 cores),1186,intel core 2 quad q9400,CPU,6113e2758236d84cbf44a64a
+3.0 GHz (4 cores),1185,amd phenom ii x4 960t,CPU,6113e2758236d84cbf44a64b
+2.7 GHz (4 cores),1184,amd fx-7600p,CPU,6113e2758236d84cbf44a64c
+2.9 GHz (4 cores),1173,amd athlon ii x4 635,CPU,6113e2758236d84cbf44a64d
+2.3 GHz (2 cores),1172,intel pentium 4415u,CPU,6113e2758236d84cbf44a64e
+2.1 GHz (4 cores),1171,intel xeon e5506,CPU,6113e2758236d84cbf44a64f
+2.5 GHz (2 cores),1166,intel core i5-2520m,CPU,6113e2758236d84cbf44a650
+1.7 GHz (4 cores),1165,intel core i7-820qm,CPU,6113e2758236d84cbf44a651
+3.3 GHz (2 cores),1164,intel core i5-660,CPU,6113e2758236d84cbf44a652
+2.3 GHz (2 cores),1160,intel pentium gold 4417u,CPU,6113e2758236d84cbf44a653
+2.1 GHz (4 cores),1157,amd fx-8800p,CPU,6113e2758236d84cbf44a654
+3.2 GHz (4 cores),1154,amd athlon x4 740,CPU,6113e2758236d84cbf44a655
+3.1 GHz (2 cores),1154,intel pentium g3240,CPU,6113e2758236d84cbf44a656
+2.8 GHz (2 cores),1153,intel core i3-3220t,CPU,6113e2758236d84cbf44a657
+"1506 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",1152,geforce gtx 1060 3 gb,GPU,6113e2758236d84cbf44a658
+"1506 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",1152,geforce gtx 1060 3 gb gp104,GPU,6113e2758236d84cbf44a659
+"980 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1152,geforce gtx 760,GPU,6113e2758236d84cbf44a65a
+"823 MHz | 1536 MB, GDDR5, 192 bit-1400 MHz",1152,geforce gtx 760 oem,GPU,6113e2758236d84cbf44a65b
+"823 MHz | 3 GB, GDDR5, 256 bit-1400 MHz",1152,geforce gtx 760 oem rebrand,GPU,6113e2758236d84cbf44a65c
+"1006 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",1152,geforce gtx 760 x2,GPU,6113e2758236d84cbf44a65d
+"823 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1152,geforce gtx 660 oem,GPU,6113e2758236d84cbf44a65e
+"823 MHz | 1536 MB, GDDR5, 192 bit-1400 MHz",1152,geforce gtx 660 oem,GPU,6113e2758236d84cbf44a65f
+"800 MHz | 8 GB, GDDR5, 256 bit-1375 MHz",1152,playstation 4 slim gpu,GPU,6113e2758236d84cbf44a660
+"800 MHz | 8 GB, GDDR5, 256 bit-1375 MHz",1152,playstation 4 gpu,GPU,6113e2758236d84cbf44a661
+1.7 GHz (2 cores),1151,intel core i5-4210u,CPU,6113e2758236d84cbf44a662
+1.3 GHz (2 cores),1150,intel core i5-4250u,CPU,6113e2758236d84cbf44a663
+2.7 GHz (4 cores),1148,intel core 2 quad q6700,CPU,6113e2758236d84cbf44a664
+2.4 GHz (4 cores),1147,amd a8-3800,CPU,6113e2758236d84cbf44a665
+2.5 GHz (4 cores),1147,amd phenom ii x4 905e,CPU,6113e2758236d84cbf44a666
+2.7 GHz (4 cores),1145,intel xeon e5430,CPU,6113e2758236d84cbf44a667
+1.6 GHz (4 cores),1144,intel core i7-720qm,CPU,6113e2758236d84cbf44a668
+2.4 GHz (2 cores),1140,intel core i5-2435m,CPU,6113e2758236d84cbf44a669
+3.2 GHz (2 cores),1139,intel core i5-650,CPU,6113e2758236d84cbf44a66a
+2.9 GHz (4 cores),1138,amd phenom ii x4 b35,CPU,6113e2758236d84cbf44a66b
+2.2 GHz (2 cores),1137,intel core i3-5020u,CPU,6113e2758236d84cbf44a66c
+2.4 GHz (2 cores),1136,intel core i3-4000m,CPU,6113e2758236d84cbf44a66d
+2.8 GHz (4 cores),1132,amd athlon ii x4 630,CPU,6113e2758236d84cbf44a66e
+2.3 GHz (4 cores),1130,intel xeon e5410,CPU,6113e2758236d84cbf44a66f
+3.0 GHz (2 cores),1124,intel pentium g3220,CPU,6113e2758236d84cbf44a670
+2.6 GHz (4 cores),1123,amd athlon ii x4 620,CPU,6113e2758236d84cbf44a671
+2.5 GHz (2 cores),1123,intel core i5-2450m,CPU,6113e2758236d84cbf44a672
+1.6 GHz (2 cores),1120,intel core i5-4200u,CPU,6113e2758236d84cbf44a673
+"900 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1120,radeon hd 6870 x2,GPU,6113e2758236d84cbf44a674
+"900 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",1120,radeon hd 6870,GPU,6113e2758236d84cbf44a675
+1.9 GHz (2 cores),1117,intel core i7-3517u,CPU,6113e2758236d84cbf44a676
+2.7 GHz (4 cores),1116,intel core 2 quad q8400,CPU,6113e2758236d84cbf44a677
+2.1 GHz (2 cores),1116,intel core i7-3687u,CPU,6113e2758236d84cbf44a678
+3.3 GHz (2 cores),1113,intel core i3-560,CPU,6113e2758236d84cbf44a679
+2.5 GHz (4 cores),1110,intel xeon l5420,CPU,6113e2758236d84cbf44a67a
+1.1 GHz (4 cores),1109,intel celeron n4100,CPU,6113e2758236d84cbf44a67b
+2.5 GHz (2 cores),1103,intel core i3-5157u,CPU,6113e2758236d84cbf44a67c
+1.8 GHz (2 cores),1097,intel core i5-3427u,CPU,6113e2758236d84cbf44a67d
+2.0 GHz (2 cores),1097,intel core i3-6006u,CPU,6113e2758236d84cbf44a67e
+2.7 GHz (4 cores),1097,amd a12-9720p,CPU,6113e2758236d84cbf44a67f
+2.5 GHz (4 cores),1096,intel core 2 quad q9300,CPU,6113e2758236d84cbf44a680
+2.3 GHz (2 cores),1096,intel xeon e3-1220l v2,CPU,6113e2758236d84cbf44a681
+3.8 GHz (4 cores),1094,amd a10-5800b,CPU,6113e2758236d84cbf44a682
+2.6 GHz (4 cores),1086,amd phenom x4 9950,CPU,6113e2758236d84cbf44a683
+2.1 GHz (4 cores),1086,intel xeon e5606,CPU,6113e2758236d84cbf44a684
+2.5 GHz (4 cores),1084,amd phenom x4 9850,CPU,6113e2758236d84cbf44a685
+2.1 GHz (2 cores),1081,intel pentium 4405u,CPU,6113e2758236d84cbf44a686
+2.4 GHz (2 cores),1075,intel core i5-2430m,CPU,6113e2758236d84cbf44a687
+2.1 GHz (4 cores),1075,amd pro a12-8800b,CPU,6113e2758236d84cbf44a688
+2.3 GHz (2 cores),1074,intel core i5-2410m,CPU,6113e2758236d84cbf44a689
+2.5 GHz (4 cores),1073,amd pro a12-8830b,CPU,6113e2758236d84cbf44a68a
+3.4 GHz (3 cores),1070,amd athlon ii x3 460,CPU,6113e2758236d84cbf44a68b
+2.7 GHz (4 cores),1068,intel xeon x5355,CPU,6113e2758236d84cbf44a68c
+3.3 GHz (2 cores),1067,intel core i5-661,CPU,6113e2758236d84cbf44a68d
+2.6 GHz (2 cores),1066,intel core i3-2120t,CPU,6113e2758236d84cbf44a68e
+2.1 GHz (4 cores),1065,amd a6-3600,CPU,6113e2758236d84cbf44a68f
+2.3 GHz (4 cores),1062,intel xeon e5345,CPU,6113e2758236d84cbf44a690
+3.2 GHz (2 cores),1060,intel pentium g2130,CPU,6113e2758236d84cbf44a691
+2.1 GHz (2 cores),1057,intel core i3-5015u,CPU,6113e2758236d84cbf44a692
+2.0 GHz (4 cores),1055,intel xeon e5504,CPU,6113e2758236d84cbf44a693
+3.1 GHz (2 cores),1055,intel pentium g2120,CPU,6113e2758236d84cbf44a694
+2.4 GHz (4 cores),1055,intel xeon x3220,CPU,6113e2758236d84cbf44a695
+3.2 GHz (2 cores),1054,intel core i3-550,CPU,6113e2758236d84cbf44a696
+2.5 GHz (4 cores),1052,intel core 2 quad q8300,CPU,6113e2758236d84cbf44a697
+1.9 GHz (2 cores),1050,intel core i5-3437u,CPU,6113e2758236d84cbf44a698
+2.5 GHz (4 cores),1049,amd a10-9620p,CPU,6113e2758236d84cbf44a699
+1.8 GHz (2 cores),1046,intel core i5-3337u,CPU,6113e2758236d84cbf44a69a
+2.1 GHz (2 cores),1040,intel core i3-5010u,CPU,6113e2758236d84cbf44a69b
+2.7 GHz (4 cores),1039,amd fx-9800p,CPU,6113e2758236d84cbf44a69c
+3.2 GHz (3 cores),1035,amd athlon ii x3 450,CPU,6113e2758236d84cbf44a69d
+2.4 GHz (4 cores),1031,intel core 2 quad q6600,CPU,6113e2758236d84cbf44a69e
+2.1 GHz (4 cores),1031,amd a8-5557m,CPU,6113e2758236d84cbf44a69f
+2.4 GHz (4 cores),1029,amd pro a10-8730b,CPU,6113e2758236d84cbf44a6a0
+2.5 GHz (2 cores),1026,intel core i3-3120m,CPU,6113e2758236d84cbf44a6a1
+2.3 GHz (2 cores),1024,intel core i5-2415m,CPU,6113e2758236d84cbf44a6a2
+"1076 MHz | 5 GB, GDDR5, 160 bit-1752 MHz",1024,quadro p2000,GPU,6113e2758236d84cbf44a6a3
+"937 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",1024,geforce gtx 950 oem,GPU,6113e2758236d84cbf44a6a4
+"823 MHz | 4 GB, GDDR5, 256 bit-1253 MHz",1024,quadro m3000 se,GPU,6113e2758236d84cbf44a6a5
+"1127 MHz | 2 GB, GDDR5, 128 bit-1753 MHz",1024,geforce gtx 960,GPU,6113e2758236d84cbf44a6a6
+"1176 MHz | 4 GB, GDDR5, 128 bit-1753 MHz",1024,geforce gtx 960 oem,GPU,6113e2758236d84cbf44a6a7
+"872 MHz | 4 GB, GDDR5, 128 bit-1375 MHz",1024,tesla m4,GPU,6113e2758236d84cbf44a6a8
+"2200 MHz | 4 GB, GDDR6, 64 bit-2000 MHz",1024,radeon rx 6300 xt,GPU,6113e2758236d84cbf44a6a9
+"1175 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1024,radeon rx 560x,GPU,6113e2758236d84cbf44a6aa
+"1090 MHz | 2 GB, GDDR5, 128 bit-1750 MHz",1024,radeon rx 460 1024sp,GPU,6113e2758236d84cbf44a6ab
+"1175 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",1024,radeon rx 560,GPU,6113e2758236d84cbf44a6ac
+"1125 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",1024,radeon pro v5300x,GPU,6113e2758236d84cbf44a6ad
+"1125 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",1024,radeon pro wx 4100,GPU,6113e2758236d84cbf44a6ae
+"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,radeon r7 370,GPU,6113e2758236d84cbf44a6af
+"900 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1024,radeon r9 270 1024sp,GPU,6113e2758236d84cbf44a6b0
+"925 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,radeon r9 370 1024sp,GPU,6113e2758236d84cbf44a6b1
+"900 MHz | 2 GB, GDDR5, 256 bit-1400 MHz",1024,radeon r7 265,GPU,6113e2758236d84cbf44a6b2
+"860 MHz | 2 GB, GDDR5, 256 bit-1200 MHz",1024,radeon hd 7850,GPU,6113e2758236d84cbf44a6b3
+1.7 GHz (2 cores),1022,intel core i5-3317u,CPU,6113e2758236d84cbf44a6b4
+2.4 GHz (4 cores),1018,amd a10-9600p,CPU,6113e2758236d84cbf44a6b5
+2.8 GHz (2 cores),1018,intel pentium g3250t,CPU,6113e2758236d84cbf44a6b6
+2.8 GHz (2 cores),1016,intel celeron g1840,CPU,6113e2758236d84cbf44a6b7
+3.1 GHz (2 cores),1014,intel core i3-540,CPU,6113e2758236d84cbf44a6b8
+3.0 GHz (2 cores),1009,intel pentium g2030,CPU,6113e2758236d84cbf44a6b9
+2.5 GHz (4 cores),1008,amd a10-7400p,CPU,6113e2758236d84cbf44a6ba
+2.7 GHz (2 cores),1003,intel core i5-580m,CPU,6113e2758236d84cbf44a6bb
+2.9 GHz (2 cores),1002,intel pentium g850,CPU,6113e2758236d84cbf44a6bc
+2.3 GHz (4 cores),1001,intel core 2 quad q8200,CPU,6113e2758236d84cbf44a6bd
+2.8 GHz (2 cores),1000,intel core i7-640m,CPU,6113e2758236d84cbf44a6be
+2.0 GHz (2 cores),999,intel core i3-5005u,CPU,6113e2758236d84cbf44a6bf
+1.5 GHz (4 cores),996,intel celeron j3455,CPU,6113e2758236d84cbf44a6c0
+2.5 GHz (4 cores),994,amd a10-5750m,CPU,6113e2758236d84cbf44a6c1
+1.5 GHz (4 cores),991,intel pentium j4205,CPU,6113e2758236d84cbf44a6c2
+2.1 GHz (4 cores),990,amd phenom ii x4 n950,CPU,6113e2758236d84cbf44a6c3
+2.9 GHz (2 cores),989,intel pentium g2020,CPU,6113e2758236d84cbf44a6c4
+3.3 GHz (3 cores),988,amd athlon ii x3 455,CPU,6113e2758236d84cbf44a6c5
+2.3 GHz (4 cores),986,amd phenom x4 9600b,CPU,6113e2758236d84cbf44a6c6
+2.8 GHz (3 cores),984,amd phenom ii x3 720,CPU,6113e2758236d84cbf44a6c7
+2.6 GHz (4 cores),984,amd athlon ii x4 631,CPU,6113e2758236d84cbf44a6c8
+1.7 GHz (2 cores),981,intel core i7-2637m,CPU,6113e2758236d84cbf44a6c9
+2.7 GHz (4 cores),981,amd pro a12-9800b,CPU,6113e2758236d84cbf44a6ca
+2.7 GHz (2 cores),980,intel celeron g1820,CPU,6113e2758236d84cbf44a6cb
+2.7 GHz (2 cores),976,intel core i7-620m,CPU,6113e2758236d84cbf44a6cc
+2.2 GHz (4 cores),975,amd a6-3620,CPU,6113e2758236d84cbf44a6cd
+3.0 GHz (2 cores),967,intel pentium g860,CPU,6113e2758236d84cbf44a6ce
+3.4 GHz (2 cores),967,intel pentium g3450,CPU,6113e2758236d84cbf44a6cf
+2.7 GHz (2 cores),961,intel pentium g3240t,CPU,6113e2758236d84cbf44a6d0
+3.1 GHz (3 cores),960,amd athlon ii x3 445,CPU,6113e2758236d84cbf44a6d1
+1.9 GHz (2 cores),960,intel core i3-4025u,CPU,6113e2758236d84cbf44a6d2
+"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",960,geforce gtx 660 rev. 2,GPU,6113e2758236d84cbf44a6d3
+"1033 MHz | 2 GB, GDDR5, 256 bit-1502 MHz",960,geforce gtx 750 ti oem,GPU,6113e2758236d84cbf44a6d4
+"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",960,geforce gtx 660,GPU,6113e2758236d84cbf44a6d5
+"800 MHz | 2 GB, GDDR5, 256 bit-1050 MHz",960,radeon hd 6850 x2,GPU,6113e2758236d84cbf44a6d6
+"775 MHz | 1024 MB, GDDR5, 256 bit-1000 MHz",960,radeon hd 6850,GPU,6113e2758236d84cbf44a6d7
+2.4 GHz (2 cores),959,intel core i3-3110m,CPU,6113e2758236d84cbf44a6d8
+800 MHz (2 cores),950,intel core m-5y10,CPU,6113e2758236d84cbf44a6d9
+1.8 GHz (4 cores),950,amd pro a10-8700b,CPU,6113e2758236d84cbf44a6da
+1.9 GHz (2 cores),949,intel core i3-4030u,CPU,6113e2758236d84cbf44a6db
+2.3 GHz (4 cores),948,amd a10-4600m,CPU,6113e2758236d84cbf44a6dc
+2.2 GHz (4 cores),945,amd phenom x4 9550,CPU,6113e2758236d84cbf44a6dd
+1.8 GHz (4 cores),944,amd a10-8700p,CPU,6113e2758236d84cbf44a6de
+1.1 GHz (4 cores),944,intel pentium n4200,CPU,6113e2758236d84cbf44a6df
+1.9 GHz (4 cores),939,amd a8-3530mx,CPU,6113e2758236d84cbf44a6e0
+2.9 GHz (2 cores),937,intel core i3-530,CPU,6113e2758236d84cbf44a6e1
+800 MHz (2 cores),937,intel core m-5y10c,CPU,6113e2758236d84cbf44a6e2
+3.1 GHz (2 cores),936,intel pentium g870,CPU,6113e2758236d84cbf44a6e3
+2.9 GHz (2 cores),935,intel pentium g645,CPU,6113e2758236d84cbf44a6e4
+2.4 GHz (4 cores),933,amd phenom x4 9750,CPU,6113e2758236d84cbf44a6e5
+2.8 GHz (2 cores),931,intel pentium g2010,CPU,6113e2758236d84cbf44a6e6
+3.0 GHz (3 cores),927,amd athlon ii x3 440,CPU,6113e2758236d84cbf44a6e7
+2.8 GHz (2 cores),927,intel pentium g840,CPU,6113e2758236d84cbf44a6e8
+1.8 GHz (2 cores),926,intel core i7-2677m,CPU,6113e2758236d84cbf44a6e9
+1.1 GHz (2 cores),926,intel core m-5y70,CPU,6113e2758236d84cbf44a6ea
+2.6 GHz (2 cores),923,intel pentium g3220t,CPU,6113e2758236d84cbf44a6eb
+2.5 GHz (2 cores),921,intel celeron g1840t,CPU,6113e2758236d84cbf44a6ec
+2.7 GHz (2 cores),919,intel core i5-560m,CPU,6113e2758236d84cbf44a6ed
+1.6 GHz (4 cores),912,intel atom x7-e3950,CPU,6113e2758236d84cbf44a6ee
+2.7 GHz (2 cores),911,intel celeron g1620,CPU,6113e2758236d84cbf44a6ef
+1.1 GHz (2 cores),911,intel core m-5y51,CPU,6113e2758236d84cbf44a6f0
+2.5 GHz (2 cores),910,intel pentium 2030m,CPU,6113e2758236d84cbf44a6f1
+2.6 GHz (2 cores),909,intel pentium g2030t,CPU,6113e2758236d84cbf44a6f2
+2.2 GHz (4 cores),904,amd phenom ii x4 n970,CPU,6113e2758236d84cbf44a6f3
+2.7 GHz (3 cores),903,amd athlon ii x3 425,CPU,6113e2758236d84cbf44a6f4
+2.9 GHz (3 cores),903,amd athlon ii x3 435,CPU,6113e2758236d84cbf44a6f5
+2.4 GHz (4 cores),903,amd pro a8-9600b,CPU,6113e2758236d84cbf44a6f6
+1.1 GHz (4 cores),896,intel celeron n3450,CPU,6113e2758236d84cbf44a6f7
+"1065 MHz | 4 GB, GDDR6, 128 bit-1250 MHz",896,t1000,GPU,6113e2758236d84cbf44a6f8
+"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,geforce gtx 1650 gddr6,GPU,6113e2758236d84cbf44a6f9
+"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,geforce gtx 1650 tu106,GPU,6113e2758236d84cbf44a6fa
+"1410 MHz | 4 GB, GDDR6, 128 bit-1500 MHz",896,geforce gtx 1650 tu116,GPU,6113e2758236d84cbf44a6fb
+"1485 MHz | 4 GB, GDDR5, 128 bit-2001 MHz",896,geforce gtx 1650,GPU,6113e2758236d84cbf44a6fc
+"935 MHz | 8 GB, DDR3, 256 bit-1066 MHz",896,aerobox gpu,GPU,6113e2758236d84cbf44a6fd
+"1090 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",896,radeon rx 560dx,GPU,6113e2758236d84cbf44a6fe
+"1090 MHz | 4 GB, GDDR5, 128 bit-1750 MHz",896,radeon rx 560 896sp,GPU,6113e2758236d84cbf44a6ff
+"1090 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",896,radeon rx 560d,GPU,6113e2758236d84cbf44a700
+"1090 MHz | 2 GB, GDDR5, 128 bit-1750 MHz",896,radeon rx 460,GPU,6113e2758236d84cbf44a701
+"1100 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",896,radeon r7 360 896sp,GPU,6113e2758236d84cbf44a702
+"1000 MHz | 1024 MB, GDDR5, 128 bit-1500 MHz",896,radeon hd 7790,GPU,6113e2758236d84cbf44a703
+"1050 MHz | 1024 MB, GDDR5, 128 bit-1500 MHz",896,radeon hd 8770 oem,GPU,6113e2758236d84cbf44a704
+"1100 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",896,radeon r7 260x,GPU,6113e2758236d84cbf44a705
+"1100 MHz | 1024 MB, GDDR5, 128 bit-1625 MHz",896,radeon r9 260 oem,GPU,6113e2758236d84cbf44a706
+2.1 GHz (4 cores),892,amd a8-5550m,CPU,6113e2758236d84cbf44a707
+2.5 GHz (2 cores),883,intel core i5-540m,CPU,6113e2758236d84cbf44a708
+1.7 GHz (2 cores),883,intel core i5-2557m,CPU,6113e2758236d84cbf44a709
+2.5 GHz (4 cores),881,amd a10-5757m,CPU,6113e2758236d84cbf44a70a
+2.4 GHz (2 cores),877,intel core i3-2370m,CPU,6113e2758236d84cbf44a70b
+2.6 GHz (2 cores),877,intel celeron g1610,CPU,6113e2758236d84cbf44a70c
+2.1 GHz (4 cores),873,amd a10 pro-7350b,CPU,6113e2758236d84cbf44a70d
+2.5 GHz (2 cores),872,intel pentium g2020t,CPU,6113e2758236d84cbf44a70e
+1.9 GHz (2 cores),868,intel pentium 3825u,CPU,6113e2758236d84cbf44a70f
+2.1 GHz (4 cores),863,amd fx-7500,CPU,6113e2758236d84cbf44a710
+2.7 GHz (2 cores),861,intel core i5-480m,CPU,6113e2758236d84cbf44a711
+2.4 GHz (2 cores),860,intel core i5-520m,CPU,6113e2758236d84cbf44a712
+2.3 GHz (4 cores),856,amd phenom x4 9650,CPU,6113e2758236d84cbf44a713
+2.7 GHz (2 cores),854,intel pentium g630,CPU,6113e2758236d84cbf44a714
+1.6 GHz (2 cores),852,intel pentium 4415y,CPU,6113e2758236d84cbf44a715
+1.7 GHz (2 cores),851,intel core i3-4010u,CPU,6113e2758236d84cbf44a716
+1.7 GHz (2 cores),849,intel core i3-4005u,CPU,6113e2758236d84cbf44a717
+2.3 GHz (2 cores),847,intel core i3-2350m,CPU,6113e2758236d84cbf44a718
+1.5 GHz (2 cores),846,intel core i5-3339y,CPU,6113e2758236d84cbf44a719
+1.5 GHz (2 cores),840,intel core i5-4210y,CPU,6113e2758236d84cbf44a71a
+2.3 GHz (3 cores),833,amd phenom x3 8600b,CPU,6113e2758236d84cbf44a71b
+1.8 GHz (2 cores),832,intel celeron 3865u,CPU,6113e2758236d84cbf44a71c
+2.1 GHz (4 cores),831,amd a10-5745m,CPU,6113e2758236d84cbf44a71d
+2.6 GHz (3 cores),829,amd phenom ii x3 710,CPU,6113e2758236d84cbf44a71e
+2.5 GHz (2 cores),828,intel core i5-460m,CPU,6113e2758236d84cbf44a71f
+2.3 GHz (2 cores),828,intel core i3-2348m,CPU,6113e2758236d84cbf44a720
+1.6 GHz (4 cores),824,amd a8-3520m,CPU,6113e2758236d84cbf44a721
+2.4 GHz (2 cores),820,intel core i5-450m,CPU,6113e2758236d84cbf44a722
+2.4 GHz (2 cores),818,intel pentium 2020m,CPU,6113e2758236d84cbf44a723
+2.8 GHz (2 cores),811,intel pentium g640,CPU,6113e2758236d84cbf44a724
+2.2 GHz (2 cores),809,intel core i3-2330m,CPU,6113e2758236d84cbf44a725
+2.0 GHz (4 cores),808,amd athlon 5350,CPU,6113e2758236d84cbf44a726
+2.1 GHz (2 cores),807,intel core i7-640lm,CPU,6113e2758236d84cbf44a727
+2.7 GHz (2 cores),805,intel core i3-390m,CPU,6113e2758236d84cbf44a728
+2.6 GHz (2 cores),805,intel pentium g620,CPU,6113e2758236d84cbf44a729
+2.3 GHz (3 cores),803,amd phenom x3 8650,CPU,6113e2758236d84cbf44a72a
+1.9 GHz (4 cores),803,amd a8-4500m,CPU,6113e2758236d84cbf44a72b
+1.9 GHz (4 cores),803,amd a10-7300,CPU,6113e2758236d84cbf44a72c
+2.5 GHz (2 cores),800,intel pentium g645t,CPU,6113e2758236d84cbf44a72d
+"840 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",800,radeon hd 7720 oem,GPU,6113e2758236d84cbf44a72e
+"850 MHz | 1024 MB, GDDR5, 128 bit-1200 MHz",800,radeon hd 6770,GPU,6113e2758236d84cbf44a72f
+"840 MHz | 1024 MB, GDDR5, 256 bit-1050 MHz",800,radeon hd 6790,GPU,6113e2758236d84cbf44a730
+3.8 GHz (2 cores),799,amd a4-7300,CPU,6113e2758236d84cbf44a731
+2.4 GHz (2 cores),797,intel celeron g530,CPU,6113e2758236d84cbf44a732
+2.0 GHz (2 cores),796,intel celeron 3955u,CPU,6113e2758236d84cbf44a733
+2.2 GHz (2 cores),794,intel core i3-2328m,CPU,6113e2758236d84cbf44a734
+2.1 GHz (2 cores),792,intel core i3-2310m,CPU,6113e2758236d84cbf44a735
+1.9 GHz (2 cores),791,intel core i3-3227u,CPU,6113e2758236d84cbf44a736
+2.6 GHz (2 cores),787,intel celeron g550,CPU,6113e2758236d84cbf44a737
+3.1 GHz (2 cores),786,intel core 2 extreme x9100,CPU,6113e2758236d84cbf44a738
+2.1 GHz (4 cores),785,intel atom c3538,CPU,6113e2758236d84cbf44a739
+1.5 GHz (4 cores),784,amd a8-3500m,CPU,6113e2758236d84cbf44a73a
+3.5 GHz (2 cores),784,amd pro a6-9500,CPU,6113e2758236d84cbf44a73b
+1.8 GHz (4 cores),783,amd phenom ii x4 p960,CPU,6113e2758236d84cbf44a73c
+2.0 GHz (4 cores),783,amd a10-4655m,CPU,6113e2758236d84cbf44a73d
+3.3 GHz (2 cores),782,intel core 2 duo e8600,CPU,6113e2758236d84cbf44a73e
+3.2 GHz (2 cores),777,intel core 2 duo e8500,CPU,6113e2758236d84cbf44a73f
+2.3 GHz (2 cores),775,intel core i5-430m,CPU,6113e2758236d84cbf44a740
+2.5 GHz (2 cores),774,intel core i3-380m,CPU,6113e2758236d84cbf44a741
+2.3 GHz (2 cores),773,intel pentium g630t,CPU,6113e2758236d84cbf44a742
+1.5 GHz (2 cores),768,intel core i3-4020y,CPU,6113e2758236d84cbf44a743
+1.6 GHz (4 cores),768,amd pro a8-8600b,CPU,6113e2758236d84cbf44a744
+"1392 MHz | 3 GB, GDDR5, 96 bit-1752 MHz",768,geforce gtx 1050 3 gb,GPU,6113e2758236d84cbf44a745
+"1354 MHz | 3 GB, GDDR5, 192 bit-2002 MHz",768,p106-090,GPU,6113e2758236d84cbf44a746
+"1291 MHz | 4 GB, GDDR5, 128 bit-1752 MHz",768,geforce gtx 1050 ti,GPU,6113e2758236d84cbf44a747
+"1026 MHz | 2 GB, GDDR5, 128 bit-1653 MHz",768,geforce gtx 950 low power,GPU,6113e2758236d84cbf44a748
+"796 MHz | 4 GB, GDDR5, 128 bit-1653 MHz",768,quadro m2000,GPU,6113e2758236d84cbf44a749
+"1024 MHz | 2 GB, GDDR5, 128 bit-1653 MHz",768,geforce gtx 950,GPU,6113e2758236d84cbf44a74a
+"980 MHz | 2 GB, GDDR5, 192 bit-1502 MHz",768,geforce gtx 650 ti boost,GPU,6113e2758236d84cbf44a74b
+"928 MHz | 2 GB, GDDR5, 128 bit-1350 MHz",768,geforce gtx 650 ti oem,GPU,6113e2758236d84cbf44a74c
+"810 MHz | 3 GB, GDDR5, 192 bit-1404 MHz",768,quadro k4000,GPU,6113e2758236d84cbf44a74d
+"928 MHz | 1024 MB, GDDR5, 128 bit-1350 MHz",768,geforce gtx 650 ti,GPU,6113e2758236d84cbf44a74e
+"1050 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",768,radeon rx 455 oem,GPU,6113e2758236d84cbf44a74f
+"914 MHz | 8 GB, DDR3, 256 bit-1066 MHz",768,xbox one s gpu,GPU,6113e2758236d84cbf44a750
+"930 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",768,firepro w4300,GPU,6113e2758236d84cbf44a751
+"1000 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,radeon r7 360,GPU,6113e2758236d84cbf44a752
+"1050 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,radeon r7 360e,GPU,6113e2758236d84cbf44a753
+"1000 MHz | 2 GB, GDDR5, 128 bit-1625 MHz",768,radeon r9 360 oem,GPU,6113e2758236d84cbf44a754
+"930 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",768,firepro w5100,GPU,6113e2758236d84cbf44a755
+"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,firepro r5000,GPU,6113e2758236d84cbf44a756
+"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,firepro w5000 dvi,GPU,6113e2758236d84cbf44a757
+"1000 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",768,radeon r7 260,GPU,6113e2758236d84cbf44a758
+"853 MHz | 8 GB, DDR3, 256 bit-1066 MHz",768,xbox one gpu,GPU,6113e2758236d84cbf44a759
+"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,firepro w4000,GPU,6113e2758236d84cbf44a75a
+"825 MHz | 2 GB, GDDR5, 256 bit-800 MHz",768,firepro w5000,GPU,6113e2758236d84cbf44a75b
+"800 MHz | 3 GB, GDDR5, 384 bit-1250 MHz",768,radeon hd 7950 monica bios 2,GPU,6113e2758236d84cbf44a75c
+"900 MHz | 8 GB, LPDDR4X, 128 bit-2133 MHz",768,h3c xg310,GPU,6113e2758236d84cbf44a75d
+"900 MHz | 3 GB, LPDDR4X, 96 bit-2133 MHz",768,xe dg1-sdv,GPU,6113e2758236d84cbf44a75e
+2.0 GHz (2 cores),765,intel celeron j4005,CPU,6113e2758236d84cbf44a75f
+1.6 GHz (2 cores),764,intel core i5-2467m,CPU,6113e2758236d84cbf44a760
+1.6 GHz (4 cores),764,intel pentium j3710,CPU,6113e2758236d84cbf44a761
+1.6 GHz (2 cores),762,intel core i5-4202y,CPU,6113e2758236d84cbf44a762
+2.2 GHz (4 cores),761,amd a8-7410,CPU,6113e2758236d84cbf44a763
+3.5 GHz (2 cores),760,amd a6-9500,CPU,6113e2758236d84cbf44a764
+1.1 GHz (2 cores),759,intel celeron n4020,CPU,6113e2758236d84cbf44a765
+3.1 GHz (2 cores),756,intel core 2 duo t9900,CPU,6113e2758236d84cbf44a766
+1.7 GHz (4 cores),755,amd a8-5545m,CPU,6113e2758236d84cbf44a767
+3.5 GHz (1 core),755,amd a6-7400k,CPU,6113e2758236d84cbf44a768
+3.3 GHz (2 cores),752,amd phenom ii x2 560 black edition,CPU,6113e2758236d84cbf44a769
+1.8 GHz (2 cores),752,intel core i3-3217u,CPU,6113e2758236d84cbf44a76a
+3.4 GHz (2 cores),748,amd athlon ii x2 270,CPU,6113e2758236d84cbf44a76b
+2.3 GHz (3 cores),747,amd phenom ii n870,CPU,6113e2758236d84cbf44a76c
+2.3 GHz (2 cores),745,intel pentium b970,CPU,6113e2758236d84cbf44a76d
+2.4 GHz (2 cores),745,intel pentium b980,CPU,6113e2758236d84cbf44a76e
+2.3 GHz (2 cores),743,intel core i3-350m,CPU,6113e2758236d84cbf44a76f
+2.1 GHz (3 cores),743,amd phenom ii x3 n830,CPU,6113e2758236d84cbf44a770
+1.6 GHz (2 cores),742,intel core i5-4300y,CPU,6113e2758236d84cbf44a771
+3.4 GHz (2 cores),741,amd phenom ii x2 565 black edition,CPU,6113e2758236d84cbf44a772
+2.4 GHz (2 cores),741,intel core i3-370m,CPU,6113e2758236d84cbf44a773
+1.4 GHz (4 cores),737,amd a6-3400m,CPU,6113e2758236d84cbf44a774
+3.9 GHz (2 cores),737,amd a6-6400k,CPU,6113e2758236d84cbf44a775
+2.8 GHz (2 cores),737,intel pentium g6950,CPU,6113e2758236d84cbf44a776
+2.5 GHz (2 cores),736,intel celeron g540,CPU,6113e2758236d84cbf44a777
+2.0 GHz (4 cores),736,amd a8-6410,CPU,6113e2758236d84cbf44a778
+1.8 GHz (4 cores),735,amd a8-7100,CPU,6113e2758236d84cbf44a779
+2.9 GHz (2 cores),732,intel core 2 duo t9800,CPU,6113e2758236d84cbf44a77a
+3.6 GHz (2 cores),728,amd a6-5400b,CPU,6113e2758236d84cbf44a77b
+2.0 GHz (4 cores),727,amd a6-7310,CPU,6113e2758236d84cbf44a77c
+1.9 GHz (2 cores),725,intel pentium 3805u,CPU,6113e2758236d84cbf44a77d
+"700 MHz | 2 GB, GDDR3, 128 bit-667 MHz",720,radeon hd 6770 green edition,GPU,6113e2758236d84cbf44a77e
+"700 MHz | 1024 MB, GDDR5, 128 bit-1150 MHz",720,radeon hd 6750,GPU,6113e2758236d84cbf44a77f
+1.5 GHz (4 cores),719,amd a6-3420m,CPU,6113e2758236d84cbf44a780
+2.2 GHz (4 cores),718,amd phenom x4 9500,CPU,6113e2758236d84cbf44a781
+2.1 GHz (3 cores),717,amd a6-3500,CPU,6113e2758236d84cbf44a782
+1.9 GHz (4 cores),717,amd a8 pro-7150b,CPU,6113e2758236d84cbf44a783
+3.0 GHz (2 cores),713,intel core 2 duo e8400,CPU,6113e2758236d84cbf44a784
+2.0 GHz (4 cores),713,intel celeron j1900,CPU,6113e2758236d84cbf44a785
+2.2 GHz (4 cores),712,intel pentium n3540,CPU,6113e2758236d84cbf44a786
+2.1 GHz (3 cores),711,amd phenom x3 8450,CPU,6113e2758236d84cbf44a787
+1.6 GHz (4 cores),704,intel atom x7-z8700,CPU,6113e2758236d84cbf44a788
+300 MHz | System Shared-System Shared,704,radeon rx vega 11,GPU,6113e2758236d84cbf44a789
+300 MHz | System Shared-System Shared,704,radeon vega 11,GPU,6113e2758236d84cbf44a78a
+300 MHz | System Shared-System Shared,704,radeon rx vega 11,GPU,6113e2758236d84cbf44a78b
+300 MHz | System Shared-System Shared,704,radeon rx vega 11 embedded,GPU,6113e2758236d84cbf44a78c
+300 MHz | System Shared-System Shared,704,radeon vega 11 embedded,GPU,6113e2758236d84cbf44a78d
+2.8 GHz (2 cores),703,intel core 2 duo e8300,CPU,6113e2758236d84cbf44a78e
+1.8 GHz (4 cores),697,amd a6-6310,CPU,6113e2758236d84cbf44a78f
+1.6 GHz (4 cores),695,intel atom x7-z8750,CPU,6113e2758236d84cbf44a790
+3.6 GHz (2 cores),692,amd a6-5400k,CPU,6113e2758236d84cbf44a791
+3.7 GHz (2 cores),691,amd a4-6300,CPU,6113e2758236d84cbf44a792
+3.1 GHz (2 cores),690,intel core 2 duo e7600,CPU,6113e2758236d84cbf44a793
+2.2 GHz (4 cores),690,intel pentium n3530,CPU,6113e2758236d84cbf44a794
+1.7 GHz (2 cores),689,intel pentium 3556u,CPU,6113e2758236d84cbf44a795
+1.5 GHz (2 cores),688,intel celeron 3965y,CPU,6113e2758236d84cbf44a796
+1.1 GHz (2 cores),687,intel celeron n4000,CPU,6113e2758236d84cbf44a797
+3.2 GHz (2 cores),687,amd athlon ii x2 b26,CPU,6113e2758236d84cbf44a798
+3.0 GHz (2 cores),685,amd phenom ii x2 545,CPU,6113e2758236d84cbf44a799
+2.7 GHz (2 cores),685,intel core 2 duo e8200,CPU,6113e2758236d84cbf44a79a
+2.8 GHz (2 cores),684,amd athlon ii x2 b22,CPU,6113e2758236d84cbf44a79b
+3.2 GHz (2 cores),682,intel pentium e6700,CPU,6113e2758236d84cbf44a79c
+1.7 GHz (2 cores),682,intel celeron 3215u,CPU,6113e2758236d84cbf44a79d
+2.4 GHz (4 cores),682,intel pentium a1020,CPU,6113e2758236d84cbf44a79e
+1.6 GHz (4 cores),680,intel atom z3795,CPU,6113e2758236d84cbf44a79f
+2.7 GHz (2 cores),675,intel core 2 duo e8135,CPU,6113e2758236d84cbf44a7a0
+2.8 GHz (2 cores),674,intel core 2 duo t9600,CPU,6113e2758236d84cbf44a7a1
+1.4 GHz (4 cores),674,intel atom x5-z8550,CPU,6113e2758236d84cbf44a7a2
+3.2 GHz (2 cores),673,amd phenom ii x2 555 black edition,CPU,6113e2758236d84cbf44a7a3
+2.8 GHz (2 cores),673,intel core 2 extreme x9000,CPU,6113e2758236d84cbf44a7a4
+1.8 GHz (4 cores),673,amd a4-7210,CPU,6113e2758236d84cbf44a7a5
+2.0 GHz (4 cores),673,amd a4 pro-3350b,CPU,6113e2758236d84cbf44a7a6
+3.1 GHz (2 cores),672,amd phenom ii x2 550 black edition,CPU,6113e2758236d84cbf44a7a7
+2.3 GHz (4 cores),672,amd phenom x4 9600,CPU,6113e2758236d84cbf44a7a8
+2.8 GHz (2 cores),671,amd athlon ii x2 240e,CPU,6113e2758236d84cbf44a7a9
+2.9 GHz (2 cores),670,intel core 2 duo e7500,CPU,6113e2758236d84cbf44a7aa
+2.0 GHz (4 cores),669,amd a6-5200,CPU,6113e2758236d84cbf44a7ab
+1.6 GHz (4 cores),668,intel pentium n3700,CPU,6113e2758236d84cbf44a7ac
+1.6 GHz (4 cores),666,amd a6-3410mx,CPU,6113e2758236d84cbf44a7ad
+1.9 GHz (2 cores),666,intel pentium 2127u,CPU,6113e2758236d84cbf44a7ae
+2.1 GHz (2 cores),665,intel core i3-330m,CPU,6113e2758236d84cbf44a7af
+3.1 GHz (2 cores),664,amd athlon ii x2 255,CPU,6113e2758236d84cbf44a7b0
+2.2 GHz (2 cores),664,intel pentium b960,CPU,6113e2758236d84cbf44a7b1
+2.2 GHz (4 cores),664,intel pentium n3520,CPU,6113e2758236d84cbf44a7b2
+1.8 GHz (4 cores),664,intel celeron n2940,CPU,6113e2758236d84cbf44a7b3
+3.0 GHz (2 cores),661,amd athlon ii x2 250,CPU,6113e2758236d84cbf44a7b4
+1.6 GHz (2 cores),661,intel celeron 3855u,CPU,6113e2758236d84cbf44a7b5
+3.2 GHz (2 cores),655,amd athlon ii x2 260,CPU,6113e2758236d84cbf44a7b6
+2.3 GHz (2 cores),655,intel celeron g1610t,CPU,6113e2758236d84cbf44a7b7
+3.2 GHz (2 cores),654,intel pentium e5800,CPU,6113e2758236d84cbf44a7b8
+3.0 GHz (2 cores),654,amd phenom ii x2 b55,CPU,6113e2758236d84cbf44a7b9
+1.4 GHz (4 cores),652,intel atom x5-z8500,CPU,6113e2758236d84cbf44a7ba
+2.2 GHz (4 cores),652,a4 pro-3340b,CPU,6113e2758236d84cbf44a7bb
+1.8 GHz (4 cores),651,intel celeron n2930,CPU,6113e2758236d84cbf44a7bc
+1.6 GHz (4 cores),651,intel celeron n3150,CPU,6113e2758236d84cbf44a7bd
+2.6 GHz (2 cores),651,intel core 2 duo t9500,CPU,6113e2758236d84cbf44a7be
+1.9 GHz (2 cores),649,intel celeron 1005m,CPU,6113e2758236d84cbf44a7bf
+3.0 GHz (2 cores),649,amd phenom ii x2 n660,CPU,6113e2758236d84cbf44a7c0
+2.1 GHz (2 cores),648,intel pentium b950,CPU,6113e2758236d84cbf44a7c1
+1.6 GHz (4 cores),647,amd athlon 5150,CPU,6113e2758236d84cbf44a7c2
+1.8 GHz (4 cores),646,amd e2-7110,CPU,6113e2758236d84cbf44a7c3
+1.8 GHz (2 cores),645,intel celeron 1000m,CPU,6113e2758236d84cbf44a7c4
+3.2 GHz (2 cores),644,amd a4-4020,CPU,6113e2758236d84cbf44a7c5
+2.9 GHz (2 cores),644,amd athlon ii x2 245e,CPU,6113e2758236d84cbf44a7c6
+2.9 GHz (2 cores),643,amd athlon ii x2 245,CPU,6113e2758236d84cbf44a7c7
+2.8 GHz (2 cores),641,amd athlon ii x2 220,CPU,6113e2758236d84cbf44a7c8
+3.5 GHz (2 cores),640,amd a6 pro-7400b,CPU,6113e2758236d84cbf44a7c9
+"930 MHz | 4 GB, GDDR6, 128 bit-1250 MHz",640,t600,GPU,6113e2758236d84cbf44a7ca
+"1266 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",640,quadro p1000,GPU,6113e2758236d84cbf44a7cb
+"1033 MHz | 8 GB, GDDR5, 128 bit-1300 MHz",640,grid m10-8q,GPU,6113e2758236d84cbf44a7cc
+"1033 MHz | 4 GB, GDDR5, 128 bit-1300 MHz",640,grid m3-3020,GPU,6113e2758236d84cbf44a7cd
+"1354 MHz | 2 GB, GDDR5, 128 bit-1752 MHz",640,geforce gtx 1050,GPU,6113e2758236d84cbf44a7ce
+"1033 MHz | 8 GB, GDDR5, 128 bit-1300 MHz",640,tesla m10,GPU,6113e2758236d84cbf44a7cf
+"1020 MHz | 2 GB, GDDR5, 128 bit-1350 MHz",640,geforce gtx 750 ti,GPU,6113e2758236d84cbf44a7d0
+"1046 MHz | 4 GB, GDDR5, 128 bit-1253 MHz",640,quadro k2200,GPU,6113e2758236d84cbf44a7d1
+"1295 MHz | 4 GB, GDDR5, 128 bit-1500 MHz",640,radeon pro wx 3200,GPU,6113e2758236d84cbf44a7d2
+"925 MHz | 2 GB, GDDR5, 128 bit-1125 MHz",640,radeon r7 350 640sp,GPU,6113e2758236d84cbf44a7d3
+"1019 MHz | 4 GB, GDDR5, 64 bit-1500 MHz",640,radeon 550x 640sp,GPU,6113e2758236d84cbf44a7d4
+"1019 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",640,radeon rx 550x 640sp,GPU,6113e2758236d84cbf44a7d5
+"1019 MHz | 2 GB, GDDR5, 128 bit-1500 MHz",640,radeon rx 550 640sp,GPU,6113e2758236d84cbf44a7d6
+"950 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,radeon r7 250x,GPU,6113e2758236d84cbf44a7d7
+"860 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,radeon r7 250xe,GPU,6113e2758236d84cbf44a7d8
+"1000 MHz | 2 GB, GDDR5, 128 bit-1125 MHz",640,radeon hd 8760 oem,GPU,6113e2758236d84cbf44a7d9
+"1000 MHz | 1024 MB, GDDR5, 128 bit-1125 MHz",640,radeon hd 7770 ghz edition,GPU,6113e2758236d84cbf44a7da
+"900 MHz | 4 GB, LPDDR4X, 128 bit-2133 MHz",640,xe dg1 oem,GPU,6113e2758236d84cbf44a7db
+1.4 GHz (2 cores),636,intel core i5-2537m,CPU,6113e2758236d84cbf44a7dc
+1.8 GHz (4 cores),635,amd a4-6210,CPU,6113e2758236d84cbf44a7dd
+2.7 GHz (2 cores),631,intel core 2 duo e6750,CPU,6113e2758236d84cbf44a7de
+1.6 GHz (4 cores),631,amd a8-4555m,CPU,6113e2758236d84cbf44a7df
+1.5 GHz (4 cores),630,amd gx-415ga,CPU,6113e2758236d84cbf44a7e0
+2.8 GHz (2 cores),629,amd athlon ii x2 240,CPU,6113e2758236d84cbf44a7e1
+3.0 GHz (2 cores),627,intel core 2 duo e6850,CPU,6113e2758236d84cbf44a7e2
+1.5 GHz (2 cores),626,intel core i3-2377m,CPU,6113e2758236d84cbf44a7e3
+3.1 GHz (2 cores),625,intel pentium e6600,CPU,6113e2758236d84cbf44a7e4
+2.7 GHz (2 cores),625,amd athlon ii x2 235e,CPU,6113e2758236d84cbf44a7e5
+2.0 GHz (2 cores),624,intel pentium b940,CPU,6113e2758236d84cbf44a7e6
+2.7 GHz (2 cores),623,intel core 2 duo t9550,CPU,6113e2758236d84cbf44a7e7
+1.6 GHz (4 cores),623,intel celeron n3160,CPU,6113e2758236d84cbf44a7e8
+1.8 GHz (2 cores),622,intel pentium 2117u,CPU,6113e2758236d84cbf44a7e9
+3.0 GHz (2 cores),622,amd a4-4000,CPU,6113e2758236d84cbf44a7ea
+1.6 GHz (4 cores),619,intel celeron j3160,CPU,6113e2758236d84cbf44a7eb
+3.4 GHz (2 cores),617,amd a4-5300,CPU,6113e2758236d84cbf44a7ec
+1.5 GHz (2 cores),615,intel celeron 3205u,CPU,6113e2758236d84cbf44a7ed
+2.7 GHz (2 cores),614,intel core 2 duo e7300,CPU,6113e2758236d84cbf44a7ee
+3.0 GHz (2 cores),611,intel pentium e5700,CPU,6113e2758236d84cbf44a7ef
+2.8 GHz (2 cores),609,intel core 2 duo e7400,CPU,6113e2758236d84cbf44a7f0
+2.9 GHz (2 cores),607,amd phenom ii x2 n640,CPU,6113e2758236d84cbf44a7f1
+2.8 GHz (2 cores),603,amd a4-3420,CPU,6113e2758236d84cbf44a7f2
+2.9 GHz (2 cores),601,intel pentium e6500,CPU,6113e2758236d84cbf44a7f3
+2.4 GHz (2 cores),601,intel pentium g640t,CPU,6113e2758236d84cbf44a7f4
+2.5 GHz (2 cores),599,intel core 2 duo t9300,CPU,6113e2758236d84cbf44a7f5
+3.0 GHz (2 cores),599,amd athlon ii x2 b24,CPU,6113e2758236d84cbf44a7f6
+1.8 GHz (2 cores),598,intel celeron 1037u,CPU,6113e2758236d84cbf44a7f7
+1.0 GHz (4 cores),598,intel atom x5-e8000,CPU,6113e2758236d84cbf44a7f8
+2.5 GHz (2 cores),596,intel core 2 duo t9400,CPU,6113e2758236d84cbf44a7f9
+2.4 GHz (2 cores),595,intel core 2 duo p9400,CPU,6113e2758236d84cbf44a7fa
+2.7 GHz (2 cores),595,amd athlon x2 7750 black edition,CPU,6113e2758236d84cbf44a7fb
+2.8 GHz (2 cores),591,intel core 2 duo p9700,CPU,6113e2758236d84cbf44a7fc
+2.5 GHz (2 cores),581,intel core 2 duo p9500,CPU,6113e2758236d84cbf44a7fd
+1.4 GHz (4 cores),579,intel atom x5-z8330,CPU,6113e2758236d84cbf44a7fe
+"824 MHz | 1024 MB, GDDR5, 128 bit-1000 MHz",576,geforce gtx 645 oem,GPU,6113e2758236d84cbf44a7ff
+350 MHz | System Shared-System Shared,576,iris pro graphics p580,GPU,6113e2758236d84cbf44a800
+2.8 GHz (2 cores),575,intel pentium e5500,CPU,6113e2758236d84cbf44a801
+1.5 GHz (2 cores),575,intel core i3-2375m,CPU,6113e2758236d84cbf44a802
+1.4 GHz (2 cores),573,intel core i3-2365m,CPU,6113e2758236d84cbf44a803
+3.4 GHz (2 cores),571,amd a4-5300b,CPU,6113e2758236d84cbf44a804
+2.8 GHz (2 cores),570,intel pentium e6300,CPU,6113e2758236d84cbf44a805
+2.7 GHz (2 cores),570,amd athlon ii x2 215,CPU,6113e2758236d84cbf44a806
+2.5 GHz (2 cores),569,intel core 2 duo p8700,CPU,6113e2758236d84cbf44a807
+1.8 GHz (2 cores),565,intel celeron b830,CPU,6113e2758236d84cbf44a808
+2.0 GHz (2 cores),565,intel celeron j3355,CPU,6113e2758236d84cbf44a809
+2.3 GHz (2 cores),561,intel core 2 duo e6550,CPU,6113e2758236d84cbf44a80a
+1.5 GHz (4 cores),559,amd a4-5000,CPU,6113e2758236d84cbf44a80b
+2.7 GHz (2 cores),554,intel core 2 duo e6700,CPU,6113e2758236d84cbf44a80c
+2.4 GHz (2 cores),554,intel core 2 duo t7700,CPU,6113e2758236d84cbf44a80d
+2.7 GHz (2 cores),554,intel pentium e5400,CPU,6113e2758236d84cbf44a80e
+2.5 GHz (2 cores),551,intel pentium e5200,CPU,6113e2758236d84cbf44a80f
+2.7 GHz (2 cores),549,amd a4-3400,CPU,6113e2758236d84cbf44a810
+1.4 GHz (2 cores),547,intel core i3-2367m,CPU,6113e2758236d84cbf44a811
+2.1 GHz (2 cores),546,intel pentium p6200,CPU,6113e2758236d84cbf44a812
+2.3 GHz (2 cores),545,intel core 2 duo p8400,CPU,6113e2758236d84cbf44a813
+2.4 GHz (2 cores),545,intel core 2 duo p8600,CPU,6113e2758236d84cbf44a814
+2.1 GHz (3 cores),543,amd phenom x3 8400,CPU,6113e2758236d84cbf44a815
+2.6 GHz (2 cores),543,intel pentium e5300,CPU,6113e2758236d84cbf44a816
+1.6 GHz (2 cores),541,intel celeron 1017u,CPU,6113e2758236d84cbf44a817
+2.4 GHz (2 cores),539,intel core 2 duo e6600,CPU,6113e2758236d84cbf44a818
+2.0 GHz (4 cores),535,intel pentium n3510,CPU,6113e2758236d84cbf44a819
+1.7 GHz (2 cores),530,intel celeron b820,CPU,6113e2758236d84cbf44a81a
+1.5 GHz (2 cores),530,intel celeron 1007u,CPU,6113e2758236d84cbf44a81b
+2.5 GHz (2 cores),529,intel core 2 duo e7200,CPU,6113e2758236d84cbf44a81c
+2.4 GHz (2 cores),529,amd turion ii p540,CPU,6113e2758236d84cbf44a81d
+1.4 GHz (4 cores),527,intel atom x5-z8350,CPU,6113e2758236d84cbf44a81e
+2.0 GHz (2 cores),525,intel pentium p6100,CPU,6113e2758236d84cbf44a81f
+1.3 GHz (4 cores),524,amd sempron 3850,CPU,6113e2758236d84cbf44a820
+3.2 GHz (1 core),524,amd athlon x2 340,CPU,6113e2758236d84cbf44a821
+2.4 GHz (2 cores),522,intel core 2 duo e4600,CPU,6113e2758236d84cbf44a822
+1.1 GHz (2 cores),522,intel celeron n3350,CPU,6113e2758236d84cbf44a823
+2.2 GHz (2 cores),520,intel core 2 duo t6670,CPU,6113e2758236d84cbf44a824
+1.5 GHz (4 cores),520,amd e2-6110,CPU,6113e2758236d84cbf44a825
+1.4 GHz (2 cores),517,intel celeron 2955u,CPU,6113e2758236d84cbf44a826

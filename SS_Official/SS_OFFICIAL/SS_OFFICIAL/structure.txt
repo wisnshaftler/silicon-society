@@ -1,0 +1,25 @@
+tabmain - This is main TabGroup. In start this tab group is hidden. After login, this will show
+
+gprlogin- this is group of login button. THis contains the email, password and login button
+
+txtLoginMail - this is the textbox for email for login
+
+txtLoginPass - this is the textbox for password for login
+
+btnLogin - this is login button 
+
+------------------------------------------------------------------------------------------
+
+lblContriCreatedBy - Created By
+
+lblContriRAM - Total RAM
+
+lblContriStatus - Status
+
+lblContriOS - OS
+
+lblContriSeparate - Separate Task
+
+lblSoftID - Software
+
+lblContriDesc -""
